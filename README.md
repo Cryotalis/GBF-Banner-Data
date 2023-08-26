@@ -1,5 +1,5 @@
 # GBF-Banner-Data
-Stores banner data for Granblue Fantasy.
+Stores banner data for Granblue Fantasy. Banners are categorized by the year and month in which they started.
 
 ## Schema
 > [!NOTE]
