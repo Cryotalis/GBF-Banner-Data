@@ -4,8 +4,8 @@ Stores banner data for Granblue Fantasy.
 ## Schema
 > [!NOTE]
 > - Banner Data JSON files contain an object with a bannerInfo (object) property and an items (array) property.
-> - Properties containing **rate1** in their name refer to draw rates for single draws or the first 9 draws of a 10-Part Draw.
-> - Properties containing **rate2** in their name refer to draw rates the last draw of a 10-Part Draw (which excludes R items and guarantees an SR or better).
+> - Properties containing `rate1` in their name refer to draw rates for single draws or the first 9 draws of a 10-Part Draw.
+> - Properties containing `rate2` in their name refer to draw rates the last draw of a 10-Part Draw (which excludes R items and guarantees an SR or better).
 
 ### bannerInfo
 | Property                   | Type     | Description                                                                                                                                                                                                                                                             |
