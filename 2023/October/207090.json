@@ -10,6 +10,13 @@
 			"1040506300",
 			"1040404200"
 		],
+		"seasons": [
+			"Halloween"
+		],
+		"series": [
+			"Halloween",
+			"Fantasy"
+		],
 		"totalRate1": 99.681,
 		"totalRate2": 99.718,
 		"drawRates": {

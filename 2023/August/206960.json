@@ -9,6 +9,16 @@
 			"1040316100",
 			"1040515900"
 		],
+		"seasons": [
+			"Summer",
+			"Yukata"
+		],
+		"series": [
+			"Summer",
+			"Fantasy",
+			"Yukata",
+			"12 Generals"
+		],
 		"totalRate1": 99.602,
 		"totalRate2": 99.637,
 		"drawRates": {

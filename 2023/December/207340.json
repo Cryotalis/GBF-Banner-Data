@@ -10,6 +10,13 @@
 			"1040508700",
 			"1040409100"
 		],
+		"seasons": [
+			"Holiday"
+		],
+		"series": [
+			"Holiday",
+			"Fantasy"
+		],
 		"totalRate1": 99.747,
 		"totalRate2": 99.772,
 		"drawRates": {

@@ -12,6 +12,13 @@
 			"2040409000",
 			"2040418000"
 		],
+		"seasons": [
+			"Valentine"
+		],
+		"series": [
+			"Fantasy",
+			"Valentine"
+		],
 		"totalRate1": 99.728,
 		"totalRate2": 99.787,
 		"drawRates": {

@@ -9,6 +9,15 @@
 			"1040516400",
 			"1040316400"
 		],
+		"seasons": [
+			"Halloween"
+		],
+		"series": [
+			"Halloween",
+			"Grand",
+			"Fantasy",
+			"12 Generals"
+		],
 		"totalRate1": 99.568,
 		"totalRate2": 99.631,
 		"drawRates": {
