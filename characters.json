@@ -1,5 +1,6 @@
 [
 	{
+		"number": "1",
 		"id": "3040004000",
 		"name": "De La Fille",
 		"short_name": "De La Fille",
@@ -19,6 +20,7 @@
 		"weapon_id": "1040400200"
 	},
 	{
+		"number": "2",
 		"id": "3040003000",
 		"name": "Nezahualpilli",
 		"short_name": "Nezahualpilli",
@@ -38,6 +40,7 @@
 		"weapon_id": "1040200200"
 	},
 	{
+		"number": "3",
 		"id": "3020008000",
 		"name": "Anna",
 		"short_name": "Anna",
@@ -57,6 +60,7 @@
 		"weapon_id": "1020400600"
 	},
 	{
+		"number": "4",
 		"id": "3020012000",
 		"name": "Jasmine",
 		"short_name": "Jasmine",
@@ -76,6 +80,7 @@
 		"weapon_id": "1020400000"
 	},
 	{
+		"number": "5",
 		"id": "3020013000",
 		"name": "Walder",
 		"short_name": "Walder",
@@ -95,6 +100,7 @@
 		"weapon_id": "1020100700"
 	},
 	{
+		"number": "6",
 		"id": "3040005000",
 		"name": "Lady Grey",
 		"short_name": "Lady Grey",
@@ -115,6 +121,7 @@
 		"weapon_id": "1040300000"
 	},
 	{
+		"number": "7",
 		"id": "3030001000",
 		"name": "Therese",
 		"short_name": "Therese",
@@ -134,6 +141,7 @@
 		"weapon_id": "1030001300"
 	},
 	{
+		"number": "8",
 		"id": "3030009000",
 		"name": "Gayne",
 		"short_name": "Gayne",
@@ -153,6 +161,7 @@
 		"weapon_id": "1030001400"
 	},
 	{
+		"number": "9",
 		"id": "3030004000",
 		"name": "Helnar",
 		"short_name": "Helnar",
@@ -172,6 +181,7 @@
 		"weapon_id": "1030000300"
 	},
 	{
+		"number": "10",
 		"id": "3030003000",
 		"name": "Alec",
 		"short_name": "Alec",
@@ -191,6 +201,7 @@
 		"weapon_id": "1030600200"
 	},
 	{
+		"number": "11",
 		"id": "3020016000",
 		"name": "Mary",
 		"short_name": "Mary",
@@ -210,6 +221,7 @@
 		"weapon_id": "1020500100"
 	},
 	{
+		"number": "12",
 		"id": "3020017000",
 		"name": "Zehek",
 		"short_name": "Zehek",
@@ -229,6 +241,7 @@
 		"weapon_id": "1020100600"
 	},
 	{
+		"number": "13",
 		"id": "3020018000",
 		"name": "Rosamia",
 		"short_name": "Rosamia",
@@ -248,6 +261,7 @@
 		"weapon_id": "1020000400"
 	},
 	{
+		"number": "14",
 		"id": "3020006000",
 		"name": "Farrah",
 		"short_name": "Farrah",
@@ -267,6 +281,7 @@
 		"weapon_id": "1020000800"
 	},
 	{
+		"number": "15",
 		"id": "3020009000",
 		"name": "Hazen",
 		"short_name": "Hazen",
@@ -287,6 +302,7 @@
 		"weapon_id": "1020600300"
 	},
 	{
+		"number": "16",
 		"id": "3040007000",
 		"name": "Lily",
 		"short_name": "Lily",
@@ -306,6 +322,7 @@
 		"weapon_id": "1040400900"
 	},
 	{
+		"number": "17",
 		"id": "3030002000",
 		"name": "Mishra",
 		"short_name": "Mishra",
@@ -325,6 +342,7 @@
 		"weapon_id": "1030400700"
 	},
 	{
+		"number": "18",
 		"id": "3020014000",
 		"name": "Richard",
 		"short_name": "Richard",
@@ -344,6 +362,7 @@
 		"weapon_id": "1020500800"
 	},
 	{
+		"number": "19",
 		"id": "3040002000",
 		"name": "Aletheia",
 		"short_name": "Aletheia",
@@ -364,6 +383,7 @@
 		"weapon_id": "1040001400"
 	},
 	{
+		"number": "20",
 		"id": "3030012000",
 		"name": "Ange",
 		"short_name": "Ange",
@@ -383,6 +403,7 @@
 		"weapon_id": "1030001800"
 	},
 	{
+		"number": "21",
 		"id": "3020002000",
 		"name": "Eso",
 		"short_name": "Eso",
@@ -402,6 +423,7 @@
 		"weapon_id": "1020301200"
 	},
 	{
+		"number": "22",
 		"id": "3040000000",
 		"name": "Gawain",
 		"short_name": "Gawain",
@@ -422,6 +444,7 @@
 		"weapon_id": "1040300600"
 	},
 	{
+		"number": "23",
 		"id": "3030013000",
 		"name": "Lamretta",
 		"short_name": "Lamretta",
@@ -441,6 +464,7 @@
 		"weapon_id": "1030400800"
 	},
 	{
+		"number": "24",
 		"id": "3020010000",
 		"name": "Will",
 		"short_name": "Will",
@@ -461,6 +485,7 @@
 		"weapon_id": "1020401500"
 	},
 	{
+		"number": "25",
 		"id": "3040006000",
 		"name": "Yuel",
 		"short_name": "Yuel",
@@ -481,6 +506,7 @@
 		"weapon_id": "1040300700"
 	},
 	{
+		"number": "26",
 		"id": "3030014000",
 		"name": "Ulamnuran",
 		"short_name": "Ulamnuran",
@@ -500,6 +526,7 @@
 		"weapon_id": "1030201700"
 	},
 	{
+		"number": "27",
 		"id": "3020019000",
 		"name": "Stan",
 		"short_name": "Stan",
@@ -519,6 +546,7 @@
 		"weapon_id": "1020001500"
 	},
 	{
+		"number": "28",
 		"id": "3030016000",
 		"name": "Jessica",
 		"short_name": "Jessica",
@@ -538,6 +566,7 @@
 		"weapon_id": "1030501100"
 	},
 	{
+		"number": "29",
 		"id": "3040001000",
 		"name": "Altair",
 		"short_name": "Altair",
@@ -557,6 +586,7 @@
 		"weapon_id": "1040000000"
 	},
 	{
+		"number": "30",
 		"id": "3030017000",
 		"name": "Danua",
 		"short_name": "Danua",
@@ -576,6 +606,7 @@
 		"weapon_id": "1030101800"
 	},
 	{
+		"number": "31",
 		"id": "3020004000",
 		"name": "Galadar",
 		"short_name": "Galadar",
@@ -595,6 +626,7 @@
 		"weapon_id": "1020301400"
 	},
 	{
+		"number": "32",
 		"id": "3030015000",
 		"name": "Aliza",
 		"short_name": "Aliza",
@@ -614,6 +646,7 @@
 		"weapon_id": "1030602000"
 	},
 	{
+		"number": "33",
 		"id": "3040008000",
 		"name": "Sarunan",
 		"short_name": "Sarunan",
@@ -633,6 +666,7 @@
 		"weapon_id": "1040401000"
 	},
 	{
+		"number": "34",
 		"id": "3030018000",
 		"name": "Sutera",
 		"short_name": "Sutera",
@@ -652,6 +686,7 @@
 		"weapon_id": "1030700700"
 	},
 	{
+		"number": "35",
 		"id": "3020000000",
 		"name": "Ryan",
 		"short_name": "Ryan",
@@ -671,6 +706,7 @@
 		"weapon_id": "1020301500"
 	},
 	{
+		"number": "36",
 		"id": "3040009000",
 		"name": "Cagliostro",
 		"short_name": "Cagliostro",
@@ -690,6 +726,7 @@
 		"weapon_id": "1040401100"
 	},
 	{
+		"number": "37",
 		"id": "3030020000",
 		"name": "Soriz",
 		"short_name": "Soriz",
@@ -709,6 +746,7 @@
 		"weapon_id": "1030601000"
 	},
 	{
+		"number": "38",
 		"id": "3030021000",
 		"name": "Sara",
 		"short_name": "Sara",
@@ -728,6 +766,7 @@
 		"weapon_id": "1030201800"
 	},
 	{
+		"number": "39",
 		"id": "3020007000",
 		"name": "Volenna",
 		"short_name": "Volenna",
@@ -747,6 +786,7 @@
 		"weapon_id": "1020001800"
 	},
 	{
+		"number": "40",
 		"id": "3030022000",
 		"name": "Jin",
 		"short_name": "Jin",
@@ -766,6 +806,7 @@
 		"weapon_id": "1030701000"
 	},
 	{
+		"number": "41",
 		"id": "3040010000",
 		"name": "Charlotta",
 		"short_name": "Charlotta",
@@ -785,6 +826,7 @@
 		"weapon_id": "1040001600"
 	},
 	{
+		"number": "42",
 		"id": "3030023000",
 		"name": "Elmott",
 		"short_name": "Elmott",
@@ -804,6 +846,7 @@
 		"weapon_id": "1030401300"
 	},
 	{
+		"number": "43",
 		"id": "3020011000",
 		"name": "Petra",
 		"short_name": "Petra",
@@ -823,6 +866,7 @@
 		"weapon_id": "1020401600"
 	},
 	{
+		"number": "44",
 		"id": "3040011000",
 		"name": "Magisa",
 		"short_name": "Magisa",
@@ -843,6 +887,7 @@
 		"weapon_id": "1040401200"
 	},
 	{
+		"number": "45",
 		"id": "3030019000",
 		"name": "Vira",
 		"short_name": "Vira",
@@ -862,6 +907,7 @@
 		"weapon_id": "1030001900"
 	},
 	{
+		"number": "46",
 		"id": "3020020000",
 		"name": "Feather",
 		"short_name": "Feather",
@@ -881,6 +927,7 @@
 		"weapon_id": "1020601100"
 	},
 	{
+		"number": "47",
 		"id": "3040012000",
 		"name": "Metera",
 		"short_name": "Metera",
@@ -900,6 +947,7 @@
 		"weapon_id": "1040700400"
 	},
 	{
+		"number": "48",
 		"id": "3030025000",
 		"name": "Elta",
 		"short_name": "Elta",
@@ -919,6 +967,7 @@
 		"weapon_id": "1030800000"
 	},
 	{
+		"number": "49",
 		"id": "3020001000",
 		"name": "Herja",
 		"short_name": "Herja",
@@ -938,6 +987,7 @@
 		"weapon_id": "1020001900"
 	},
 	{
+		"number": "50",
 		"id": "3030026000",
 		"name": "Selfira",
 		"short_name": "Selfira",
@@ -957,6 +1007,7 @@
 		"weapon_id": "1030800100"
 	},
 	{
+		"number": "51",
 		"id": "3030024000",
 		"name": "Keehar",
 		"short_name": "Keehar",
@@ -976,6 +1027,7 @@
 		"weapon_id": "1030800300"
 	},
 	{
+		"number": "52",
 		"id": "3040013000",
 		"name": "Seruel",
 		"short_name": "Seruel",
@@ -995,6 +1047,7 @@
 		"weapon_id": "1040001900"
 	},
 	{
+		"number": "53",
 		"id": "3030027000",
 		"name": "Ezecrain",
 		"short_name": "Ezecrain",
@@ -1014,6 +1067,7 @@
 		"weapon_id": "1030601100"
 	},
 	{
+		"number": "54",
 		"id": "3020021000",
 		"name": "Anna",
 		"short_name": "Anna",
@@ -1035,6 +1089,7 @@
 		"weapon_id": "1020402100"
 	},
 	{
+		"number": "55",
 		"id": "3040014000",
 		"name": "De La Fille",
 		"short_name": "De La Fille",
@@ -1056,6 +1111,7 @@
 		"weapon_id": "1040101300"
 	},
 	{
+		"number": "56",
 		"id": "3030029000",
 		"name": "Katalina",
 		"short_name": "Katalina",
@@ -1077,6 +1133,7 @@
 		"weapon_id": "1030002400"
 	},
 	{
+		"number": "57",
 		"id": "3030030000",
 		"name": "Jessica",
 		"short_name": "Jessica",
@@ -1098,6 +1155,7 @@
 		"weapon_id": "1030501300"
 	},
 	{
+		"number": "58",
 		"id": "3020022000",
 		"name": "Walder",
 		"short_name": "Walder",
@@ -1119,6 +1177,7 @@
 		"weapon_id": "1020102100"
 	},
 	{
+		"number": "59",
 		"id": "3030028000",
 		"name": "Sig",
 		"short_name": "Sig",
@@ -1138,6 +1197,7 @@
 		"weapon_id": "1030202300"
 	},
 	{
+		"number": "60",
 		"id": "3040015000",
 		"name": "Io",
 		"short_name": "Io",
@@ -1159,6 +1219,7 @@
 		"weapon_id": "1040401300"
 	},
 	{
+		"number": "61",
 		"id": "3030032000",
 		"name": "Ferry",
 		"short_name": "Ferry",
@@ -1178,6 +1239,7 @@
 		"weapon_id": "1030102300"
 	},
 	{
+		"number": "62",
 		"id": "3030031000",
 		"name": "Helnar",
 		"short_name": "Helnar",
@@ -1199,6 +1261,7 @@
 		"weapon_id": "1030002600"
 	},
 	{
+		"number": "63",
 		"id": "3020023000",
 		"name": "Mary",
 		"short_name": "Mary",
@@ -1220,6 +1283,7 @@
 		"weapon_id": "1020501200"
 	},
 	{
+		"number": "64",
 		"id": "3030000000",
 		"name": "Naoise",
 		"short_name": "Naoise",
@@ -1239,6 +1303,7 @@
 		"weapon_id": "1030200400"
 	},
 	{
+		"number": "65",
 		"id": "3030011000",
 		"name": "Abby",
 		"short_name": "Abby",
@@ -1258,6 +1323,7 @@
 		"weapon_id": "1030300000"
 	},
 	{
+		"number": "66",
 		"id": "3040016000",
 		"name": "Cerberus",
 		"short_name": "Cerberus",
@@ -1277,6 +1343,7 @@
 		"weapon_id": "1040600600"
 	},
 	{
+		"number": "67",
 		"id": "3030033000",
 		"name": "Lucius",
 		"short_name": "Lucius",
@@ -1296,6 +1363,7 @@
 		"weapon_id": "1030002700"
 	},
 	{
+		"number": "68",
 		"id": "3030034000",
 		"name": "Teena",
 		"short_name": "Teena",
@@ -1315,6 +1383,7 @@
 		"weapon_id": "1030102400"
 	},
 	{
+		"number": "69",
 		"id": "3020015000",
 		"name": "Tanya",
 		"short_name": "Tanya",
@@ -1334,6 +1403,7 @@
 		"weapon_id": "1020102200"
 	},
 	{
+		"number": "70",
 		"id": "3040017000",
 		"name": "Agielba",
 		"short_name": "Agielba",
@@ -1353,6 +1423,7 @@
 		"weapon_id": "1040101800"
 	},
 	{
+		"number": "71",
 		"id": "3030036000",
 		"name": "Arusha",
 		"short_name": "Arusha",
@@ -1372,6 +1443,7 @@
 		"weapon_id": "1030401700"
 	},
 	{
+		"number": "72",
 		"id": "3020024000",
 		"name": "Daetta",
 		"short_name": "Daetta",
@@ -1391,6 +1463,7 @@
 		"weapon_id": "1020301800"
 	},
 	{
+		"number": "73",
 		"id": "3040019000",
 		"name": "Arulumaya",
 		"short_name": "Arulumaya",
@@ -1410,6 +1483,7 @@
 		"weapon_id": "1040201700"
 	},
 	{
+		"number": "74",
 		"id": "3030037000",
 		"name": "Farrah",
 		"short_name": "Farrah",
@@ -1429,6 +1503,7 @@
 		"weapon_id": "1030102600"
 	},
 	{
+		"number": "75",
 		"id": "3020005000",
 		"name": "Deliford",
 		"short_name": "Deliford",
@@ -1448,6 +1523,7 @@
 		"weapon_id": "1020201600"
 	},
 	{
+		"number": "76",
 		"id": "3040020000",
 		"name": "Charlotta",
 		"short_name": "Charlotta",
@@ -1469,6 +1545,7 @@
 		"weapon_id": "1040102000"
 	},
 	{
+		"number": "77",
 		"id": "3030042000",
 		"name": "Ange",
 		"short_name": "Ange",
@@ -1490,6 +1567,7 @@
 		"weapon_id": "1030800500"
 	},
 	{
+		"number": "78",
 		"id": "3040021000",
 		"name": "Lennah",
 		"short_name": "Lennah",
@@ -1509,6 +1587,7 @@
 		"weapon_id": "1040500700"
 	},
 	{
+		"number": "79",
 		"id": "3030043000",
 		"name": "Mimlemel",
 		"short_name": "Mimlemel",
@@ -1528,6 +1607,7 @@
 		"weapon_id": "1030601500"
 	},
 	{
+		"number": "80",
 		"id": "3020025000",
 		"name": "Elmelaura",
 		"short_name": "Elmelaura",
@@ -1547,6 +1627,7 @@
 		"weapon_id": "1020201700"
 	},
 	{
+		"number": "81",
 		"id": "3030039000",
 		"name": "Noa",
 		"short_name": "Noa",
@@ -1566,6 +1647,7 @@
 		"weapon_id": "1030402100"
 	},
 	{
+		"number": "82",
 		"id": "3030045000",
 		"name": "Mariah",
 		"short_name": "Mariah",
@@ -1585,6 +1667,7 @@
 		"weapon_id": "1030202600"
 	},
 	{
+		"number": "83",
 		"id": "3040022000",
 		"name": "Melleau",
 		"short_name": "Melleau",
@@ -1605,6 +1688,7 @@
 		"weapon_id": "1040301200"
 	},
 	{
+		"number": "84",
 		"id": "3020026000",
 		"name": "Leonora",
 		"short_name": "Leonora",
@@ -1624,6 +1708,7 @@
 		"weapon_id": "1020002000"
 	},
 	{
+		"number": "85",
 		"id": "3040023000",
 		"name": "Lancelot",
 		"short_name": "Lancelot",
@@ -1644,6 +1729,7 @@
 		"weapon_id": "1040102100"
 	},
 	{
+		"number": "86",
 		"id": "3040024000",
 		"name": "Sophia",
 		"short_name": "Sophia",
@@ -1663,6 +1749,7 @@
 		"weapon_id": "1040800200"
 	},
 	{
+		"number": "87",
 		"id": "3020027000",
 		"name": "Garma",
 		"short_name": "Garma",
@@ -1682,6 +1769,7 @@
 		"weapon_id": "1020501300"
 	},
 	{
+		"number": "88",
 		"id": "3030046000",
 		"name": "Carren",
 		"short_name": "Carren",
@@ -1701,6 +1789,7 @@
 		"weapon_id": "1030003400"
 	},
 	{
+		"number": "89",
 		"id": "3040026000",
 		"name": "Rosetta",
 		"short_name": "Rosetta",
@@ -1722,6 +1811,7 @@
 		"weapon_id": "1040202000"
 	},
 	{
+		"number": "90",
 		"id": "3030048000",
 		"name": "Rackam",
 		"short_name": "Rackam",
@@ -1743,6 +1833,7 @@
 		"weapon_id": "1030800800"
 	},
 	{
+		"number": "91",
 		"id": "3020028000",
 		"name": "Walder",
 		"short_name": "Walder",
@@ -1764,6 +1855,7 @@
 		"weapon_id": "1020402200"
 	},
 	{
+		"number": "92",
 		"id": "3040027000",
 		"name": "Anila",
 		"short_name": "Anila",
@@ -1786,6 +1878,7 @@
 		"weapon_id": "1040202800"
 	},
 	{
+		"number": "93",
 		"id": "3040028000",
 		"name": "Zeta",
 		"short_name": "Zeta",
@@ -1805,6 +1898,7 @@
 		"weapon_id": "1040200300"
 	},
 	{
+		"number": "94",
 		"id": "3040029000",
 		"name": "Vaseraga",
 		"short_name": "Vaseraga",
@@ -1824,6 +1918,7 @@
 		"weapon_id": "1040003100"
 	},
 	{
+		"number": "95",
 		"id": "3030049000",
 		"name": "Rosamia",
 		"short_name": "Rosamia",
@@ -1843,6 +1938,7 @@
 		"weapon_id": "1030402900"
 	},
 	{
+		"number": "96",
 		"id": "3020029000",
 		"name": "Suframare",
 		"short_name": "Suframare",
@@ -1862,6 +1958,7 @@
 		"weapon_id": "1020402300"
 	},
 	{
+		"number": "97",
 		"id": "3040040000",
 		"name": "Jeanne d'Arc",
 		"short_name": "Jeanne d'Arc",
@@ -1882,6 +1979,7 @@
 		"weapon_id": "1040000500"
 	},
 	{
+		"number": "98",
 		"id": "3030053000",
 		"name": "Baotorda",
 		"short_name": "Baotorda",
@@ -1901,6 +1999,7 @@
 		"weapon_id": "1030000000"
 	},
 	{
+		"number": "99",
 		"id": "3020030000",
 		"name": "Yodarha",
 		"short_name": "Yodarha",
@@ -1921,6 +2020,7 @@
 		"weapon_id": "1020002100"
 	},
 	{
+		"number": "100",
 		"id": "3040025000",
 		"name": "Siegfried",
 		"short_name": "Siegfried",
@@ -1941,6 +2041,7 @@
 		"weapon_id": "1040000300"
 	},
 	{
+		"number": "101",
 		"id": "3040041000",
 		"name": "Sara",
 		"short_name": "Sara",
@@ -1960,6 +2061,7 @@
 		"weapon_id": "1040801100"
 	},
 	{
+		"number": "102",
 		"id": "3030055000",
 		"name": "Ladiva",
 		"short_name": "Ladiva",
@@ -1979,6 +2081,7 @@
 		"weapon_id": "1030603400"
 	},
 	{
+		"number": "103",
 		"id": "3020031000",
 		"name": "Lowain",
 		"short_name": "Lowain",
@@ -1998,6 +2101,7 @@
 		"weapon_id": "1020102300"
 	},
 	{
+		"number": "104",
 		"id": "3030057000",
 		"name": "Claudia",
 		"short_name": "Claudia",
@@ -2017,6 +2121,7 @@
 		"weapon_id": "1030203500"
 	},
 	{
+		"number": "105",
 		"id": "3030058000",
 		"name": "Dorothy",
 		"short_name": "Dorothy",
@@ -2036,6 +2141,7 @@
 		"weapon_id": "1030603500"
 	},
 	{
+		"number": "106",
 		"id": "3040042000",
 		"name": "Carmelina",
 		"short_name": "Carmelina",
@@ -2055,6 +2161,7 @@
 		"weapon_id": "1040200800"
 	},
 	{
+		"number": "107",
 		"id": "3020032000",
 		"name": "Camieux",
 		"short_name": "Camieux",
@@ -2074,6 +2181,7 @@
 		"weapon_id": "1020402400"
 	},
 	{
+		"number": "108",
 		"id": "3030059000",
 		"name": "Zaja",
 		"short_name": "Zaja",
@@ -2093,6 +2201,7 @@
 		"weapon_id": "1030302800"
 	},
 	{
+		"number": "109",
 		"id": "3040043000",
 		"name": "Vira",
 		"short_name": "Vira",
@@ -2112,6 +2221,7 @@
 		"weapon_id": "1040003600"
 	},
 	{
+		"number": "110",
 		"id": "3040044000",
 		"name": "Societte",
 		"short_name": "Societte",
@@ -2132,6 +2242,7 @@
 		"weapon_id": "1040602500"
 	},
 	{
+		"number": "111",
 		"id": "3020033000",
 		"name": "Norcel",
 		"short_name": "Norcel",
@@ -2151,6 +2262,7 @@
 		"weapon_id": "1020402500"
 	},
 	{
+		"number": "112",
 		"id": "3030061000",
 		"name": "Ejaeli",
 		"short_name": "Ejaeli",
@@ -2170,6 +2282,7 @@
 		"weapon_id": "1030802100"
 	},
 	{
+		"number": "113",
 		"id": "3040045000",
 		"name": "Albert",
 		"short_name": "Albert",
@@ -2189,6 +2302,7 @@
 		"weapon_id": "1040001000"
 	},
 	{
+		"number": "114",
 		"id": "3020034000",
 		"name": "Barawa",
 		"short_name": "Barawa",
@@ -2208,6 +2322,7 @@
 		"weapon_id": "1020501400"
 	},
 	{
+		"number": "115",
 		"id": "3030062000",
 		"name": "Therese",
 		"short_name": "Therese",
@@ -2227,6 +2342,7 @@
 		"weapon_id": "1030004500"
 	},
 	{
+		"number": "116",
 		"id": "3020035000",
 		"name": "Krugne",
 		"short_name": "Krugne",
@@ -2246,6 +2362,7 @@
 		"weapon_id": "1020002200"
 	},
 	{
+		"number": "117",
 		"id": "3030064000",
 		"name": "Milleore",
 		"short_name": "Milleore",
@@ -2265,6 +2382,7 @@
 		"weapon_id": "1030702600"
 	},
 	{
+		"number": "118",
 		"id": "3040046000",
 		"name": "Clarisse",
 		"short_name": "Clarisse",
@@ -2284,6 +2402,7 @@
 		"weapon_id": "1040802100"
 	},
 	{
+		"number": "119",
 		"id": "3020036000",
 		"name": "Karva",
 		"short_name": "Karva",
@@ -2303,6 +2422,7 @@
 		"weapon_id": "1020501500"
 	},
 	{
+		"number": "120",
 		"id": "3030066000",
 		"name": "Hazen",
 		"short_name": "Hazen",
@@ -2323,6 +2443,7 @@
 		"weapon_id": "1030603800"
 	},
 	{
+		"number": "121",
 		"id": "3040047000",
 		"name": "Petra",
 		"short_name": "Petra",
@@ -2342,6 +2463,7 @@
 		"weapon_id": "1040103800"
 	},
 	{
+		"number": "122",
 		"id": "3040048000",
 		"name": "Sarunan",
 		"short_name": "Sarunan",
@@ -2361,6 +2483,7 @@
 		"weapon_id": "1040403800"
 	},
 	{
+		"number": "123",
 		"id": "3020037000",
 		"name": "Vanzza",
 		"short_name": "Vanzza",
@@ -2380,6 +2503,7 @@
 		"weapon_id": "1020601300"
 	},
 	{
+		"number": "124",
 		"id": "3030075000",
 		"name": "J.J.",
 		"short_name": "J.J.",
@@ -2399,6 +2523,7 @@
 		"weapon_id": "1030603900"
 	},
 	{
+		"number": "125",
 		"id": "3020038000",
 		"name": "Ippatsu",
 		"short_name": "Ippatsu",
@@ -2418,6 +2543,7 @@
 		"weapon_id": "1020601400"
 	},
 	{
+		"number": "126",
 		"id": "3030076000",
 		"name": "Sahli Lao",
 		"short_name": "Sahli Lao",
@@ -2437,6 +2563,7 @@
 		"weapon_id": "1030502900"
 	},
 	{
+		"number": "127",
 		"id": "3040049000",
 		"name": "Silva",
 		"short_name": "Silva",
@@ -2456,6 +2583,7 @@
 		"weapon_id": "1040502400"
 	},
 	{
+		"number": "128",
 		"id": "3020039000",
 		"name": "Philosophia",
 		"short_name": "Philosophia",
@@ -2475,6 +2603,7 @@
 		"weapon_id": "1020402600"
 	},
 	{
+		"number": "129",
 		"id": "3030068000",
 		"name": "Mary",
 		"short_name": "Mary",
@@ -2494,6 +2623,7 @@
 		"weapon_id": "1030503000"
 	},
 	{
+		"number": "130",
 		"id": "3040050000",
 		"name": "Percival",
 		"short_name": "Percival",
@@ -2513,6 +2643,7 @@
 		"weapon_id": "1040004400"
 	},
 	{
+		"number": "131",
 		"id": "3030078000",
 		"name": "Feather",
 		"short_name": "Feather",
@@ -2532,6 +2663,7 @@
 		"weapon_id": "1030604000"
 	},
 	{
+		"number": "132",
 		"id": "3020040000",
 		"name": "Joel",
 		"short_name": "Joel",
@@ -2551,6 +2683,7 @@
 		"weapon_id": "1020201800"
 	},
 	{
+		"number": "133",
 		"id": "3040051000",
 		"name": "Amira",
 		"short_name": "Amira",
@@ -2570,6 +2703,7 @@
 		"weapon_id": "1040902100"
 	},
 	{
+		"number": "134",
 		"id": "3040052000",
 		"name": "Ghandagoza",
 		"short_name": "Ghandagoza",
@@ -2589,6 +2723,7 @@
 		"weapon_id": "1040602900"
 	},
 	{
+		"number": "135",
 		"id": "3030083000",
 		"name": "Elmott",
 		"short_name": "Elmott",
@@ -2610,6 +2745,7 @@
 		"weapon_id": "1030403400"
 	},
 	{
+		"number": "136",
 		"id": "3030084000",
 		"name": "Tanya",
 		"short_name": "Tanya",
@@ -2631,6 +2767,7 @@
 		"weapon_id": "1030103900"
 	},
 	{
+		"number": "137",
 		"id": "3040054000",
 		"name": "Katalina",
 		"short_name": "Katalina",
@@ -2652,6 +2789,7 @@
 		"weapon_id": "1040004600"
 	},
 	{
+		"number": "138",
 		"id": "3020041000",
 		"name": "Lowain",
 		"short_name": "Lowain",
@@ -2673,6 +2811,7 @@
 		"weapon_id": "1020102400"
 	},
 	{
+		"number": "139",
 		"id": "3030085000",
 		"name": "Eugen",
 		"short_name": "Eugen",
@@ -2694,6 +2833,7 @@
 		"weapon_id": "1030503100"
 	},
 	{
+		"number": "140",
 		"id": "3040053000",
 		"name": "Vira",
 		"short_name": "Vira",
@@ -2715,6 +2855,7 @@
 		"weapon_id": "1040004700"
 	},
 	{
+		"number": "141",
 		"id": "3030087000",
 		"name": "Lecia",
 		"short_name": "Lecia",
@@ -2736,6 +2877,7 @@
 		"weapon_id": "1030004800"
 	},
 	{
+		"number": "142",
 		"id": "3040055000",
 		"name": "Danua",
 		"short_name": "Danua",
@@ -2757,6 +2899,7 @@
 		"weapon_id": "1040902400"
 	},
 	{
+		"number": "143",
 		"id": "3040056000",
 		"name": "Zeta",
 		"short_name": "Zeta",
@@ -2778,6 +2921,7 @@
 		"weapon_id": "1040200000"
 	},
 	{
+		"number": "144",
 		"id": "3030091000",
 		"name": "Suframare",
 		"short_name": "Suframare",
@@ -2799,6 +2943,7 @@
 		"weapon_id": "1030403500"
 	},
 	{
+		"number": "145",
 		"id": "3020043000",
 		"name": "Karteira",
 		"short_name": "Karteira",
@@ -2818,6 +2963,7 @@
 		"weapon_id": "1020002300"
 	},
 	{
+		"number": "146",
 		"id": "3030092000",
 		"name": "Will",
 		"short_name": "Will",
@@ -2838,6 +2984,7 @@
 		"weapon_id": "1030403600"
 	},
 	{
+		"number": "147",
 		"id": "3040057000",
 		"name": "Vania",
 		"short_name": "Vania",
@@ -2858,6 +3005,7 @@
 		"weapon_id": "1040100000"
 	},
 	{
+		"number": "148",
 		"id": "3040058000",
 		"name": "Arriet",
 		"short_name": "Arriet",
@@ -2877,6 +3025,7 @@
 		"weapon_id": "1040802400"
 	},
 	{
+		"number": "149",
 		"id": "3030094000",
 		"name": "Galadar",
 		"short_name": "Galadar",
@@ -2896,6 +3045,7 @@
 		"weapon_id": "1030303000"
 	},
 	{
+		"number": "150",
 		"id": "3020044000",
 		"name": "Dante",
 		"short_name": "Dante",
@@ -2915,6 +3065,7 @@
 		"weapon_id": "1020402700"
 	},
 	{
+		"number": "151",
 		"id": "3040059000",
 		"name": "Rackam",
 		"short_name": "Rackam",
@@ -2936,6 +3087,7 @@
 		"weapon_id": "1040502500"
 	},
 	{
+		"number": "152",
 		"id": "3040060000",
 		"name": "Heles",
 		"short_name": "Heles",
@@ -2956,6 +3108,7 @@
 		"weapon_id": "1040203900"
 	},
 	{
+		"number": "153",
 		"id": "3030095000",
 		"name": "Anna",
 		"short_name": "Anna",
@@ -2975,6 +3128,7 @@
 		"weapon_id": "1030403700"
 	},
 	{
+		"number": "154",
 		"id": "3020045000",
 		"name": "Pavidus",
 		"short_name": "Pavidus",
@@ -2994,6 +3148,7 @@
 		"weapon_id": "1020601500"
 	},
 	{
+		"number": "155",
 		"id": "3040061000",
 		"name": "Feena",
 		"short_name": "Feena",
@@ -3013,6 +3168,7 @@
 		"weapon_id": "1040702500"
 	},
 	{
+		"number": "156",
 		"id": "3030100000",
 		"name": "Goblin Mage",
 		"short_name": "Goblin Mage",
@@ -3032,6 +3188,7 @@
 		"weapon_id": "1030403800"
 	},
 	{
+		"number": "157",
 		"id": "3040062000",
 		"name": "Cagliostro",
 		"short_name": "Cagliostro",
@@ -3053,6 +3210,7 @@
 		"weapon_id": "1040404200"
 	},
 	{
+		"number": "158",
 		"id": "3030101000",
 		"name": "Ferry",
 		"short_name": "Ferry",
@@ -3074,6 +3232,7 @@
 		"weapon_id": "1030004900"
 	},
 	{
+		"number": "159",
 		"id": "3040063000",
 		"name": "Narmaya",
 		"short_name": "Narmaya",
@@ -3093,6 +3252,7 @@
 		"weapon_id": "1040900100"
 	},
 	{
+		"number": "160",
 		"id": "3030102000",
 		"name": "Jasmine",
 		"short_name": "Jasmine",
@@ -3112,6 +3272,7 @@
 		"weapon_id": "1030403900"
 	},
 	{
+		"number": "161",
 		"id": "3020046000",
 		"name": "Viceroy",
 		"short_name": "Viceroy",
@@ -3131,6 +3292,7 @@
 		"weapon_id": "1020301900"
 	},
 	{
+		"number": "162",
 		"id": "3040064000",
 		"name": "Yodarha",
 		"short_name": "Yodarha",
@@ -3151,6 +3313,7 @@
 		"weapon_id": "1040902600"
 	},
 	{
+		"number": "163",
 		"id": "3030106000",
 		"name": "Sig",
 		"short_name": "Sig",
@@ -3171,6 +3334,7 @@
 		"weapon_id": "1030204400"
 	},
 	{
+		"number": "164",
 		"id": "3020047000",
 		"name": "Camieux",
 		"short_name": "Camieux",
@@ -3190,6 +3354,7 @@
 		"weapon_id": "1020402800"
 	},
 	{
+		"number": "165",
 		"id": "3040065000",
 		"name": "Io",
 		"short_name": "Io",
@@ -3211,6 +3376,7 @@
 		"weapon_id": "1040404300"
 	},
 	{
+		"number": "166",
 		"id": "3040066000",
 		"name": "Lilele",
 		"short_name": "Lilele",
@@ -3230,6 +3396,7 @@
 		"weapon_id": "1040802600"
 	},
 	{
+		"number": "167",
 		"id": "3030107000",
 		"name": "Vane",
 		"short_name": "Vane",
@@ -3250,6 +3417,7 @@
 		"weapon_id": "1030204500"
 	},
 	{
+		"number": "168",
 		"id": "3020048000",
 		"name": "Bridgette",
 		"short_name": "Bridgette",
@@ -3269,6 +3437,7 @@
 		"weapon_id": "1020002400"
 	},
 	{
+		"number": "169",
 		"id": "3040067000",
 		"name": "Clarisse",
 		"short_name": "Clarisse",
@@ -3290,6 +3459,7 @@
 		"weapon_id": "1040802700"
 	},
 	{
+		"number": "170",
 		"id": "3030109000",
 		"name": "Ladiva",
 		"short_name": "Ladiva",
@@ -3311,6 +3481,7 @@
 		"weapon_id": "1030604300"
 	},
 	{
+		"number": "171",
 		"id": "3040068000",
 		"name": "Rosetta",
 		"short_name": "Rosetta",
@@ -3332,6 +3503,7 @@
 		"weapon_id": "1040105400"
 	},
 	{
+		"number": "172",
 		"id": "3040071000",
 		"name": "Andira",
 		"short_name": "Andira",
@@ -3354,6 +3526,7 @@
 		"weapon_id": "1040904200"
 	},
 	{
+		"number": "173",
 		"id": "3040069000",
 		"name": "Eustace",
 		"short_name": "Eustace",
@@ -3373,6 +3546,7 @@
 		"weapon_id": "1040503400"
 	},
 	{
+		"number": "174",
 		"id": "3040070000",
 		"name": "Beatrix",
 		"short_name": "Beatrix",
@@ -3392,6 +3566,7 @@
 		"weapon_id": "1040005800"
 	},
 	{
+		"number": "175",
 		"id": "3030111000",
 		"name": "Yaia",
 		"short_name": "Yaia",
@@ -3411,6 +3586,7 @@
 		"weapon_id": "1030005400"
 	},
 	{
+		"number": "176",
 		"id": "3040072000",
 		"name": "Metera",
 		"short_name": "Metera",
@@ -3430,6 +3606,7 @@
 		"weapon_id": "1040703300"
 	},
 	{
+		"number": "177",
 		"id": "3030113000",
 		"name": "Sutera",
 		"short_name": "Sutera",
@@ -3449,6 +3626,7 @@
 		"weapon_id": "1030703200"
 	},
 	{
+		"number": "178",
 		"id": "3020049000",
 		"name": "Flesselles",
 		"short_name": "Flesselles",
@@ -3468,6 +3646,7 @@
 		"weapon_id": "1020700700"
 	},
 	{
+		"number": "179",
 		"id": "3040073000",
 		"name": "Ferry",
 		"short_name": "Ferry",
@@ -3487,6 +3666,7 @@
 		"weapon_id": "1040006100"
 	},
 	{
+		"number": "180",
 		"id": "3030116000",
 		"name": "Daetta",
 		"short_name": "Daetta",
@@ -3506,6 +3686,7 @@
 		"weapon_id": "1030303200"
 	},
 	{
+		"number": "181",
 		"id": "3020050000",
 		"name": "Lunalu",
 		"short_name": "Lunalu",
@@ -3525,6 +3706,7 @@
 		"weapon_id": "1020800100"
 	},
 	{
+		"number": "182",
 		"id": "3040074000",
 		"name": "Catherine",
 		"short_name": "Catherine",
@@ -3544,6 +3726,7 @@
 		"weapon_id": "1040106300"
 	},
 	{
+		"number": "183",
 		"id": "3030118000",
 		"name": "Sevilbarra",
 		"short_name": "Sevilbarra",
@@ -3563,6 +3746,7 @@
 		"weapon_id": "1030901800"
 	},
 	{
+		"number": "184",
 		"id": "3020051000",
 		"name": "Nene",
 		"short_name": "Nene",
@@ -3582,6 +3766,7 @@
 		"weapon_id": "1020601600"
 	},
 	{
+		"number": "185",
 		"id": "3040077000",
 		"name": "Eugen",
 		"short_name": "Eugen",
@@ -3603,6 +3788,7 @@
 		"weapon_id": "1040504300"
 	},
 	{
+		"number": "186",
 		"id": "3040075000",
 		"name": "Zahlhamelina",
 		"short_name": "Zahlhamelina",
@@ -3622,6 +3808,7 @@
 		"weapon_id": "1040406800"
 	},
 	{
+		"number": "187",
 		"id": "3040076000",
 		"name": "Aoidos",
 		"short_name": "Aoidos",
@@ -3642,6 +3829,7 @@
 		"weapon_id": "1040304200"
 	},
 	{
+		"number": "188",
 		"id": "3030119000",
 		"name": "Ryan",
 		"short_name": "Ryan",
@@ -3661,6 +3849,7 @@
 		"weapon_id": "1030303300"
 	},
 	{
+		"number": "189",
 		"id": "3020052000",
 		"name": "Lamretta",
 		"short_name": "Lamretta",
@@ -3680,6 +3869,7 @@
 		"weapon_id": "1020102500"
 	},
 	{
+		"number": "190",
 		"id": "3040079000",
 		"name": "Hallessena",
 		"short_name": "Hallessena",
@@ -3699,6 +3889,7 @@
 		"weapon_id": "1040305500"
 	},
 	{
+		"number": "191",
 		"id": "3030122000",
 		"name": "Redluck",
 		"short_name": "Redluck",
@@ -3718,6 +3909,7 @@
 		"weapon_id": "1030204800"
 	},
 	{
+		"number": "192",
 		"id": "3040080000",
 		"name": "Jeanne d'Arc",
 		"short_name": "Jeanne d'Arc",
@@ -3737,6 +3929,7 @@
 		"weapon_id": "1040008600"
 	},
 	{
+		"number": "193",
 		"id": "3030124000",
 		"name": "Shao",
 		"short_name": "Shao",
@@ -3756,6 +3949,7 @@
 		"weapon_id": "1030104700"
 	},
 	{
+		"number": "194",
 		"id": "3020053000",
 		"name": "Alistair",
 		"short_name": "Alistair",
@@ -3775,6 +3969,7 @@
 		"weapon_id": "1020402900"
 	},
 	{
+		"number": "195",
 		"id": "3040081000",
 		"name": "Korwa",
 		"short_name": "Korwa",
@@ -3794,6 +3989,7 @@
 		"weapon_id": "1040408200"
 	},
 	{
+		"number": "196",
 		"id": "3030127000",
 		"name": "Sen",
 		"short_name": "Sen",
@@ -3813,6 +4009,7 @@
 		"weapon_id": "1030604700"
 	},
 	{
+		"number": "197",
 		"id": "3020054000",
 		"name": "Vermeil",
 		"short_name": "Vermeil",
@@ -3832,6 +4029,7 @@
 		"weapon_id": "1020002500"
 	},
 	{
+		"number": "198",
 		"id": "3040082000",
 		"name": "Black Knight",
 		"short_name": "Black Knight",
@@ -3854,6 +4052,7 @@
 		"weapon_id": "1040008700"
 	},
 	{
+		"number": "199",
 		"id": "3040083000",
 		"name": "Aliza",
 		"short_name": "Aliza",
@@ -3873,6 +4072,7 @@
 		"weapon_id": "1040605600"
 	},
 	{
+		"number": "200",
 		"id": "3030128000",
 		"name": "Eso",
 		"short_name": "Eso",
@@ -3892,6 +4092,7 @@
 		"weapon_id": "1030303600"
 	},
 	{
+		"number": "201",
 		"id": "3020055000",
 		"name": "Balurga",
 		"short_name": "Balurga",
@@ -3911,6 +4112,7 @@
 		"weapon_id": "1020601700"
 	},
 	{
+		"number": "202",
 		"id": "3040084000",
 		"name": "Ayer",
 		"short_name": "Ayer",
@@ -3930,6 +4132,7 @@
 		"weapon_id": "1040605700"
 	},
 	{
+		"number": "203",
 		"id": "3030133000",
 		"name": "Laguna",
 		"short_name": "Laguna",
@@ -3949,6 +4152,7 @@
 		"weapon_id": "1030205000"
 	},
 	{
+		"number": "204",
 		"id": "3020056000",
 		"name": "Thelonim",
 		"short_name": "Thelonim",
@@ -3968,6 +4172,7 @@
 		"weapon_id": "1020002600"
 	},
 	{
+		"number": "205",
 		"id": "3040085000",
 		"name": "Nemone",
 		"short_name": "Nemone",
@@ -3988,6 +4193,7 @@
 		"weapon_id": "1040305700"
 	},
 	{
+		"number": "206",
 		"id": "3030134000",
 		"name": "Jamil",
 		"short_name": "Jamil",
@@ -4007,6 +4213,7 @@
 		"weapon_id": "1030104900"
 	},
 	{
+		"number": "207",
 		"id": "3020057000",
 		"name": "Rosine",
 		"short_name": "Rosine",
@@ -4026,6 +4233,7 @@
 		"weapon_id": "1020002700"
 	},
 	{
+		"number": "208",
 		"id": "3040086000",
 		"name": "Forte",
 		"short_name": "Forte",
@@ -4045,6 +4253,7 @@
 		"weapon_id": "1040206500"
 	},
 	{
+		"number": "209",
 		"id": "3030139000",
 		"name": "Almeida",
 		"short_name": "Almeida",
@@ -4064,6 +4273,7 @@
 		"weapon_id": "1030303700"
 	},
 	{
+		"number": "210",
 		"id": "3020058000",
 		"name": "La Coiffe",
 		"short_name": "La Coiffe",
@@ -4083,6 +4293,7 @@
 		"weapon_id": "1020002800"
 	},
 	{
+		"number": "211",
 		"id": "3040087000",
 		"name": "Rosamia",
 		"short_name": "Rosamia",
@@ -4102,6 +4313,7 @@
 		"weapon_id": "1040107800"
 	},
 	{
+		"number": "212",
 		"id": "3030140000",
 		"name": "Johann",
 		"short_name": "Johann",
@@ -4121,6 +4333,7 @@
 		"weapon_id": "1030404400"
 	},
 	{
+		"number": "213",
 		"id": "3020059000",
 		"name": "Chloe",
 		"short_name": "Chloe",
@@ -4140,6 +4353,7 @@
 		"weapon_id": "1020601800"
 	},
 	{
+		"number": "214",
 		"id": "3040088000",
 		"name": "Yngwie",
 		"short_name": "Yngwie",
@@ -4160,6 +4374,7 @@
 		"weapon_id": "1040505900"
 	},
 	{
+		"number": "215",
 		"id": "3030147000",
 		"name": "Sara",
 		"short_name": "Sara",
@@ -4181,6 +4396,7 @@
 		"weapon_id": "1030802700"
 	},
 	{
+		"number": "216",
 		"id": "3020060000",
 		"name": "Ippatsu",
 		"short_name": "Ippatsu",
@@ -4202,6 +4418,7 @@
 		"weapon_id": "1020601900"
 	},
 	{
+		"number": "217",
 		"id": "3030150000",
 		"name": "Diantha",
 		"short_name": "Diantha",
@@ -4221,6 +4438,7 @@
 		"weapon_id": "1030802800"
 	},
 	{
+		"number": "218",
 		"id": "3040089000",
 		"name": "Narmaya",
 		"short_name": "Narmaya",
@@ -4242,6 +4460,7 @@
 		"weapon_id": "1040905700"
 	},
 	{
+		"number": "219",
 		"id": "3030149000",
 		"name": "J.J.",
 		"short_name": "J.J.",
@@ -4263,6 +4482,7 @@
 		"weapon_id": "1030604800"
 	},
 	{
+		"number": "220",
 		"id": "3020061000",
 		"name": "Lunalu",
 		"short_name": "Lunalu",
@@ -4284,6 +4504,7 @@
 		"weapon_id": "1020800200"
 	},
 	{
+		"number": "221",
 		"id": "3040090000",
 		"name": "Percival",
 		"short_name": "Percival",
@@ -4305,6 +4526,7 @@
 		"weapon_id": "1040009000"
 	},
 	{
+		"number": "222",
 		"id": "3030152000",
 		"name": "Camieux",
 		"short_name": "Camieux",
@@ -4326,6 +4548,7 @@
 		"weapon_id": "1030604900"
 	},
 	{
+		"number": "223",
 		"id": "3040091000",
 		"name": "Heles",
 		"short_name": "Heles",
@@ -4347,6 +4570,7 @@
 		"weapon_id": "1040206600"
 	},
 	{
+		"number": "224",
 		"id": "3040092000",
 		"name": "Zooey",
 		"short_name": "Zooey",
@@ -4369,6 +4593,7 @@
 		"weapon_id": "1040605900"
 	},
 	{
+		"number": "225",
 		"id": "3040093000",
 		"name": "Chat Noir",
 		"short_name": "Chat Noir",
@@ -4389,6 +4614,7 @@
 		"weapon_id": "1040108000"
 	},
 	{
+		"number": "226",
 		"id": "3030153000",
 		"name": "Pengy",
 		"short_name": "Pengy",
@@ -4409,6 +4635,7 @@
 		"weapon_id": "1030503900"
 	},
 	{
+		"number": "227",
 		"id": "3020062000",
 		"name": "Cailana",
 		"short_name": "Cailana",
@@ -4428,6 +4655,7 @@
 		"weapon_id": "1020602000"
 	},
 	{
+		"number": "228",
 		"id": "3040094000",
 		"name": "Veight",
 		"short_name": "Veight",
@@ -4447,6 +4675,7 @@
 		"weapon_id": "1040108100"
 	},
 	{
+		"number": "229",
 		"id": "3040095000",
 		"name": "Societte",
 		"short_name": "Societte",
@@ -4467,6 +4696,7 @@
 		"weapon_id": "1040606100"
 	},
 	{
+		"number": "230",
 		"id": "3030155000",
 		"name": "Cucouroux",
 		"short_name": "Cucouroux",
@@ -4486,6 +4716,7 @@
 		"weapon_id": "1030504000"
 	},
 	{
+		"number": "231",
 		"id": "3020063000",
 		"name": "Drusilla",
 		"short_name": "Drusilla",
@@ -4505,6 +4736,7 @@
 		"weapon_id": "1020102600"
 	},
 	{
+		"number": "232",
 		"id": "3040096000",
 		"name": "Juliet",
 		"short_name": "Juliet",
@@ -4524,6 +4756,7 @@
 		"weapon_id": "1040408800"
 	},
 	{
+		"number": "233",
 		"id": "3030156000",
 		"name": "Dante",
 		"short_name": "Dante",
@@ -4543,6 +4776,7 @@
 		"weapon_id": "1030404500"
 	},
 	{
+		"number": "234",
 		"id": "3020064000",
 		"name": "Cordelia",
 		"short_name": "Cordelia",
@@ -4562,6 +4796,7 @@
 		"weapon_id": "1020002900"
 	},
 	{
+		"number": "235",
 		"id": "3040098000",
 		"name": "Romeo",
 		"short_name": "Romeo",
@@ -4582,6 +4817,7 @@
 		"weapon_id": "1040408900"
 	},
 	{
+		"number": "236",
 		"id": "3030159000",
 		"name": "Jessica",
 		"short_name": "Jessica",
@@ -4601,6 +4837,7 @@
 		"weapon_id": "1030504200"
 	},
 	{
+		"number": "237",
 		"id": "3020066000",
 		"name": "Bakura",
 		"short_name": "Bakura",
@@ -4620,6 +4857,7 @@
 		"weapon_id": "1020800300"
 	},
 	{
+		"number": "238",
 		"id": "3040099000",
 		"name": "Eustace",
 		"short_name": "Eustace",
@@ -4641,6 +4879,7 @@
 		"weapon_id": "1040506300"
 	},
 	{
+		"number": "239",
 		"id": "3030163000",
 		"name": "Beatrix",
 		"short_name": "Beatrix",
@@ -4662,6 +4901,7 @@
 		"weapon_id": "1030005700"
 	},
 	{
+		"number": "240",
 		"id": "3040100000",
 		"name": "Izmir",
 		"short_name": "Izmir",
@@ -4681,6 +4921,7 @@
 		"weapon_id": "1040009300"
 	},
 	{
+		"number": "241",
 		"id": "3040101000",
 		"name": "Lecia",
 		"short_name": "Lecia",
@@ -4702,6 +4943,7 @@
 		"weapon_id": "1040108200"
 	},
 	{
+		"number": "242",
 		"id": "3030164000",
 		"name": "Erin",
 		"short_name": "Erin",
@@ -4721,6 +4963,7 @@
 		"weapon_id": "1030404600"
 	},
 	{
+		"number": "243",
 		"id": "3040102000",
 		"name": "Melissabelle",
 		"short_name": "Melissabelle",
@@ -4741,6 +4984,7 @@
 		"weapon_id": "1040306100"
 	},
 	{
+		"number": "244",
 		"id": "3030166000",
 		"name": "Mimlemel and Stumpeye",
 		"short_name": "Mimlemel",
@@ -4760,6 +5004,7 @@
 		"weapon_id": "1030005900"
 	},
 	{
+		"number": "245",
 		"id": "3040103000",
 		"name": "Anthuria",
 		"short_name": "Anthuria",
@@ -4780,6 +5025,7 @@
 		"weapon_id": "1040409000"
 	},
 	{
+		"number": "246",
 		"id": "3030167000",
 		"name": "Tanya",
 		"short_name": "Tanya",
@@ -4799,6 +5045,7 @@
 		"weapon_id": "1030105100"
 	},
 	{
+		"number": "247",
 		"id": "3020070000",
 		"name": "Randall",
 		"short_name": "Randall",
@@ -4818,6 +5065,7 @@
 		"weapon_id": "1020602100"
 	},
 	{
+		"number": "248",
 		"id": "3040104000",
 		"name": "Arulumaya",
 		"short_name": "Arulumaya",
@@ -4839,6 +5087,7 @@
 		"weapon_id": "1040409100"
 	},
 	{
+		"number": "249",
 		"id": "3030169000",
 		"name": "Sen",
 		"short_name": "Sen",
@@ -4860,6 +5109,7 @@
 		"weapon_id": "1030605000"
 	},
 	{
+		"number": "250",
 		"id": "3040106000",
 		"name": "Lucio",
 		"short_name": "Lucio",
@@ -4882,6 +5132,7 @@
 		"weapon_id": "1040207000"
 	},
 	{
+		"number": "251",
 		"id": "3040105000",
 		"name": "Yuisis",
 		"short_name": "Yuisis",
@@ -4902,6 +5153,7 @@
 		"weapon_id": "1040009400"
 	},
 	{
+		"number": "252",
 		"id": "3040107000",
 		"name": "Mahira",
 		"short_name": "Mahira",
@@ -4924,6 +5176,7 @@
 		"weapon_id": "1040705400"
 	},
 	{
+		"number": "253",
 		"id": "3030171000",
 		"name": "Lucius",
 		"short_name": "Lucius",
@@ -4943,6 +5196,7 @@
 		"weapon_id": "1030902000"
 	},
 	{
+		"number": "254",
 		"id": "3040108000",
 		"name": "Marquiares",
 		"short_name": "Marquiares",
@@ -4962,6 +5216,7 @@
 		"weapon_id": "1040409200"
 	},
 	{
+		"number": "255",
 		"id": "3030175000",
 		"name": "Herja",
 		"short_name": "Herja",
@@ -4981,6 +5236,7 @@
 		"weapon_id": "1030006100"
 	},
 	{
+		"number": "256",
 		"id": "3040109000",
 		"name": "Razia",
 		"short_name": "Razia",
@@ -5001,6 +5257,7 @@
 		"weapon_id": "1040207100"
 	},
 	{
+		"number": "257",
 		"id": "3030176000",
 		"name": "Mina",
 		"short_name": "Mina",
@@ -5020,6 +5277,7 @@
 		"weapon_id": "1030006000"
 	},
 	{
+		"number": "258",
 		"id": "3040110000",
 		"name": "Beatrix",
 		"short_name": "Beatrix",
@@ -5041,6 +5299,7 @@
 		"weapon_id": "1040108300"
 	},
 	{
+		"number": "259",
 		"id": "3030178000",
 		"name": "Jin",
 		"short_name": "Jin",
@@ -5062,6 +5321,7 @@
 		"weapon_id": "1030902200"
 	},
 	{
+		"number": "260",
 		"id": "3040111000",
 		"name": "Orchid",
 		"short_name": "Orchid",
@@ -5084,6 +5344,7 @@
 		"weapon_id": "1040108700"
 	},
 	{
+		"number": "261",
 		"id": "3040112000",
 		"name": "Zeta",
 		"short_name": "Zeta",
@@ -5103,6 +5364,7 @@
 		"weapon_id": "1040207500"
 	},
 	{
+		"number": "262",
 		"id": "3030181000",
 		"name": "Tyre",
 		"short_name": "Tyre",
@@ -5123,6 +5385,7 @@
 		"weapon_id": "1030504400"
 	},
 	{
+		"number": "263",
 		"id": "3040113000",
 		"name": "De La Fille",
 		"short_name": "De La Fille",
@@ -5142,6 +5405,7 @@
 		"weapon_id": "1040409800"
 	},
 	{
+		"number": "264",
 		"id": "3030183000",
 		"name": "Vermeil",
 		"short_name": "Vermeil",
@@ -5161,6 +5425,7 @@
 		"weapon_id": "1030006300"
 	},
 	{
+		"number": "265",
 		"id": "3040115000",
 		"name": "Sturm",
 		"short_name": "Sturm",
@@ -5182,6 +5447,7 @@
 		"weapon_id": "1040906400"
 	},
 	{
+		"number": "266",
 		"id": "3040116000",
 		"name": "Lady Katapillar and Vira",
 		"short_name": "Lady Katapillar",
@@ -5204,6 +5470,7 @@
 		"weapon_id": "1040606700"
 	},
 	{
+		"number": "267",
 		"id": "3030185000",
 		"name": "Ludmila",
 		"short_name": "Ludmila",
@@ -5223,6 +5490,7 @@
 		"weapon_id": "1030504500"
 	},
 	{
+		"number": "268",
 		"id": "3040117000",
 		"name": "Vane",
 		"short_name": "Vane",
@@ -5243,6 +5511,7 @@
 		"weapon_id": "1040306900"
 	},
 	{
+		"number": "269",
 		"id": "3030186000",
 		"name": "Lamretta",
 		"short_name": "Lamretta",
@@ -5262,6 +5531,7 @@
 		"weapon_id": "1030006500"
 	},
 	{
+		"number": "270",
 		"id": "3040119000",
 		"name": "Drang",
 		"short_name": "Drang",
@@ -5283,6 +5553,7 @@
 		"weapon_id": "1040410000"
 	},
 	{
+		"number": "271",
 		"id": "3040120000",
 		"name": "Cagliostro",
 		"short_name": "Cagliostro",
@@ -5302,6 +5573,7 @@
 		"weapon_id": "1040409900"
 	},
 	{
+		"number": "272",
 		"id": "3030188000",
 		"name": "Deliford",
 		"short_name": "Deliford",
@@ -5321,6 +5593,7 @@
 		"weapon_id": "1030205600"
 	},
 	{
+		"number": "273",
 		"id": "3040121000",
 		"name": "Clarisse",
 		"short_name": "Clarisse",
@@ -5340,6 +5613,7 @@
 		"weapon_id": "1040806000"
 	},
 	{
+		"number": "274",
 		"id": "3030190000",
 		"name": "Predator",
 		"short_name": "Predator",
@@ -5359,6 +5633,7 @@
 		"weapon_id": "1030605400"
 	},
 	{
+		"number": "275",
 		"id": "3040122000",
 		"name": "Scathacha",
 		"short_name": "Scathacha",
@@ -5378,6 +5653,7 @@
 		"weapon_id": "1040607200"
 	},
 	{
+		"number": "276",
 		"id": "3030191000",
 		"name": "Sevastien",
 		"short_name": "Sevastien",
@@ -5397,6 +5673,7 @@
 		"weapon_id": "1030303900"
 	},
 	{
+		"number": "277",
 		"id": "3040124000",
 		"name": "Baotorda",
 		"short_name": "Baotorda",
@@ -5416,6 +5693,7 @@
 		"weapon_id": "1040011000"
 	},
 	{
+		"number": "278",
 		"id": "3030195000",
 		"name": "Jeanne d'Arc",
 		"short_name": "Jeanne d'Arc",
@@ -5435,6 +5713,7 @@
 		"weapon_id": "1030205700"
 	},
 	{
+		"number": "279",
 		"id": "3040125000",
 		"name": "Yggdrasil",
 		"short_name": "Yggdrasil",
@@ -5454,6 +5733,7 @@
 		"weapon_id": "1040806100"
 	},
 	{
+		"number": "280",
 		"id": "3030196000",
 		"name": "Jamil",
 		"short_name": "Jamil",
@@ -5473,6 +5753,7 @@
 		"weapon_id": "1030105400"
 	},
 	{
+		"number": "281",
 		"id": "3040127000",
 		"name": "Korwa",
 		"short_name": "Korwa",
@@ -5494,6 +5775,7 @@
 		"weapon_id": "1040806200"
 	},
 	{
+		"number": "282",
 		"id": "3040126000",
 		"name": "Izmir",
 		"short_name": "Izmir",
@@ -5515,6 +5797,7 @@
 		"weapon_id": "1040012500"
 	},
 	{
+		"number": "283",
 		"id": "3030199000",
 		"name": "Ayer",
 		"short_name": "Ayer",
@@ -5536,6 +5819,7 @@
 		"weapon_id": "1030605500"
 	},
 	{
+		"number": "284",
 		"id": "3030198000",
 		"name": "Charlotta",
 		"short_name": "Charlotta",
@@ -5557,6 +5841,7 @@
 		"weapon_id": "1030006700"
 	},
 	{
+		"number": "285",
 		"id": "3040128000",
 		"name": "Siegfried",
 		"short_name": "Siegfried",
@@ -5579,6 +5864,7 @@
 		"weapon_id": "1040908100"
 	},
 	{
+		"number": "286",
 		"id": "3040129000",
 		"name": "Diantha",
 		"short_name": "Diantha",
@@ -5600,6 +5886,7 @@
 		"weapon_id": "1040608800"
 	},
 	{
+		"number": "287",
 		"id": "3030201000",
 		"name": "Ghandagoza",
 		"short_name": "Ghandagoza",
@@ -5621,6 +5908,7 @@
 		"weapon_id": "1030605600"
 	},
 	{
+		"number": "288",
 		"id": "3030202000",
 		"name": "Chloe",
 		"short_name": "Chloe",
@@ -5642,6 +5930,7 @@
 		"weapon_id": "1030605700"
 	},
 	{
+		"number": "289",
 		"id": "3040130000",
 		"name": "Grea",
 		"short_name": "Grea",
@@ -5661,6 +5950,7 @@
 		"weapon_id": "1040608900"
 	},
 	{
+		"number": "290",
 		"id": "3030203000",
 		"name": "Blazing Teacher Elmott",
 		"short_name": "Elmott",
@@ -5680,6 +5970,7 @@
 		"weapon_id": "1030404900"
 	},
 	{
+		"number": "291",
 		"id": "3040132000",
 		"name": "Anne",
 		"short_name": "Anne",
@@ -5700,6 +5991,7 @@
 		"weapon_id": "1040209600"
 	},
 	{
+		"number": "292",
 		"id": "3030207000",
 		"name": "Owen",
 		"short_name": "Owen",
@@ -5719,6 +6011,7 @@
 		"weapon_id": "1030006900"
 	},
 	{
+		"number": "293",
 		"id": "3040134000",
 		"name": "Dorothy and Claudia",
 		"short_name": "The Maids",
@@ -5739,6 +6032,7 @@
 		"weapon_id": "1040609000"
 	},
 	{
+		"number": "294",
 		"id": "3030209000",
 		"name": "Sarya",
 		"short_name": "Sarya",
@@ -5758,6 +6052,7 @@
 		"weapon_id": "1030704100"
 	},
 	{
+		"number": "295",
 		"id": "3040137000",
 		"name": "Azazel",
 		"short_name": "Azazel",
@@ -5778,6 +6073,7 @@
 		"weapon_id": "1040210300"
 	},
 	{
+		"number": "296",
 		"id": "3030221000",
 		"name": "Vania",
 		"short_name": "Vania",
@@ -5797,6 +6093,7 @@
 		"weapon_id": "1030605800"
 	},
 	{
+		"number": "297",
 		"id": "3040135000",
 		"name": "Danua",
 		"short_name": "Danua",
@@ -5819,6 +6116,7 @@
 		"weapon_id": "1040411500"
 	},
 	{
+		"number": "298",
 		"id": "3030220000",
 		"name": "Mimlemel and Pun-Kin",
 		"short_name": "Mimlemel",
@@ -5841,6 +6139,7 @@
 		"weapon_id": "1030605900"
 	},
 	{
+		"number": "299",
 		"id": "3040138000",
 		"name": "Yuel",
 		"short_name": "Yuel",
@@ -5861,6 +6160,7 @@
 		"weapon_id": "1040908400"
 	},
 	{
+		"number": "300",
 		"id": "3030222000",
 		"name": "Karteira",
 		"short_name": "Karteira",
@@ -5880,6 +6180,7 @@
 		"weapon_id": "1030007000"
 	},
 	{
+		"number": "301",
 		"id": "3040141000",
 		"name": "Vira",
 		"short_name": "Vira",
@@ -5902,6 +6203,7 @@
 		"weapon_id": "1040309000"
 	},
 	{
+		"number": "302",
 		"id": "3030224000",
 		"name": "Mirin",
 		"short_name": "Mirin",
@@ -5921,6 +6223,7 @@
 		"weapon_id": "1030902800"
 	},
 	{
+		"number": "303",
 		"id": "3040140000",
 		"name": "Lancelot",
 		"short_name": "Lancelot",
@@ -5941,6 +6244,7 @@
 		"weapon_id": "1040014000"
 	},
 	{
+		"number": "304",
 		"id": "3030225000",
 		"name": "Sophia",
 		"short_name": "Sophia",
@@ -5960,6 +6264,7 @@
 		"weapon_id": "1030405100"
 	},
 	{
+		"number": "305",
 		"id": "3040143000",
 		"name": "Mary",
 		"short_name": "Mary",
@@ -5981,6 +6286,7 @@
 		"weapon_id": "1040508700"
 	},
 	{
+		"number": "306",
 		"id": "3030228000",
 		"name": "Feena",
 		"short_name": "Feena",
@@ -6002,6 +6308,7 @@
 		"weapon_id": "1030504800"
 	},
 	{
+		"number": "307",
 		"id": "3040145000",
 		"name": "Olivia",
 		"short_name": "Olivia",
@@ -6023,6 +6330,7 @@
 		"weapon_id": "1040014300"
 	},
 	{
+		"number": "308",
 		"id": "3040147000",
 		"name": "Vajra",
 		"short_name": "Vajra",
@@ -6045,6 +6353,7 @@
 		"weapon_id": "1040609700"
 	},
 	{
+		"number": "309",
 		"id": "3040146000",
 		"name": "Vaseraga",
 		"short_name": "Vaseraga",
@@ -6064,6 +6373,7 @@
 		"weapon_id": "1040309100"
 	},
 	{
+		"number": "310",
 		"id": "3040148000",
 		"name": "Ilsa",
 		"short_name": "Ilsa",
@@ -6084,6 +6394,7 @@
 		"weapon_id": "1040708200"
 	},
 	{
+		"number": "311",
 		"id": "3030230000",
 		"name": "Karva",
 		"short_name": "Karva",
@@ -6103,6 +6414,7 @@
 		"weapon_id": "1030504900"
 	},
 	{
+		"number": "312",
 		"id": "3040149000",
 		"name": "Therese",
 		"short_name": "Therese",
@@ -6122,6 +6434,7 @@
 		"weapon_id": "1040908800"
 	},
 	{
+		"number": "313",
 		"id": "3030232000",
 		"name": "Ippatsu",
 		"short_name": "Ippatsu",
@@ -6141,6 +6454,7 @@
 		"weapon_id": "1030606200"
 	},
 	{
+		"number": "314",
 		"id": "3040150000",
 		"name": "Zooey",
 		"short_name": "Zooey",
@@ -6161,6 +6475,7 @@
 		"weapon_id": "1040508800"
 	},
 	{
+		"number": "315",
 		"id": "3030234000",
 		"name": "Randall",
 		"short_name": "Randall",
@@ -6180,6 +6495,7 @@
 		"weapon_id": "1030007100"
 	},
 	{
+		"number": "316",
 		"id": "3040151000",
 		"name": "Medusa",
 		"short_name": "Medusa",
@@ -6201,6 +6517,7 @@
 		"weapon_id": "1040414000"
 	},
 	{
+		"number": "317",
 		"id": "3030235000",
 		"name": "Narmaya",
 		"short_name": "Narmaya",
@@ -6222,6 +6539,7 @@
 		"weapon_id": "1030902900"
 	},
 	{
+		"number": "318",
 		"id": "3030236000",
 		"name": "Teena",
 		"short_name": "Teena",
@@ -6243,6 +6561,7 @@
 		"weapon_id": "1030405200"
 	},
 	{
+		"number": "319",
 		"id": "3030074000",
 		"name": "Ceylan",
 		"short_name": "Ceylan",
@@ -6262,6 +6581,7 @@
 		"weapon_id": "1030405500"
 	},
 	{
+		"number": "320",
 		"id": "3030073000",
 		"name": "Pengy",
 		"short_name": "Pengy",
@@ -6281,6 +6601,7 @@
 		"weapon_id": "1030505100"
 	},
 	{
+		"number": "321",
 		"id": "3040152000",
 		"name": "Tiamat",
 		"short_name": "Tiamat",
@@ -6301,6 +6622,7 @@
 		"weapon_id": "1040509000"
 	},
 	{
+		"number": "322",
 		"id": "3030237000",
 		"name": "Nezahualpilli",
 		"short_name": "Nezahualpilli",
@@ -6320,6 +6642,7 @@
 		"weapon_id": "1030405300"
 	},
 	{
+		"number": "323",
 		"id": "3040154000",
 		"name": "Jeanne d'Arc",
 		"short_name": "Jeanne d'Arc",
@@ -6341,6 +6664,7 @@
 		"weapon_id": "1040210900"
 	},
 	{
+		"number": "324",
 		"id": "3040155000",
 		"name": "Robomi",
 		"short_name": "Robomi",
@@ -6360,6 +6684,7 @@
 		"weapon_id": "1040509200"
 	},
 	{
+		"number": "325",
 		"id": "3040156000",
 		"name": "Nicholas",
 		"short_name": "Nicholas",
@@ -6379,6 +6704,7 @@
 		"weapon_id": "1040909200"
 	},
 	{
+		"number": "326",
 		"id": "3040158000",
 		"name": "Alexiel",
 		"short_name": "Alexiel",
@@ -6401,6 +6727,7 @@
 		"weapon_id": "1040110600"
 	},
 	{
+		"number": "327",
 		"id": "3030239000",
 		"name": "Barawa",
 		"short_name": "Barawa",
@@ -6420,6 +6747,7 @@
 		"weapon_id": "1030606400"
 	},
 	{
+		"number": "328",
 		"id": "3040159000",
 		"name": "Cucouroux",
 		"short_name": "Cucouroux",
@@ -6439,6 +6767,7 @@
 		"weapon_id": "1040509400"
 	},
 	{
+		"number": "329",
 		"id": "3030240000",
 		"name": "Carmelina",
 		"short_name": "Carmelina",
@@ -6458,6 +6787,7 @@
 		"weapon_id": "1030606500"
 	},
 	{
+		"number": "330",
 		"id": "3040170000",
 		"name": "Soriz",
 		"short_name": "Soriz",
@@ -6477,6 +6807,7 @@
 		"weapon_id": "1040610600"
 	},
 	{
+		"number": "331",
 		"id": "3030241000",
 		"name": "Leona",
 		"short_name": "Leona",
@@ -6496,6 +6827,7 @@
 		"weapon_id": "1030206400"
 	},
 	{
+		"number": "332",
 		"id": "3040172000",
 		"name": "Lunalu",
 		"short_name": "Lunalu",
@@ -6515,6 +6847,7 @@
 		"weapon_id": "1040610700"
 	},
 	{
+		"number": "333",
 		"id": "3040171000",
 		"name": "Cain",
 		"short_name": "Cain",
@@ -6536,6 +6869,7 @@
 		"weapon_id": "1040910000"
 	},
 	{
+		"number": "334",
 		"id": "3020071000",
 		"name": "Spinnah",
 		"short_name": "Spinnah",
@@ -6555,6 +6889,7 @@
 		"weapon_id": "1020102700"
 	},
 	{
+		"number": "335",
 		"id": "3040174000",
 		"name": "Wulf and Renie",
 		"short_name": "Wulf & Renie",
@@ -6575,6 +6910,7 @@
 		"weapon_id": "1040309800"
 	},
 	{
+		"number": "336",
 		"id": "3030243000",
 		"name": "Vanzza",
 		"short_name": "Vanzza",
@@ -6594,6 +6930,7 @@
 		"weapon_id": "1030606700"
 	},
 	{
+		"number": "337",
 		"id": "3040175000",
 		"name": "Selfira",
 		"short_name": "Selfira",
@@ -6613,6 +6950,7 @@
 		"weapon_id": "1040808500"
 	},
 	{
+		"number": "338",
 		"id": "3030244000",
 		"name": "Elta",
 		"short_name": "Elta",
@@ -6632,6 +6970,7 @@
 		"weapon_id": "1030803400"
 	},
 	{
+		"number": "339",
 		"id": "3040176000",
 		"name": "Rosetta",
 		"short_name": "Rosetta",
@@ -6653,6 +6992,7 @@
 		"weapon_id": "1040110700"
 	},
 	{
+		"number": "340",
 		"id": "3030245000",
 		"name": "Yuisis",
 		"short_name": "Yuisis",
@@ -6675,6 +7015,7 @@
 		"weapon_id": "1030007200"
 	},
 	{
+		"number": "341",
 		"id": "3040178000",
 		"name": "Naoise",
 		"short_name": "Naoise",
@@ -6696,6 +7037,7 @@
 		"weapon_id": "1040211200"
 	},
 	{
+		"number": "342",
 		"id": "3040177000",
 		"name": "Ilsa",
 		"short_name": "Ilsa",
@@ -6718,6 +7060,7 @@
 		"weapon_id": "1040708600"
 	},
 	{
+		"number": "343",
 		"id": "3030247000",
 		"name": "Lilele",
 		"short_name": "Lilele",
@@ -6739,6 +7082,7 @@
 		"weapon_id": "1030803500"
 	},
 	{
+		"number": "344",
 		"id": "3030248000",
 		"name": "Farrah",
 		"short_name": "Farrah",
@@ -6760,6 +7104,7 @@
 		"weapon_id": "1030007300"
 	},
 	{
+		"number": "345",
 		"id": "3030249000",
 		"name": "Arulumaya",
 		"short_name": "Arulumaya",
@@ -6781,6 +7126,7 @@
 		"weapon_id": "1030606800"
 	},
 	{
+		"number": "346",
 		"id": "3040179000",
 		"name": "Grea",
 		"short_name": "Grea",
@@ -6802,6 +7148,7 @@
 		"weapon_id": "1040211400"
 	},
 	{
+		"number": "347",
 		"id": "3030250000",
 		"name": "Almeida",
 		"short_name": "Almeida",
@@ -6823,6 +7170,7 @@
 		"weapon_id": "1030304300"
 	},
 	{
+		"number": "348",
 		"id": "3040180000",
 		"name": "Tsubasa",
 		"short_name": "Tsubasa",
@@ -6842,6 +7190,7 @@
 		"weapon_id": "1040310000"
 	},
 	{
+		"number": "349",
 		"id": "3040181000",
 		"name": "Pholia",
 		"short_name": "Pholia",
@@ -6864,6 +7213,7 @@
 		"weapon_id": "1040708700"
 	},
 	{
+		"number": "350",
 		"id": "3030251000",
 		"name": "Cailana",
 		"short_name": "Cailana",
@@ -6883,6 +7233,7 @@
 		"weapon_id": "1030606900"
 	},
 	{
+		"number": "351",
 		"id": "3040182000",
 		"name": "Freezie",
 		"short_name": "Freezie",
@@ -6904,6 +7255,7 @@
 		"weapon_id": "1040509600"
 	},
 	{
+		"number": "352",
 		"id": "3030252000",
 		"name": "The Lowain Bros",
 		"short_name": "Lowain",
@@ -6924,6 +7276,7 @@
 		"weapon_id": "1030206600"
 	},
 	{
+		"number": "353",
 		"id": "3040187000",
 		"name": "Silva",
 		"short_name": "Silva",
@@ -6943,6 +7296,7 @@
 		"weapon_id": "1040310100"
 	},
 	{
+		"number": "354",
 		"id": "3030253000",
 		"name": "Juri",
 		"short_name": "Juri",
@@ -6962,6 +7316,7 @@
 		"weapon_id": "1030007400"
 	},
 	{
+		"number": "355",
 		"id": "3040190000",
 		"name": "Europa",
 		"short_name": "Europa",
@@ -6983,6 +7338,7 @@
 		"weapon_id": "1040211600"
 	},
 	{
+		"number": "356",
 		"id": "3040189000",
 		"name": "Lady Grey",
 		"short_name": "Lady Grey",
@@ -7005,6 +7361,7 @@
 		"weapon_id": "1040808700"
 	},
 	{
+		"number": "357",
 		"id": "3030254000",
 		"name": "Feather",
 		"short_name": "Feather",
@@ -7026,6 +7383,7 @@
 		"weapon_id": "1030608100"
 	},
 	{
+		"number": "358",
 		"id": "3040191000",
 		"name": "Lancelot and Vane",
 		"short_name": "White Dragons",
@@ -7046,6 +7404,7 @@
 		"weapon_id": "1040211700"
 	},
 	{
+		"number": "359",
 		"id": "3040192000",
 		"name": "Aglovale",
 		"short_name": "Aglovale",
@@ -7065,6 +7424,7 @@
 		"weapon_id": "1040016000"
 	},
 	{
+		"number": "360",
 		"id": "3030255000",
 		"name": "Arthur and Mordred",
 		"short_name": "The Chickadees",
@@ -7085,6 +7445,7 @@
 		"weapon_id": "1030007500"
 	},
 	{
+		"number": "361",
 		"id": "3040193000",
 		"name": "Levin Sisters",
 		"short_name": "Levin Sisters",
@@ -7105,6 +7466,7 @@
 		"weapon_id": "1040708800"
 	},
 	{
+		"number": "362",
 		"id": "3040199000",
 		"name": "Yurius",
 		"short_name": "Yurius",
@@ -7125,6 +7487,7 @@
 		"weapon_id": "1040414400"
 	},
 	{
+		"number": "363",
 		"id": "3030256000",
 		"name": "Rosine",
 		"short_name": "Rosine",
@@ -7144,6 +7507,7 @@
 		"weapon_id": "1030007700"
 	},
 	{
+		"number": "364",
 		"id": "3040194000",
 		"name": "Charlotta",
 		"short_name": "Charlotta",
@@ -7163,6 +7527,7 @@
 		"weapon_id": "1040310200"
 	},
 	{
+		"number": "365",
 		"id": "3030257000",
 		"name": "Razia",
 		"short_name": "Razia",
@@ -7183,6 +7548,7 @@
 		"weapon_id": "1030206800"
 	},
 	{
+		"number": "366",
 		"id": "3040195000",
 		"name": "Metera",
 		"short_name": "Metera",
@@ -7204,6 +7570,7 @@
 		"weapon_id": "1040211800"
 	},
 	{
+		"number": "367",
 		"id": "3030259000",
 		"name": "Yaia",
 		"short_name": "Yaia",
@@ -7225,6 +7592,7 @@
 		"weapon_id": "1030007800"
 	},
 	{
+		"number": "368",
 		"id": "3040196000",
 		"name": "Shiva",
 		"short_name": "Shiva",
@@ -7247,6 +7615,7 @@
 		"weapon_id": "1040709000"
 	},
 	{
+		"number": "369",
 		"id": "3040197000",
 		"name": "Kumbhira",
 		"short_name": "Kumbhira",
@@ -7269,6 +7638,7 @@
 		"weapon_id": "1040310400"
 	},
 	{
+		"number": "370",
 		"id": "3040202000",
 		"name": "Athena",
 		"short_name": "Athena",
@@ -7288,6 +7658,7 @@
 		"weapon_id": "1040212000"
 	},
 	{
+		"number": "371",
 		"id": "3040198000",
 		"name": "Eustace",
 		"short_name": "Eustace",
@@ -7308,6 +7679,7 @@
 		"weapon_id": "1040510300"
 	},
 	{
+		"number": "372",
 		"id": "3030261000",
 		"name": "Beatrix",
 		"short_name": "Beatrix",
@@ -7327,6 +7699,7 @@
 		"weapon_id": "1030007900"
 	},
 	{
+		"number": "373",
 		"id": "3040203000",
 		"name": "Tanya",
 		"short_name": "Tanya",
@@ -7346,6 +7719,7 @@
 		"weapon_id": "1040111100"
 	},
 	{
+		"number": "374",
 		"id": "3030263000",
 		"name": "Skull",
 		"short_name": "Skull",
@@ -7366,6 +7740,7 @@
 		"weapon_id": "1030505300"
 	},
 	{
+		"number": "375",
 		"id": "3040204000",
 		"name": "Sen",
 		"short_name": "Sen",
@@ -7385,6 +7760,7 @@
 		"weapon_id": "1040212100"
 	},
 	{
+		"number": "376",
 		"id": "3040205000",
 		"name": "Dante and Freiheit",
 		"short_name": "Dante & Freiheit",
@@ -7405,6 +7781,7 @@
 		"weapon_id": "1040610900"
 	},
 	{
+		"number": "377",
 		"id": "3030264000",
 		"name": "Catherine",
 		"short_name": "Catherine",
@@ -7424,6 +7801,7 @@
 		"weapon_id": "1030608200"
 	},
 	{
+		"number": "378",
 		"id": "3040206000",
 		"name": "Clarisse",
 		"short_name": "Clarisse",
@@ -7445,6 +7823,7 @@
 		"weapon_id": "1040414900"
 	},
 	{
+		"number": "379",
 		"id": "3040207000",
 		"name": "Melissabelle",
 		"short_name": "Melissabelle",
@@ -7467,6 +7846,7 @@
 		"weapon_id": "1040016600"
 	},
 	{
+		"number": "380",
 		"id": "3040209000",
 		"name": "Ferry",
 		"short_name": "Ferry",
@@ -7488,6 +7868,7 @@
 		"weapon_id": "1040809100"
 	},
 	{
+		"number": "381",
 		"id": "3040208000",
 		"name": "Heles",
 		"short_name": "Heles",
@@ -7507,6 +7888,7 @@
 		"weapon_id": "1040212300"
 	},
 	{
+		"number": "382",
 		"id": "3030265000",
 		"name": "Mirin",
 		"short_name": "Mirin",
@@ -7526,6 +7908,7 @@
 		"weapon_id": "1030008200"
 	},
 	{
+		"number": "383",
 		"id": "3040210000",
 		"name": "Yuel",
 		"short_name": "Yuel",
@@ -7548,6 +7931,7 @@
 		"weapon_id": "1040910900"
 	},
 	{
+		"number": "384",
 		"id": "3040211000",
 		"name": "Vira",
 		"short_name": "Vira",
@@ -7570,6 +7954,7 @@
 		"weapon_id": "1040809300"
 	},
 	{
+		"number": "385",
 		"id": "3030266000",
 		"name": "Korwa",
 		"short_name": "Korwa",
@@ -7591,6 +7976,7 @@
 		"weapon_id": "1030008400"
 	},
 	{
+		"number": "386",
 		"id": "3040212000",
 		"name": "Grimnir",
 		"short_name": "Grimnir",
@@ -7613,6 +7999,7 @@
 		"weapon_id": "1040212700"
 	},
 	{
+		"number": "387",
 		"id": "3040213000",
 		"name": "Macula Marius",
 		"short_name": "Macula Marius",
@@ -7632,6 +8019,7 @@
 		"weapon_id": "1040415200"
 	},
 	{
+		"number": "388",
 		"id": "3040214000",
 		"name": "Medusa",
 		"short_name": "Medusa",
@@ -7651,6 +8039,7 @@
 		"weapon_id": "1040415400"
 	},
 	{
+		"number": "389",
 		"id": "3030267000",
 		"name": "Richard",
 		"short_name": "Richard",
@@ -7670,6 +8059,7 @@
 		"weapon_id": "1030505400"
 	},
 	{
+		"number": "390",
 		"id": "3040215000",
 		"name": "Baal",
 		"short_name": "Baal",
@@ -7690,6 +8080,7 @@
 		"weapon_id": "1040212800"
 	},
 	{
+		"number": "391",
 		"id": "3030268000",
 		"name": "Aster",
 		"short_name": "Aster",
@@ -7709,6 +8100,7 @@
 		"weapon_id": "1030505500"
 	},
 	{
+		"number": "392",
 		"id": "3040217000",
 		"name": "Ladiva",
 		"short_name": "Ladiva",
@@ -7728,6 +8120,7 @@
 		"weapon_id": "1040611500"
 	},
 	{
+		"number": "393",
 		"id": "3040218000",
 		"name": "Morrigna",
 		"short_name": "Morrigna",
@@ -7747,6 +8140,7 @@
 		"weapon_id": "1040415500"
 	},
 	{
+		"number": "394",
 		"id": "3030269000",
 		"name": "Bridgette and Cordelia",
 		"short_name": "Noble Knights",
@@ -7768,6 +8162,7 @@
 		"weapon_id": "1030207000"
 	},
 	{
+		"number": "395",
 		"id": "3040222000",
 		"name": "Kolulu",
 		"short_name": "Kolulu",
@@ -7787,6 +8182,7 @@
 		"weapon_id": "1040212900"
 	},
 	{
+		"number": "396",
 		"id": "3030270000",
 		"name": "Philosophia",
 		"short_name": "Philosophia",
@@ -7807,6 +8203,7 @@
 		"weapon_id": "1030405900"
 	},
 	{
+		"number": "397",
 		"id": "3040224000",
 		"name": "Sandalphon",
 		"short_name": "Sandalphon",
@@ -7829,6 +8226,7 @@
 		"weapon_id": "1040018700"
 	},
 	{
+		"number": "398",
 		"id": "3040223000",
 		"name": "Halluel and Malluel",
 		"short_name": "Hal & Mal",
@@ -7850,6 +8248,7 @@
 		"weapon_id": "1040111200"
 	},
 	{
+		"number": "399",
 		"id": "3040225000",
 		"name": "Cagliostro",
 		"short_name": "Cagliostro",
@@ -7871,6 +8270,7 @@
 		"weapon_id": "1040415600"
 	},
 	{
+		"number": "400",
 		"id": "3030271000",
 		"name": "Friday",
 		"short_name": "Friday",
@@ -7893,6 +8293,7 @@
 		"weapon_id": "1030008700"
 	},
 	{
+		"number": "401",
 		"id": "3040227000",
 		"name": "Jessica",
 		"short_name": "Jessica",
@@ -7914,6 +8315,7 @@
 		"weapon_id": "1040611600"
 	},
 	{
+		"number": "402",
 		"id": "3040226000",
 		"name": "Europa",
 		"short_name": "Europa",
@@ -7935,6 +8337,7 @@
 		"weapon_id": "1040111400"
 	},
 	{
+		"number": "403",
 		"id": "3030272000",
 		"name": "Lancelot and Vane",
 		"short_name": "White Dragons",
@@ -7957,6 +8360,7 @@
 		"weapon_id": "1030207200"
 	},
 	{
+		"number": "404",
 		"id": "3040228000",
 		"name": "Anthuria",
 		"short_name": "Anthuria",
@@ -7979,6 +8383,7 @@
 		"weapon_id": "1040415900"
 	},
 	{
+		"number": "405",
 		"id": "3030273000",
 		"name": "Cassius",
 		"short_name": "Cassius",
@@ -8001,6 +8406,7 @@
 		"weapon_id": "1030608400"
 	},
 	{
+		"number": "406",
 		"id": "3040232000",
 		"name": "Alexiel",
 		"short_name": "Alexiel",
@@ -8023,6 +8429,7 @@
 		"weapon_id": "1040611800"
 	},
 	{
+		"number": "407",
 		"id": "3030274000",
 		"name": "Leona",
 		"short_name": "Leona",
@@ -8044,6 +8451,7 @@
 		"weapon_id": "1030903400"
 	},
 	{
+		"number": "408",
 		"id": "3040233000",
 		"name": "Stan and Aliza",
 		"short_name": "Hero & Princess",
@@ -8065,6 +8473,7 @@
 		"weapon_id": "1040612100"
 	},
 	{
+		"number": "409",
 		"id": "3040234000",
 		"name": "Tabina",
 		"short_name": "Tabina",
@@ -8085,6 +8494,7 @@
 		"weapon_id": "1040311200"
 	},
 	{
+		"number": "410",
 		"id": "3040235000",
 		"name": "Colossus",
 		"short_name": "Colossus",
@@ -8105,6 +8515,7 @@
 		"weapon_id": "1040911300"
 	},
 	{
+		"number": "411",
 		"id": "3040236000",
 		"name": "Sara",
 		"short_name": "Sara",
@@ -8124,6 +8535,7 @@
 		"weapon_id": "1040709300"
 	},
 	{
+		"number": "412",
 		"id": "3040238000",
 		"name": "Monika",
 		"short_name": "Monika",
@@ -8146,6 +8558,7 @@
 		"weapon_id": "1040911500"
 	},
 	{
+		"number": "413",
 		"id": "3040237000",
 		"name": "Siegfried",
 		"short_name": "Siegfried",
@@ -8166,6 +8579,7 @@
 		"weapon_id": "1040911400"
 	},
 	{
+		"number": "414",
 		"id": "3030275000",
 		"name": "La Coiffe",
 		"short_name": "La Coiffe",
@@ -8185,6 +8599,7 @@
 		"weapon_id": "1030008900"
 	},
 	{
+		"number": "415",
 		"id": "3040239000",
 		"name": "Zeta and Vaseraga",
 		"short_name": "Zeta & Vaseraga",
@@ -8208,6 +8623,7 @@
 		"weapon_id": "1040416000"
 	},
 	{
+		"number": "416",
 		"id": "3040240000",
 		"name": "Hallessena",
 		"short_name": "Hallessena",
@@ -8229,6 +8645,7 @@
 		"weapon_id": "1040311400"
 	},
 	{
+		"number": "417",
 		"id": "3030276000",
 		"name": "Zaja",
 		"short_name": "Zaja",
@@ -8250,6 +8667,7 @@
 		"weapon_id": "1030304900"
 	},
 	{
+		"number": "418",
 		"id": "3040242000",
 		"name": "Kou",
 		"short_name": "Kou",
@@ -8270,6 +8688,7 @@
 		"weapon_id": "1040911600"
 	},
 	{
+		"number": "419",
 		"id": "3040241000",
 		"name": "Societte",
 		"short_name": "Societte",
@@ -8290,6 +8709,7 @@
 		"weapon_id": "1040213100"
 	},
 	{
+		"number": "420",
 		"id": "3040245000",
 		"name": "Jeanne d'Arc",
 		"short_name": "Jeanne d'Arc",
@@ -8312,6 +8732,7 @@
 		"weapon_id": "1040213400"
 	},
 	{
+		"number": "421",
 		"id": "3040244000",
 		"name": "Shitori",
 		"short_name": "Shitori",
@@ -8332,6 +8753,7 @@
 		"weapon_id": "1040709400"
 	},
 	{
+		"number": "422",
 		"id": "3030278000",
 		"name": "Krugne",
 		"short_name": "Krugne",
@@ -8351,6 +8773,7 @@
 		"weapon_id": "1030406100"
 	},
 	{
+		"number": "423",
 		"id": "3040246000",
 		"name": "Meteon",
 		"short_name": "Meteon",
@@ -8373,6 +8796,7 @@
 		"weapon_id": "1040511700"
 	},
 	{
+		"number": "424",
 		"id": "3040247000",
 		"name": "Magisa",
 		"short_name": "Magisa",
@@ -8395,6 +8819,7 @@
 		"weapon_id": "1040416200"
 	},
 	{
+		"number": "425",
 		"id": "3040249000",
 		"name": "Narmaya",
 		"short_name": "Narmaya",
@@ -8416,6 +8841,7 @@
 		"weapon_id": "1040911700"
 	},
 	{
+		"number": "426",
 		"id": "3040250000",
 		"name": "Seruel",
 		"short_name": "Seruel",
@@ -8438,6 +8864,7 @@
 		"weapon_id": "1040019400"
 	},
 	{
+		"number": "427",
 		"id": "3040251000",
 		"name": "Helel ben Shalem",
 		"short_name": "Shalem",
@@ -8460,6 +8887,7 @@
 		"weapon_id": "1040311600"
 	},
 	{
+		"number": "428",
 		"id": "3040252000",
 		"name": "Vikala",
 		"short_name": "Vikala",
@@ -8482,6 +8910,7 @@
 		"weapon_id": "1040511900"
 	},
 	{
+		"number": "429",
 		"id": "3040255000",
 		"name": "Noa",
 		"short_name": "Noa",
@@ -8504,6 +8933,7 @@
 		"weapon_id": "1040112500"
 	},
 	{
+		"number": "430",
 		"id": "3040253000",
 		"name": "Yuisis",
 		"short_name": "Yuisis",
@@ -8524,6 +8954,7 @@
 		"weapon_id": "1040112600"
 	},
 	{
+		"number": "431",
 		"id": "3040254000",
 		"name": "Lucius",
 		"short_name": "Lucius",
@@ -8544,6 +8975,7 @@
 		"weapon_id": "1040911900"
 	},
 	{
+		"number": "432",
 		"id": "3040256000",
 		"name": "Danua",
 		"short_name": "Danua",
@@ -8564,6 +8996,7 @@
 		"weapon_id": "1040112700"
 	},
 	{
+		"number": "433",
 		"id": "3040257000",
 		"name": "Jin",
 		"short_name": "Jin",
@@ -8583,6 +9016,7 @@
 		"weapon_id": "1040912000"
 	},
 	{
+		"number": "434",
 		"id": "3040258000",
 		"name": "Ilsa",
 		"short_name": "Ilsa",
@@ -8603,6 +9037,7 @@
 		"weapon_id": "1040512100"
 	},
 	{
+		"number": "435",
 		"id": "3040259000",
 		"name": "Yodarha",
 		"short_name": "Yodarha",
@@ -8623,6 +9058,7 @@
 		"weapon_id": "1040311700"
 	},
 	{
+		"number": "436",
 		"id": "3040260000",
 		"name": "Scathacha",
 		"short_name": "Scathacha",
@@ -8644,6 +9080,7 @@
 		"weapon_id": "1040612400"
 	},
 	{
+		"number": "437",
 		"id": "3040261000",
 		"name": "Grimnir",
 		"short_name": "Grimnir",
@@ -8666,6 +9103,7 @@
 		"weapon_id": "1040213600"
 	},
 	{
+		"number": "438",
 		"id": "3040265000",
 		"name": "Rei",
 		"short_name": "Rei",
@@ -8688,6 +9126,7 @@
 		"weapon_id": "1040811800"
 	},
 	{
+		"number": "439",
 		"id": "3040263000",
 		"name": "Lecia",
 		"short_name": "Lecia",
@@ -8708,6 +9147,7 @@
 		"weapon_id": "1040512200"
 	},
 	{
+		"number": "440",
 		"id": "3040264000",
 		"name": "Vania and Malinda",
 		"short_name": "Bestest Friends",
@@ -8728,6 +9168,7 @@
 		"weapon_id": "1040811700"
 	},
 	{
+		"number": "441",
 		"id": "3040267000",
 		"name": "Mugen",
 		"short_name": "Mugen",
@@ -8750,6 +9191,7 @@
 		"weapon_id": "1040812000"
 	},
 	{
+		"number": "442",
 		"id": "3040266000",
 		"name": "Teena",
 		"short_name": "Teena",
@@ -8771,6 +9213,7 @@
 		"weapon_id": "1040416800"
 	},
 	{
+		"number": "443",
 		"id": "3040268000",
 		"name": "Sturm",
 		"short_name": "Sturm",
@@ -8790,6 +9233,7 @@
 		"weapon_id": "1040019800"
 	},
 	{
+		"number": "444",
 		"id": "3040269000",
 		"name": "Drang",
 		"short_name": "Drang",
@@ -8809,6 +9253,7 @@
 		"weapon_id": "1040416900"
 	},
 	{
+		"number": "445",
 		"id": "3040271000",
 		"name": "Herja",
 		"short_name": "Herja",
@@ -8828,6 +9273,7 @@
 		"weapon_id": "1040213900"
 	},
 	{
+		"number": "446",
 		"id": "3040272000",
 		"name": "Milleore and Sahli Lao",
 		"short_name": "Bow of Unity",
@@ -8848,6 +9294,7 @@
 		"weapon_id": "1040512500"
 	},
 	{
+		"number": "447",
 		"id": "3040274000",
 		"name": "Reinhardtzar",
 		"short_name": "Reinhardtzar",
@@ -8869,6 +9316,7 @@
 		"weapon_id": "1040612700"
 	},
 	{
+		"number": "448",
 		"id": "3040273000",
 		"name": "Shura",
 		"short_name": "Shura",
@@ -8888,6 +9336,7 @@
 		"weapon_id": "1040312600"
 	},
 	{
+		"number": "449",
 		"id": "3040277000",
 		"name": "Illnott",
 		"short_name": "Illnott",
@@ -8907,6 +9356,7 @@
 		"weapon_id": "1040513200"
 	},
 	{
+		"number": "450",
 		"id": "3040278000",
 		"name": "Predator",
 		"short_name": "Predator",
@@ -8926,6 +9376,7 @@
 		"weapon_id": "1040612800"
 	},
 	{
+		"number": "451",
 		"id": "3040279000",
 		"name": "Percival",
 		"short_name": "Percival",
@@ -8945,6 +9396,7 @@
 		"weapon_id": "1040020100"
 	},
 	{
+		"number": "452",
 		"id": "3040280000",
 		"name": "Satyr",
 		"short_name": "Satyr",
@@ -8965,6 +9417,7 @@
 		"weapon_id": "1040812800"
 	},
 	{
+		"number": "453",
 		"id": "3040281000",
 		"name": "Naoise",
 		"short_name": "Naoise",
@@ -8985,6 +9438,7 @@
 		"weapon_id": "1040709900"
 	},
 	{
+		"number": "454",
 		"id": "3040282000",
 		"name": "Pengy",
 		"short_name": "Pengy",
@@ -9005,6 +9459,7 @@
 		"weapon_id": "1040613000"
 	},
 	{
+		"number": "455",
 		"id": "3040285000",
 		"name": "Leona",
 		"short_name": "Leona",
@@ -9026,6 +9481,7 @@
 		"weapon_id": "1040312900"
 	},
 	{
+		"number": "456",
 		"id": "3040283000",
 		"name": "Kolulu",
 		"short_name": "Kolulu",
@@ -9047,6 +9503,7 @@
 		"weapon_id": "1040214900"
 	},
 	{
+		"number": "457",
 		"id": "3040284000",
 		"name": "Abby",
 		"short_name": "Abby",
@@ -9066,6 +9523,7 @@
 		"weapon_id": "1040312800"
 	},
 	{
+		"number": "458",
 		"id": "3040286000",
 		"name": "Lucio",
 		"short_name": "Lucio",
@@ -9088,6 +9546,7 @@
 		"weapon_id": "1040912300"
 	},
 	{
+		"number": "459",
 		"id": "3040287000",
 		"name": "Amira",
 		"short_name": "Amira",
@@ -9109,6 +9568,7 @@
 		"weapon_id": "1040613700"
 	},
 	{
+		"number": "460",
 		"id": "3040288000",
 		"name": "Anila",
 		"short_name": "Anila",
@@ -9132,6 +9592,7 @@
 		"weapon_id": "1040313100"
 	},
 	{
+		"number": "461",
 		"id": "3040289000",
 		"name": "Rosamia",
 		"short_name": "Rosamia",
@@ -9153,6 +9614,7 @@
 		"weapon_id": "1040020400"
 	},
 	{
+		"number": "462",
 		"id": "3030300000",
 		"name": "Tyre",
 		"short_name": "Tyre",
@@ -9175,6 +9637,7 @@
 		"weapon_id": "1030009300"
 	},
 	{
+		"number": "463",
 		"id": "3040290000",
 		"name": "Albert",
 		"short_name": "Albert",
@@ -9196,6 +9659,7 @@
 		"weapon_id": "1040912500"
 	},
 	{
+		"number": "464",
 		"id": "3030310000",
 		"name": "Ferry",
 		"short_name": "Ferry",
@@ -9217,6 +9681,7 @@
 		"weapon_id": "1030009400"
 	},
 	{
+		"number": "465",
 		"id": "3040291000",
 		"name": "Silva",
 		"short_name": "Silva",
@@ -9238,6 +9703,7 @@
 		"weapon_id": "1040513600"
 	},
 	{
+		"number": "466",
 		"id": "3040292000",
 		"name": "Mimlemel",
 		"short_name": "Mimlemel",
@@ -9260,6 +9726,7 @@
 		"weapon_id": "1040812900"
 	},
 	{
+		"number": "467",
 		"id": "3040293000",
 		"name": "Juliet",
 		"short_name": "Juliet",
@@ -9279,6 +9746,7 @@
 		"weapon_id": "1040813000"
 	},
 	{
+		"number": "468",
 		"id": "3030320000",
 		"name": "Joel",
 		"short_name": "Joel",
@@ -9298,6 +9766,7 @@
 		"weapon_id": "1030608700"
 	},
 	{
+		"number": "469",
 		"id": "3040297000",
 		"name": "Golden Knight",
 		"short_name": "Golden Knight",
@@ -9319,6 +9788,7 @@
 		"weapon_id": "1040215300"
 	},
 	{
+		"number": "470",
 		"id": "3040296000",
 		"name": "Diantha",
 		"short_name": "Diantha",
@@ -9338,6 +9808,7 @@
 		"weapon_id": "1040813200"
 	},
 	{
+		"number": "471",
 		"id": "3040298000",
 		"name": "Gawain",
 		"short_name": "Gawain",
@@ -9358,6 +9829,7 @@
 		"weapon_id": "1040313400"
 	},
 	{
+		"number": "472",
 		"id": "3040299000",
 		"name": "Florence",
 		"short_name": "Florence",
@@ -9377,6 +9849,7 @@
 		"weapon_id": "1040418100"
 	},
 	{
+		"number": "473",
 		"id": "3040301000",
 		"name": "Rosetta",
 		"short_name": "Rosetta",
@@ -9399,6 +9872,7 @@
 		"weapon_id": "1040113100"
 	},
 	{
+		"number": "474",
 		"id": "3040300000",
 		"name": "Azazel",
 		"short_name": "Azazel",
@@ -9421,6 +9895,7 @@
 		"weapon_id": "1040215400"
 	},
 	{
+		"number": "475",
 		"id": "3030321000",
 		"name": "Wulf and Renie",
 		"short_name": "Wulf and Renie",
@@ -9443,6 +9918,7 @@
 		"weapon_id": "1030009500"
 	},
 	{
+		"number": "476",
 		"id": "3040302000",
 		"name": "Mireille and Risette",
 		"short_name": "Mireille",
@@ -9463,6 +9939,7 @@
 		"weapon_id": "1040813400"
 	},
 	{
+		"number": "477",
 		"id": "3040303000",
 		"name": "Sutera",
 		"short_name": "Sutera",
@@ -9482,6 +9959,7 @@
 		"weapon_id": "1040710800"
 	},
 	{
+		"number": "478",
 		"id": "3040304000",
 		"name": "Feather",
 		"short_name": "Feather",
@@ -9501,6 +9979,7 @@
 		"weapon_id": "1040614600"
 	},
 	{
+		"number": "479",
 		"id": "3040305000",
 		"name": "Fiorito",
 		"short_name": "Fiorito",
@@ -9520,6 +9999,7 @@
 		"weapon_id": "1040313600"
 	},
 	{
+		"number": "480",
 		"id": "3040306000",
 		"name": "Nemone",
 		"short_name": "Nemone",
@@ -9542,6 +10022,7 @@
 		"weapon_id": "1040418300"
 	},
 	{
+		"number": "481",
 		"id": "3040307000",
 		"name": "Mirin",
 		"short_name": "Mirin",
@@ -9563,6 +10044,7 @@
 		"weapon_id": "1040215600"
 	},
 	{
+		"number": "482",
 		"id": "3040311000",
 		"name": "Lily",
 		"short_name": "Lily",
@@ -9584,6 +10066,7 @@
 		"weapon_id": "1040418400"
 	},
 	{
+		"number": "483",
 		"id": "3030322000",
 		"name": "Spinnah",
 		"short_name": "Spinnah",
@@ -9605,6 +10088,7 @@
 		"weapon_id": "1030108500"
 	},
 	{
+		"number": "484",
 		"id": "3040312000",
 		"name": "Sandalphon",
 		"short_name": "Sandalphon",
@@ -9628,6 +10112,7 @@
 		"weapon_id": "1040020900"
 	},
 	{
+		"number": "485",
 		"id": "3040314000",
 		"name": "Filene",
 		"short_name": "Filene",
@@ -9647,6 +10132,7 @@
 		"weapon_id": "1040215700"
 	},
 	{
+		"number": "486",
 		"id": "3040315000",
 		"name": "Nicholas",
 		"short_name": "Nicholas",
@@ -9668,6 +10154,7 @@
 		"weapon_id": "1040912800"
 	},
 	{
+		"number": "487",
 		"id": "3040313000",
 		"name": "Catura",
 		"short_name": "Catura",
@@ -9690,6 +10177,7 @@
 		"weapon_id": "1040813500"
 	},
 	{
+		"number": "488",
 		"id": "3040316000",
 		"name": "Zehek",
 		"short_name": "Zehek",
@@ -9710,6 +10198,7 @@
 		"weapon_id": "1040113300"
 	},
 	{
+		"number": "489",
 		"id": "3040317000",
 		"name": "Mishra",
 		"short_name": "Mishra",
@@ -9729,6 +10218,7 @@
 		"weapon_id": "1040418500"
 	},
 	{
+		"number": "490",
 		"id": "3040320000",
 		"name": "Cagliostro",
 		"short_name": "Cagliostro",
@@ -9750,6 +10240,7 @@
 		"weapon_id": "1040418600"
 	},
 	{
+		"number": "491",
 		"id": "3040318000",
 		"name": "Nectar",
 		"short_name": "Nectar",
@@ -9770,6 +10261,7 @@
 		"weapon_id": "1040710900"
 	},
 	{
+		"number": "492",
 		"id": "3040319000",
 		"name": "Lamretta",
 		"short_name": "Lamretta",
@@ -9789,6 +10281,7 @@
 		"weapon_id": "1040813600"
 	},
 	{
+		"number": "493",
 		"id": "3040321000",
 		"name": "Monika",
 		"short_name": "Monika",
@@ -9811,6 +10304,7 @@
 		"weapon_id": "1040021000"
 	},
 	{
+		"number": "494",
 		"id": "3040322000",
 		"name": "Aglovale",
 		"short_name": "Aglovale",
@@ -9832,6 +10326,7 @@
 		"weapon_id": "1040614700"
 	},
 	{
+		"number": "495",
 		"id": "3040323000",
 		"name": "Zeta",
 		"short_name": "Zeta",
@@ -9851,6 +10346,7 @@
 		"weapon_id": "1040215900"
 	},
 	{
+		"number": "496",
 		"id": "3040324000",
 		"name": "Vaseraga",
 		"short_name": "Vaseraga",
@@ -9870,6 +10366,7 @@
 		"weapon_id": "1040313900"
 	},
 	{
+		"number": "497",
 		"id": "3040325000",
 		"name": "Farrah and Juri",
 		"short_name": "Training Buds",
@@ -9889,6 +10386,7 @@
 		"weapon_id": "1040021700"
 	},
 	{
+		"number": "498",
 		"id": "3040327000",
 		"name": "Isaac",
 		"short_name": "Isaac",
@@ -9909,6 +10407,7 @@
 		"weapon_id": "1040514400"
 	},
 	{
+		"number": "499",
 		"id": "3040328000",
 		"name": "Beatrix",
 		"short_name": "Beatrix",
@@ -9928,6 +10427,7 @@
 		"weapon_id": "1040021800"
 	},
 	{
+		"number": "500",
 		"id": "3040330000",
 		"name": "Andira",
 		"short_name": "Andira",
@@ -9951,6 +10451,7 @@
 		"weapon_id": "1040314200"
 	},
 	{
+		"number": "501",
 		"id": "3040329000",
 		"name": "Kumbhira",
 		"short_name": "Kumbhira",
@@ -9974,6 +10475,7 @@
 		"weapon_id": "1040216000"
 	},
 	{
+		"number": "502",
 		"id": "3040332000",
 		"name": "Nezha",
 		"short_name": "Nezha",
@@ -9993,6 +10495,7 @@
 		"weapon_id": "1040216100"
 	},
 	{
+		"number": "503",
 		"id": "3040333000",
 		"name": "Shion",
 		"short_name": "Shion",
@@ -10012,6 +10515,7 @@
 		"weapon_id": "1040912900"
 	},
 	{
+		"number": "504",
 		"id": "3040335000",
 		"name": "Narmaya",
 		"short_name": "Narmaya",
@@ -10033,6 +10537,7 @@
 		"weapon_id": "1040022000"
 	},
 	{
+		"number": "505",
 		"id": "3040334000",
 		"name": "Albert",
 		"short_name": "Albert",
@@ -10052,6 +10557,7 @@
 		"weapon_id": "1040022100"
 	},
 	{
+		"number": "506",
 		"id": "3040336000",
 		"name": "Troue",
 		"short_name": "Troue",
@@ -10071,6 +10577,7 @@
 		"weapon_id": "1040114800"
 	},
 	{
+		"number": "507",
 		"id": "3040337000",
 		"name": "Tikoh",
 		"short_name": "Tikoh",
@@ -10090,6 +10597,7 @@
 		"weapon_id": "1040114900"
 	},
 	{
+		"number": "508",
 		"id": "3040338000",
 		"name": "Sho",
 		"short_name": "Sho",
@@ -10109,6 +10617,7 @@
 		"weapon_id": "1040614800"
 	},
 	{
+		"number": "509",
 		"id": "3040339000",
 		"name": "Ms. Miranda",
 		"short_name": "Ms. Miranda",
@@ -10128,6 +10637,7 @@
 		"weapon_id": "1040418900"
 	},
 	{
+		"number": "510",
 		"id": "3040341000",
 		"name": "Nehan",
 		"short_name": "Nehan",
@@ -10150,6 +10660,7 @@
 		"weapon_id": "1040813700"
 	},
 	{
+		"number": "511",
 		"id": "3040340000",
 		"name": "Lennah",
 		"short_name": "Lennah",
@@ -10169,6 +10680,7 @@
 		"weapon_id": "1040614900"
 	},
 	{
+		"number": "512",
 		"id": "3040342000",
 		"name": "Yngwie",
 		"short_name": "Yngwie",
@@ -10191,6 +10703,7 @@
 		"weapon_id": "1040022400"
 	},
 	{
+		"number": "513",
 		"id": "3040343000",
 		"name": "Izmir",
 		"short_name": "Izmir",
@@ -10212,6 +10725,7 @@
 		"weapon_id": "1040615100"
 	},
 	{
+		"number": "514",
 		"id": "3040344000",
 		"name": "Siegfried",
 		"short_name": "Siegfried",
@@ -10233,6 +10747,7 @@
 		"weapon_id": "1040216200"
 	},
 	{
+		"number": "515",
 		"id": "3040345000",
 		"name": "Illnott",
 		"short_name": "Illnott",
@@ -10254,6 +10769,7 @@
 		"weapon_id": "1040514600"
 	},
 	{
+		"number": "516",
 		"id": "3040348000",
 		"name": "Poseidon",
 		"short_name": "Poseidon",
@@ -10275,6 +10791,7 @@
 		"weapon_id": "1040216300"
 	},
 	{
+		"number": "517",
 		"id": "3040346000",
 		"name": "Meg",
 		"short_name": "Meg",
@@ -10297,6 +10814,7 @@
 		"weapon_id": "1040615200"
 	},
 	{
+		"number": "518",
 		"id": "3040347000",
 		"name": "Metera",
 		"short_name": "Metera",
@@ -10318,6 +10836,7 @@
 		"weapon_id": "1040711200"
 	},
 	{
+		"number": "519",
 		"id": "3040349000",
 		"name": "Zahlhamelina",
 		"short_name": "Zahlhamelina",
@@ -10339,6 +10858,7 @@
 		"weapon_id": "1040813800"
 	},
 	{
+		"number": "520",
 		"id": "3040350000",
 		"name": "Tabina",
 		"short_name": "Tabina",
@@ -10361,6 +10881,7 @@
 		"weapon_id": "1040615400"
 	},
 	{
+		"number": "521",
 		"id": "3040351000",
 		"name": "Helel ben Shalem",
 		"short_name": "Shalem",
@@ -10383,6 +10904,7 @@
 		"weapon_id": "1040115100"
 	},
 	{
+		"number": "522",
 		"id": "3040352000",
 		"name": "Shiva",
 		"short_name": "Shiva",
@@ -10405,6 +10927,7 @@
 		"weapon_id": "1040419000"
 	},
 	{
+		"number": "523",
 		"id": "3040354000",
 		"name": "Naoise",
 		"short_name": "Naoise",
@@ -10424,6 +10947,7 @@
 		"weapon_id": "1040216400"
 	},
 	{
+		"number": "524",
 		"id": "3040355000",
 		"name": "Grea",
 		"short_name": "Grea",
@@ -10443,6 +10967,7 @@
 		"weapon_id": "1040913000"
 	},
 	{
+		"number": "525",
 		"id": "3040356000",
 		"name": "Elmott",
 		"short_name": "Elmott",
@@ -10462,6 +10987,7 @@
 		"weapon_id": "1040419100"
 	},
 	{
+		"number": "526",
 		"id": "3040357000",
 		"name": "Lich",
 		"short_name": "Lich",
@@ -10483,6 +11009,7 @@
 		"weapon_id": "1040314300"
 	},
 	{
+		"number": "527",
 		"id": "3040358000",
 		"name": "Arthur",
 		"short_name": "Arthur",
@@ -10502,6 +11029,7 @@
 		"weapon_id": "1040022500"
 	},
 	{
+		"number": "528",
 		"id": "3040359000",
 		"name": "Azusa",
 		"short_name": "Azusa",
@@ -10521,6 +11049,7 @@
 		"weapon_id": "1040913100"
 	},
 	{
+		"number": "529",
 		"id": "3040360000",
 		"name": "Vane",
 		"short_name": "Vane",
@@ -10543,6 +11072,7 @@
 		"weapon_id": "1040615500"
 	},
 	{
+		"number": "530",
 		"id": "3040361000",
 		"name": "Cucouroux",
 		"short_name": "Cucouroux",
@@ -10564,6 +11094,7 @@
 		"weapon_id": "1040514800"
 	},
 	{
+		"number": "531",
 		"id": "3040364000",
 		"name": "Lunalu",
 		"short_name": "Lunalu",
@@ -10585,6 +11116,7 @@
 		"weapon_id": "1040419300"
 	},
 	{
+		"number": "532",
 		"id": "3040365000",
 		"name": "Enyo",
 		"short_name": "Enyo",
@@ -10604,6 +11136,7 @@
 		"weapon_id": "1040216500"
 	},
 	{
+		"number": "533",
 		"id": "3040366000",
 		"name": "Benjamin",
 		"short_name": "Benjamin",
@@ -10626,6 +11159,7 @@
 		"weapon_id": "1040314500"
 	},
 	{
+		"number": "534",
 		"id": "3040367000",
 		"name": "Arulumaya",
 		"short_name": "Arulumaya",
@@ -10645,6 +11179,7 @@
 		"weapon_id": "1040216700"
 	},
 	{
+		"number": "535",
 		"id": "3040369000",
 		"name": "Anthuria",
 		"short_name": "Anthuria",
@@ -10667,6 +11202,7 @@
 		"weapon_id": "1040419400"
 	},
 	{
+		"number": "536",
 		"id": "3040368000",
 		"name": "Randall",
 		"short_name": "Randall",
@@ -10686,6 +11222,7 @@
 		"weapon_id": "1040115200"
 	},
 	{
+		"number": "537",
 		"id": "3040372000",
 		"name": "Mahira",
 		"short_name": "Mahira",
@@ -10709,6 +11246,7 @@
 		"weapon_id": "1040419500"
 	},
 	{
+		"number": "538",
 		"id": "3040373000",
 		"name": "Altair",
 		"short_name": "Altair",
@@ -10730,6 +11268,7 @@
 		"weapon_id": "1040115300"
 	},
 	{
+		"number": "539",
 		"id": "3040374000",
 		"name": "Lancelot",
 		"short_name": "Lancelot",
@@ -10752,6 +11291,7 @@
 		"weapon_id": "1040115600"
 	},
 	{
+		"number": "540",
 		"id": "3040375000",
 		"name": "Satyr",
 		"short_name": "Satyr",
@@ -10772,6 +11312,7 @@
 		"weapon_id": "1040022700"
 	},
 	{
+		"number": "541",
 		"id": "3040377000",
 		"name": "Cidala",
 		"short_name": "Cidala",
@@ -10793,6 +11334,7 @@
 		"weapon_id": "1040615800"
 	},
 	{
+		"number": "542",
 		"id": "3040376000",
 		"name": "Fediel",
 		"short_name": "Fediel",
@@ -10815,6 +11357,7 @@
 		"weapon_id": "1040216900"
 	},
 	{
+		"number": "543",
 		"id": "3040378000",
 		"name": "Ewiyar",
 		"short_name": "Ewiyar",
@@ -10834,6 +11377,7 @@
 		"weapon_id": "1040814100"
 	},
 	{
+		"number": "544",
 		"id": "3040379000",
 		"name": "Cupitan",
 		"short_name": "Cupitan",
@@ -10853,6 +11397,7 @@
 		"weapon_id": "1040814200"
 	},
 	{
+		"number": "545",
 		"id": "3040380000",
 		"name": "Yggdrasil",
 		"short_name": "Yggdrasil",
@@ -10872,6 +11417,7 @@
 		"weapon_id": "1040419800"
 	},
 	{
+		"number": "546",
 		"id": "3040381000",
 		"name": "Wilnas",
 		"short_name": "Wilnas",
@@ -10894,6 +11440,7 @@
 		"weapon_id": "1040314900"
 	},
 	{
+		"number": "547",
 		"id": "3040383000",
 		"name": "Lilele",
 		"short_name": "Lilele",
@@ -10913,6 +11460,7 @@
 		"weapon_id": "1040419900"
 	},
 	{
+		"number": "548",
 		"id": "3040382000",
 		"name": "Ippatsu",
 		"short_name": "Ippatsu",
@@ -10932,6 +11480,7 @@
 		"weapon_id": "1040217100"
 	},
 	{
+		"number": "549",
 		"id": "3040385000",
 		"name": "Vira",
 		"short_name": "Vira",
@@ -10953,6 +11502,7 @@
 		"weapon_id": "1040022800"
 	},
 	{
+		"number": "550",
 		"id": "3040384000",
 		"name": "Cassius",
 		"short_name": "Cassius",
@@ -10975,6 +11525,7 @@
 		"weapon_id": "1040616100"
 	},
 	{
+		"number": "551",
 		"id": "3040386000",
 		"name": "Ladiva",
 		"short_name": "Ladiva",
@@ -10996,6 +11547,7 @@
 		"weapon_id": "1040616200"
 	},
 	{
+		"number": "552",
 		"id": "3040387000",
 		"name": "Freyr",
 		"short_name": "Freyr",
@@ -11015,6 +11567,7 @@
 		"weapon_id": "1040315000"
 	},
 	{
+		"number": "553",
 		"id": "3040388000",
 		"name": "Sylph",
 		"short_name": "Sylph",
@@ -11034,6 +11587,7 @@
 		"weapon_id": "1040814300"
 	},
 	{
+		"number": "554",
 		"id": "3040390000",
 		"name": "Yuni",
 		"short_name": "Yuni",
@@ -11055,6 +11609,7 @@
 		"weapon_id": "1040814500"
 	},
 	{
+		"number": "555",
 		"id": "3040389000",
 		"name": "Medusa",
 		"short_name": "Medusa",
@@ -11077,6 +11632,7 @@
 		"weapon_id": "1040711800"
 	},
 	{
+		"number": "556",
 		"id": "3040392000",
 		"name": "Narmaya",
 		"short_name": "Narmaya",
@@ -11098,6 +11654,7 @@
 		"weapon_id": "1040913600"
 	},
 	{
+		"number": "557",
 		"id": "3040391000",
 		"name": "Silva",
 		"short_name": "Silva",
@@ -11119,6 +11676,7 @@
 		"weapon_id": "1040515300"
 	},
 	{
+		"number": "558",
 		"id": "3040393000",
 		"name": "You",
 		"short_name": "You",
@@ -11139,6 +11697,7 @@
 		"weapon_id": "1040115800"
 	},
 	{
+		"number": "559",
 		"id": "3040394000",
 		"name": "Laguna",
 		"short_name": "Laguna",
@@ -11158,6 +11717,7 @@
 		"weapon_id": "1040217500"
 	},
 	{
+		"number": "560",
 		"id": "3040396000",
 		"name": "Skull and Balurga",
 		"short_name": "Freedom Seekers",
@@ -11178,6 +11738,7 @@
 		"weapon_id": "1040116000"
 	},
 	{
+		"number": "561",
 		"id": "3040397000",
 		"name": "Sophia",
 		"short_name": "Sophia",
@@ -11197,6 +11758,7 @@
 		"weapon_id": "1040420100"
 	},
 	{
+		"number": "562",
 		"id": "3040401000",
 		"name": "Manamel",
 		"short_name": "Manamel",
@@ -11216,6 +11778,7 @@
 		"weapon_id": "1040616500"
 	},
 	{
+		"number": "563",
 		"id": "3040402000",
 		"name": "Anna",
 		"short_name": "Anna",
@@ -11235,6 +11798,7 @@
 		"weapon_id": "1040217600"
 	},
 	{
+		"number": "564",
 		"id": "3040403000",
 		"name": "Elea",
 		"short_name": "Elea",
@@ -11255,6 +11819,7 @@
 		"weapon_id": "1040023100"
 	},
 	{
+		"number": "565",
 		"id": "3040404000",
 		"name": "Jamil",
 		"short_name": "Jamil",
@@ -11274,6 +11839,7 @@
 		"weapon_id": "1040116100"
 	},
 	{
+		"number": "566",
 		"id": "3040405000",
 		"name": "Galleon",
 		"short_name": "Galleon",
@@ -11295,6 +11861,7 @@
 		"weapon_id": "1040420500"
 	},
 	{
+		"number": "567",
 		"id": "3040406000",
 		"name": "Gwynne",
 		"short_name": "Gwynne",
@@ -11315,6 +11882,7 @@
 		"weapon_id": "1040023200"
 	},
 	{
+		"number": "568",
 		"id": "3040407000",
 		"name": "Vajra",
 		"short_name": "Vajra",
@@ -11338,6 +11906,7 @@
 		"weapon_id": "1040913900"
 	},
 	{
+		"number": "569",
 		"id": "3040408000",
 		"name": "Vikala",
 		"short_name": "Vikala",
@@ -11361,6 +11930,7 @@
 		"weapon_id": "1040023300"
 	},
 	{
+		"number": "570",
 		"id": "3040409000",
 		"name": "Mirin",
 		"short_name": "Mirin",
@@ -11382,6 +11952,7 @@
 		"weapon_id": "1040914000"
 	},
 	{
+		"number": "571",
 		"id": "3040410000",
 		"name": "Shion",
 		"short_name": "Shion",
@@ -11403,6 +11974,7 @@
 		"weapon_id": "1040116200"
 	},
 	{
+		"number": "572",
 		"id": "3040413000",
 		"name": "Clarisse",
 		"short_name": "Clarisse",
@@ -11424,6 +11996,7 @@
 		"weapon_id": "1040814700"
 	},
 	{
+		"number": "573",
 		"id": "3040412000",
 		"name": "Magisa",
 		"short_name": "Magisa",
@@ -11446,6 +12019,7 @@
 		"weapon_id": "1040420700"
 	},
 	{
+		"number": "574",
 		"id": "3040411000",
 		"name": "Eustace",
 		"short_name": "Eustace",
@@ -11468,6 +12042,7 @@
 		"weapon_id": "1040515400"
 	},
 	{
+		"number": "575",
 		"id": "3040414000",
 		"name": "Tikoh",
 		"short_name": "Tikoh",
@@ -11489,6 +12064,7 @@
 		"weapon_id": "1040420800"
 	},
 	{
+		"number": "576",
 		"id": "3040415000",
 		"name": "Sturm",
 		"short_name": "Sturm",
@@ -11510,6 +12086,7 @@
 		"weapon_id": "1040023400"
 	},
 	{
+		"number": "577",
 		"id": "3040419000",
 		"name": "Wamdus",
 		"short_name": "Wamdus",
@@ -11532,6 +12109,7 @@
 		"weapon_id": "1040315500"
 	},
 	{
+		"number": "578",
 		"id": "3040420000",
 		"name": "Jeanne d'Arc",
 		"short_name": "Jeanne d'Arc",
@@ -11553,6 +12131,7 @@
 		"weapon_id": "1040217800"
 	},
 	{
+		"number": "579",
 		"id": "3040421000",
 		"name": "Erika",
 		"short_name": "Erika",
@@ -11572,6 +12151,7 @@
 		"weapon_id": "1040515600"
 	},
 	{
+		"number": "580",
 		"id": "3040422000",
 		"name": "Anderson",
 		"short_name": "Anderson",
@@ -11592,6 +12172,7 @@
 		"weapon_id": "1040023600"
 	},
 	{
+		"number": "581",
 		"id": "3040423000",
 		"name": "Jessica",
 		"short_name": "Jessica",
@@ -11611,6 +12192,7 @@
 		"weapon_id": "1040515700"
 	},
 	{
+		"number": "582",
 		"id": "3040424000",
 		"name": "Bowman",
 		"short_name": "Bowman",
@@ -11632,6 +12214,7 @@
 		"weapon_id": "1040616700"
 	},
 	{
+		"number": "583",
 		"id": "3040425000",
 		"name": "Percival",
 		"short_name": "Percival",
@@ -11653,6 +12236,7 @@
 		"weapon_id": "1040023700"
 	},
 	{
+		"number": "584",
 		"id": "3040426000",
 		"name": "Aglovale and Tor",
 		"short_name": "Supreme Duo",
@@ -11672,6 +12256,7 @@
 		"weapon_id": "1040217900"
 	},
 	{
+		"number": "585",
 		"id": "3040427000",
 		"name": "Lich",
 		"short_name": "Lich",
@@ -11693,6 +12278,7 @@
 		"weapon_id": "1040315600"
 	},
 	{
+		"number": "586",
 		"id": "3040428000",
 		"name": "Mugen",
 		"short_name": "Mugen",
@@ -11715,6 +12301,7 @@
 		"weapon_id": "1040814800"
 	},
 	{
+		"number": "587",
 		"id": "3040429000",
 		"name": "Florence",
 		"short_name": "Florence",
@@ -11736,6 +12323,7 @@
 		"weapon_id": "1040421000"
 	},
 	{
+		"number": "588",
 		"id": "3040430000",
 		"name": "Yuel and Societte",
 		"short_name": "Perennial Pair",
@@ -11756,6 +12344,7 @@
 		"weapon_id": "1040616800"
 	},
 	{
+		"number": "589",
 		"id": "3040431000",
 		"name": "Alliah",
 		"short_name": "Alliah",
@@ -11775,6 +12364,7 @@
 		"weapon_id": "1040023900"
 	},
 	{
+		"number": "590",
 		"id": "3040432000",
 		"name": "Adam",
 		"short_name": "Adam",
@@ -11794,6 +12384,7 @@
 		"weapon_id": "1040315800"
 	},
 	{
+		"number": "591",
 		"id": "3040433000",
 		"name": "Therese",
 		"short_name": "Therese",
@@ -11813,6 +12404,7 @@
 		"weapon_id": "1040024000"
 	},
 	{
+		"number": "592",
 		"id": "3040434000",
 		"name": "Europa",
 		"short_name": "Europa",
@@ -11834,6 +12426,7 @@
 		"weapon_id": "1040421100"
 	},
 	{
+		"number": "593",
 		"id": "3040435000",
 		"name": "Fiorito",
 		"short_name": "Fiorito",
@@ -11855,6 +12448,7 @@
 		"weapon_id": "1040712100"
 	},
 	{
+		"number": "594",
 		"id": "3040437000",
 		"name": "Catura",
 		"short_name": "Catura",
@@ -11878,6 +12472,7 @@
 		"weapon_id": "1040617000"
 	},
 	{
+		"number": "595",
 		"id": "3040436000",
 		"name": "Cain",
 		"short_name": "Cain",
@@ -11899,6 +12494,7 @@
 		"weapon_id": "1040914400"
 	},
 	{
+		"number": "596",
 		"id": "3040438000",
 		"name": "Charlotta",
 		"short_name": "Charlotta",
@@ -11920,6 +12516,7 @@
 		"weapon_id": "1040024200"
 	},
 	{
+		"number": "597",
 		"id": "3040439000",
 		"name": "Erin",
 		"short_name": "Erin",
@@ -11939,6 +12536,7 @@
 		"weapon_id": "1040116500"
 	},
 	{
+		"number": "598",
 		"id": "3040441000",
 		"name": "Makura",
 		"short_name": "Makura",
@@ -11960,6 +12558,7 @@
 		"weapon_id": "1040914500"
 	},
 	{
+		"number": "599",
 		"id": "3040440000",
 		"name": "Michael",
 		"short_name": "Michael",
@@ -11981,6 +12580,7 @@
 		"weapon_id": "1040315900"
 	},
 	{
+		"number": "600",
 		"id": "3040442000",
 		"name": "Ultimate Friday",
 		"short_name": "Ultimate Friday",
@@ -12003,6 +12603,7 @@
 		"weapon_id": "1040218200"
 	},
 	{
+		"number": "601",
 		"id": "3040443000",
 		"name": "Halluel and Malluel",
 		"short_name": "Hal & Mal",
@@ -12024,6 +12625,7 @@
 		"weapon_id": "1040116600"
 	},
 	{
+		"number": "602",
 		"id": "3040444000",
 		"name": "Amelia",
 		"short_name": "Amelia",
@@ -12043,6 +12645,7 @@
 		"weapon_id": "1040218300"
 	},
 	{
+		"number": "603",
 		"id": "3040445000",
 		"name": "Cendrillon",
 		"short_name": "Cendrillon",
@@ -12063,6 +12666,7 @@
 		"weapon_id": "1040116700"
 	},
 	{
+		"number": "604",
 		"id": "3040446000",
 		"name": "Orchid",
 		"short_name": "Orchid",
@@ -12083,6 +12687,7 @@
 		"weapon_id": "1040421400"
 	},
 	{
+		"number": "605",
 		"id": "3040447000",
 		"name": "Sandalphon",
 		"short_name": "Sandalphon",
@@ -12105,6 +12710,7 @@
 		"weapon_id": "1040617200"
 	},
 	{
+		"number": "606",
 		"id": "3040448000",
 		"name": "Sen",
 		"short_name": "Sen",
@@ -12126,6 +12732,7 @@
 		"weapon_id": "1040421500"
 	},
 	{
+		"number": "607",
 		"id": "3040449000",
 		"name": "Lu Woh",
 		"short_name": "Lu Woh",
@@ -12148,6 +12755,7 @@
 		"weapon_id": "1040617300"
 	},
 	{
+		"number": "608",
 		"id": "3040450000",
 		"name": "Hekate",
 		"short_name": "Hekate",
@@ -12167,6 +12775,7 @@
 		"weapon_id": "1040421600"
 	},
 	{
+		"number": "609",
 		"id": "3040452000",
 		"name": "Ewiyar",
 		"short_name": "Ewiyar",
@@ -12188,6 +12797,7 @@
 		"weapon_id": "1040116800"
 	},
 	{
+		"number": "610",
 		"id": "3040454000",
 		"name": "Monika",
 		"short_name": "Monika",
@@ -12210,6 +12820,7 @@
 		"weapon_id": "1040712300"
 	},
 	{
+		"number": "611",
 		"id": "3040453000",
 		"name": "Azusa",
 		"short_name": "Azusa",
@@ -12231,6 +12842,7 @@
 		"weapon_id": "1040515900"
 	},
 	{
+		"number": "612",
 		"id": "3040456000",
 		"name": "Ilsa",
 		"short_name": "Ilsa",
@@ -12253,6 +12865,7 @@
 		"weapon_id": "1040316100"
 	},
 	{
+		"number": "613",
 		"id": "3040455000",
 		"name": "Nezha",
 		"short_name": "Nezha",
@@ -12274,6 +12887,7 @@
 		"weapon_id": "1040617500"
 	},
 	{
+		"number": "614",
 		"id": "3040458000",
 		"name": "Yaia",
 		"short_name": "Yaia",
@@ -12293,6 +12907,7 @@
 		"weapon_id": "1040024500"
 	},
 	{
+		"number": "615",
 		"id": "3040459000",
 		"name": "Jasmine",
 		"short_name": "Jasmine",
@@ -12312,6 +12927,7 @@
 		"weapon_id": "1040316200"
 	},
 	{
+		"number": "616",
 		"id": "3040461000",
 		"name": "Cantate",
 		"short_name": "Cantate",
@@ -12331,6 +12947,7 @@
 		"weapon_id": "1040815600"
 	},
 	{
+		"number": "617",
 		"id": "3040460000",
 		"name": "Caro",
 		"short_name": "Caro",
@@ -12350,6 +12967,7 @@
 		"weapon_id": "1040815500"
 	},
 	{
+		"number": "618",
 		"id": "3040462000",
 		"name": "Icarus",
 		"short_name": "Icarus",
@@ -12369,6 +12987,7 @@
 		"weapon_id": "1040024600"
 	},
 	{
+		"number": "619",
 		"id": "3040463000",
 		"name": "Lily",
 		"short_name": "Lily",
@@ -12388,6 +13007,7 @@
 		"weapon_id": "1040421800"
 	},
 	{
+		"number": "620",
 		"id": "3040464000",
 		"name": "Drusilla",
 		"short_name": "Drusilla",
@@ -12407,6 +13027,7 @@
 		"weapon_id": "1040116900"
 	},
 	{
+		"number": "621",
 		"id": "3040465000",
 		"name": "Korwa",
 		"short_name": "Korwa",
@@ -12426,6 +13047,7 @@
 		"weapon_id": "1040218400"
 	},
 	{
+		"number": "622",
 		"id": "3040467000",
 		"name": "Cosmos",
 		"short_name": "Cosmos",
@@ -12448,6 +13070,7 @@
 		"weapon_id": "1040815700"
 	},
 	{
+		"number": "623",
 		"id": "3040466000",
 		"name": "Baal",
 		"short_name": "Baal",
@@ -12468,6 +13091,7 @@
 		"weapon_id": "1040915300"
 	},
 	{
+		"number": "624",
 		"id": "3040468000",
 		"name": "Cupitan",
 		"short_name": "Cupitan",
@@ -12489,6 +13113,7 @@
 		"weapon_id": "1040421900"
 	},
 	{
+		"number": "625",
 		"id": "3040469000",
 		"name": "Pholia",
 		"short_name": "Pholia",
@@ -12511,6 +13136,7 @@
 		"weapon_id": "1040712600"
 	},
 	{
+		"number": "626",
 		"id": "3040470000",
 		"name": "Enyo",
 		"short_name": "Enyo",
@@ -12532,6 +13158,7 @@
 		"weapon_id": "1040516100"
 	},
 	{
+		"number": "627",
 		"id": "3040471000",
 		"name": "Vaseraga",
 		"short_name": "Vaseraga",
@@ -12553,6 +13180,7 @@
 		"weapon_id": "1040316300"
 	},
 	{
+		"number": "628",
 		"id": "3040472000",
 		"name": "Fediel",
 		"short_name": "Fediel",
@@ -12575,6 +13203,7 @@
 		"weapon_id": "1040815800"
 	},
 	{
+		"number": "629",
 		"id": "3040474000",
 		"name": "Aliza",
 		"short_name": "Aliza",
@@ -12596,6 +13225,7 @@
 		"weapon_id": "1040024700"
 	},
 	{
+		"number": "630",
 		"id": "3040475000",
 		"name": "Dorothy and Claudia",
 		"short_name": "The Maids",
@@ -12618,6 +13248,7 @@
 		"weapon_id": "1040516200"
 	},
 	{
+		"number": "631",
 		"id": "3040473000",
 		"name": "Yurius",
 		"short_name": "Yurius",
@@ -12640,6 +13271,7 @@
 		"weapon_id": "1040218600"
 	},
 	{
+		"number": "632",
 		"id": "3040478000",
 		"name": "Vania",
 		"short_name": "Vania",
@@ -12662,6 +13294,7 @@
 		"weapon_id": "1040422000"
 	},
 	{
+		"number": "633",
 		"id": "3040479000",
 		"name": "Anila",
 		"short_name": "Anila",
@@ -12685,6 +13318,7 @@
 		"weapon_id": "1040915400"
 	},
 	{
+		"number": "634",
 		"id": "3040480000",
 		"name": "Seruel",
 		"short_name": "Seruel",
@@ -12706,6 +13340,7 @@
 		"weapon_id": "1040024800"
 	},
 	{
+		"number": "635",
 		"id": "3040481000",
 		"name": "Ragazzo",
 		"short_name": "Ragazzo",
@@ -12725,6 +13360,7 @@
 		"weapon_id": "1040218700"
 	},
 	{
+		"number": "636",
 		"id": "3040482000",
 		"name": "Meg and Mari",
 		"short_name": "Meg and Mari",
@@ -12746,6 +13382,7 @@
 		"weapon_id": "1040617700"
 	},
 	{
+		"number": "637",
 		"id": "3040486000",
 		"name": "Kaguya",
 		"short_name": "Kaguya",
@@ -12767,6 +13404,7 @@
 		"weapon_id": "1040117200"
 	},
 	{
+		"number": "638",
 		"id": "3040483000",
 		"name": "Paris",
 		"short_name": "Paris",
@@ -12786,6 +13424,7 @@
 		"weapon_id": "1040024900"
 	},
 	{
+		"number": "639",
 		"id": "3040485000",
 		"name": "Siegfried",
 		"short_name": "Siegfried",
@@ -12808,6 +13447,7 @@
 		"weapon_id": "1040915500"
 	},
 	{
+		"number": "640",
 		"id": "3040484000",
 		"name": "Catherine",
 		"short_name": "Catherine",
@@ -12827,6 +13467,7 @@
 		"weapon_id": "1040617800"
 	},
 	{
+		"number": "641",
 		"id": "3040488000",
 		"name": "Vikala",
 		"short_name": "Vikala",
@@ -12850,6 +13491,7 @@
 		"weapon_id": "1040422100"
 	},
 	{
+		"number": "642",
 		"id": "3040487000",
 		"name": "Tikoh",
 		"short_name": "Tikoh",
@@ -12871,6 +13513,7 @@
 		"weapon_id": "1040516400"
 	},
 	{
+		"number": "643",
 		"id": "3040489000",
 		"name": "Dante",
 		"short_name": "Dante",
@@ -12893,6 +13536,7 @@
 		"weapon_id": "1040316400"
 	},
 	{
+		"number": "644",
 		"id": "3040490000",
 		"name": "Sevilbarra",
 		"short_name": "Sevilbarra",
@@ -12912,6 +13556,7 @@
 		"weapon_id": "1040915800"
 	},
 	{
+		"number": "645",
 		"id": "3040491000",
 		"name": "Utsusemi",
 		"short_name": "Utsusemi",
@@ -12932,6 +13577,7 @@
 		"weapon_id": "1040117400"
 	},
 	{
+		"number": "646",
 		"id": "3040492000",
 		"name": "Gabriel",
 		"short_name": "Gabriel",
@@ -12953,6 +13599,7 @@
 		"weapon_id": "1040117800"
 	},
 	{
+		"number": "647",
 		"id": "3040493000",
 		"name": "Barawa and Sarya",
 		"short_name": "Barawa and Sarya",
@@ -12972,6 +13619,7 @@
 		"weapon_id": "1040516600"
 	},
 	{
+		"number": "648",
 		"id": "3040494000",
 		"name": "Volenna",
 		"short_name": "Volenna",
@@ -12991,6 +13639,7 @@
 		"weapon_id": "1040025300"
 	},
 	{
+		"number": "649",
 		"id": "3040495000",
 		"name": "Yuni",
 		"short_name": "Yuni",
@@ -13012,6 +13661,7 @@
 		"weapon_id": "1040713100"
 	},
 	{
+		"number": "650",
 		"id": "3040496000",
 		"name": "Illnott",
 		"short_name": "Illnott",
