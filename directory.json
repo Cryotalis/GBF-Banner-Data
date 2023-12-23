@@ -1,0 +1,1344 @@
+[
+	{
+		"id": "207390",
+		"key": "960qmr7p",
+		"start": "7 p.m., Dec 23, 2023 (JST)",
+		"end": "11:59 p.m., Dec 25, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040816200",
+			"1040218800",
+			"1040713100",
+			"1040516700"
+		],
+		"seasons": [
+			"Holiday"
+		],
+		"series": [
+			"Holiday",
+			"Fantasy",
+			"12 Generals"
+		],
+		"totalRate1": 99.686,
+		"totalRate2": 99.707,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "207380",
+		"key": "867s38vk",
+		"start": "7 p.m., Dec 20, 2023 (JST)",
+		"end": "6:59 p.m., Dec 23, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040617000",
+			"1040419500",
+			"1040218200"
+		],
+		"seasons": [
+			"Holiday"
+		],
+		"series": [
+			"Holiday",
+			"Fantasy",
+			"12 Generals"
+		],
+		"totalRate1": 99.691,
+		"totalRate2": 99.785,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "207370",
+		"key": "7xcqsofs",
+		"start": "7 p.m., Dec 17, 2023 (JST)",
+		"end": "6:59 p.m., Dec 20, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040816200",
+			"1040218800"
+		],
+		"seasons": [
+			"Holiday"
+		],
+		"series": [
+			"Holiday",
+			"Grand",
+			"Fantasy",
+			"12 Generals"
+		],
+		"totalRate1": 99.702,
+		"totalRate2": 99.747,
+		"drawRates": {
+			"SS Rare": "6.00%",
+			"S Rare": "15.00%",
+			"Rare": "79.00%"
+		}
+	},
+	{
+		"id": "207360",
+		"key": "6sdiobwo",
+		"start": "7 p.m., Dec 15, 2023 (JST)",
+		"end": "6:59 p.m., Dec 17, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040617000",
+			"1040914400",
+			"1040419400",
+			"1040419500"
+		],
+		"seasons": [
+			"Holiday"
+		],
+		"series": [
+			"Holiday",
+			"Fantasy",
+			"12 Generals"
+		],
+		"totalRate1": 99.664,
+		"totalRate2": 99.758,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "207350",
+		"key": "5kiebss4",
+		"start": "7 p.m., Dec 12, 2023 (JST)",
+		"end": "6:59 p.m., Dec 15, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040418300",
+			"1040421100",
+			"1040115300",
+			"1040211800",
+			"2040388000"
+		],
+		"seasons": [
+			"Holiday"
+		],
+		"series": [
+			"Holiday",
+			"Fantasy"
+		],
+		"totalRate1": 99.766,
+		"totalRate2": 99.822,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "207340",
+		"key": "403aaht0",
+		"start": "7 p.m., Dec 9, 2023 (JST)",
+		"end": "6:59 p.m., Dec 12, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040511700",
+			"1040019400",
+			"1040508700",
+			"1040409100"
+		],
+		"seasons": [
+			"Holiday"
+		],
+		"series": [
+			"Holiday",
+			"Fantasy"
+		],
+		"totalRate1": 99.747,
+		"totalRate2": 99.772,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "207330",
+		"key": "3w9kkcfu",
+		"start": "7 p.m., Dec 6, 2023 (JST)",
+		"end": "6:59 p.m., Dec 9, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040116500",
+			"1040514400",
+			"1040215700",
+			"1040415200"
+		],
+		"seasons": [
+			"Holiday"
+		],
+		"series": [
+			"Fantasy",
+			"Holiday"
+		],
+		"totalRate1": 99.757,
+		"totalRate2": 99.808,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "207320",
+		"key": "2w3fyigq",
+		"start": "7 p.m., Dec 3, 2023 (JST)",
+		"end": "6:59 p.m., Dec 6, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040516600",
+			"1040024000",
+			"1040108000"
+		],
+		"seasons": [
+			"Holiday"
+		],
+		"series": [
+			"Fantasy",
+			"Holiday"
+		],
+		"totalRate1": 99.768,
+		"totalRate2": 99.785,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "207310",
+		"key": "18pjfv21",
+		"start": "12 noon, Nov 30, 2023 (JST)",
+		"end": "6:59 p.m., Dec 3, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040713100",
+			"1040516700"
+		],
+		"seasons": [
+			"Holiday"
+		],
+		"series": [
+			"12 Generals",
+			"Grand",
+			"Fantasy",
+			"Holiday"
+		],
+		"totalRate1": 99.815,
+		"totalRate2": 99.871,
+		"drawRates": {
+			"SS Rare": "6.00%",
+			"S Rare": "15.00%",
+			"Rare": "79.00%"
+		}
+	},
+	{
+		"id": "207300",
+		"key": "0kqyqo35",
+		"start": "7 p.m., Nov 27, 2023 (JST)",
+		"end": "11:59 a.m., Nov 30, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040117400",
+			"1040218700",
+			"1040514400",
+			"2040417000",
+			"2040408000",
+			"2040413000"
+		],
+		"seasons": [],
+		"series": [
+			"Fantasy"
+		],
+		"totalRate1": 99.78,
+		"totalRate2": 99.822,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "207290",
+		"key": "9itwmf8f",
+		"start": "7 p.m., Nov 23, 2023 (JST)",
+		"end": "6:59 p.m., Nov 27, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040215900",
+			"1040814200",
+			"1040515600"
+		],
+		"seasons": [],
+		"series": [
+			"Fantasy"
+		],
+		"totalRate1": 99.752,
+		"totalRate2": 99.803,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "207280",
+		"key": "8ris1ed3",
+		"start": "7 p.m., Nov 20, 2023 (JST)",
+		"end": "6:59 p.m., Nov 23, 2023 (JST)",
+		"featuredItemIDs": [
+			"2040417000",
+			"2040413000",
+			"2040225000",
+			"2040114000",
+			"2040311000",
+			"2040100000"
+		],
+		"seasons": [],
+		"series": [
+			"Fantasy"
+		],
+		"totalRate1": 99.788,
+		"totalRate2": 99.892,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "207270",
+		"key": "7v0c25z6",
+		"start": "7 p.m., Nov 17, 2023 (JST)",
+		"end": "6:59 p.m., Nov 20, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040117800",
+			"1040516600",
+			"1040025300"
+		],
+		"seasons": [],
+		"series": [
+			"Grand",
+			"Fantasy"
+		],
+		"totalRate1": 99.733,
+		"totalRate2": 99.789,
+		"drawRates": {
+			"SS Rare": "6.00%",
+			"S Rare": "15.00%",
+			"Rare": "79.00%"
+		}
+	},
+	{
+		"id": "207260",
+		"key": "6xgkjiwz",
+		"start": "7 p.m., Nov 15, 2023 (JST)",
+		"end": "6:59 p.m., Nov 17, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040218400",
+			"1040116500",
+			"1040515600",
+			"1040420100"
+		],
+		"seasons": [],
+		"series": [
+			"Fantasy"
+		],
+		"totalRate1": 99.705,
+		"totalRate2": 99.816,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "207250",
+		"key": "5bkc14ke",
+		"start": "7 p.m., Nov 13, 2023 (JST)",
+		"end": "6:59 p.m., Nov 15, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040306100_3",
+			"1040009400_3",
+			"1040414400_3",
+			"1040509000_3"
+		],
+		"seasons": [],
+		"series": [
+			"Fantasy"
+		],
+		"totalRate1": 99.679,
+		"totalRate2": 99.742,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "207240",
+		"key": "48jjqvrr",
+		"start": "7 p.m., Nov 9, 2023 (JST)",
+		"end": "6:59 p.m., Nov 13, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040023200",
+			"1040024600",
+			"1040316200",
+			"1040315800"
+		],
+		"seasons": [],
+		"series": [
+			"Fantasy"
+		],
+		"totalRate1": 99.798,
+		"totalRate2": 99.801,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "207230",
+		"key": "3x1rndo4",
+		"start": "7 p.m., Nov 6, 2023 (JST)",
+		"end": "6:59 p.m., Nov 9, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040024900",
+			"1040024500",
+			"1040617800",
+			"1040421800"
+		],
+		"seasons": [],
+		"series": [
+			"Fantasy"
+		],
+		"totalRate1": 99.725,
+		"totalRate2": 99.776,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "207220",
+		"key": "2so3zj4k",
+		"start": "7 p.m., Nov 3, 2023 (JST)",
+		"end": "6:59 p.m., Nov 6, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040218700",
+			"1040915300",
+			"1040218400",
+			"1040116500"
+		],
+		"seasons": [],
+		"series": [
+			"Fantasy"
+		],
+		"totalRate1": 99.725,
+		"totalRate2": 99.776,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "207210",
+		"key": "1w2aqv3o",
+		"start": "12 noon, Oct 31, 2023 (JST)",
+		"end": "6:59 p.m., Nov 3, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040915800",
+			"1040117400",
+			"2040424000"
+		],
+		"seasons": [],
+		"series": [
+			"Grand",
+			"Fantasy",
+			"12 Generals"
+		],
+		"totalRate1": 99.776,
+		"totalRate2": 99.832,
+		"drawRates": {
+			"SS Rare": "6.00%",
+			"S Rare": "15.00%",
+			"Rare": "79.00%"
+		}
+	},
+	{
+		"id": "207200",
+		"key": "01tnbhj4",
+		"start": "12 noon, Oct 28, 2023 (JST)",
+		"end": "11:59 a.m., Oct 31, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040422100",
+			"1040315600",
+			"1040615500"
+		],
+		"seasons": [
+			"Halloween"
+		],
+		"series": [
+			"Halloween",
+			"Grand",
+			"Fantasy",
+			"12 Generals"
+		],
+		"totalRate1": 99.66,
+		"totalRate2": 99.731,
+		"drawRates": {
+			"SS Rare": "6.00%",
+			"S Rare": "15.00%",
+			"Rare": "79.00%"
+		}
+	},
+	{
+		"id": "207190",
+		"key": "48vn7zqx",
+		"start": "7 p.m., Oct 27, 2023 (JST)",
+		"end": "11:59 a.m., Oct 28, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040516400",
+			"1040808700",
+			"1040404200"
+		],
+		"seasons": [
+			"Halloween"
+		],
+		"series": [
+			"Halloween",
+			"Fantasy",
+			"12 Generals"
+		],
+		"totalRate1": 99.71,
+		"totalRate2": 99.899,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "207180",
+		"key": "48vn7zqx",
+		"start": "7 p.m., Oct 26, 2023 (JST)",
+		"end": "6:59 p.m., Oct 27, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040421000",
+			"1040814800",
+			"1040311400"
+		],
+		"seasons": [
+			"Halloween"
+		],
+		"series": [
+			"Halloween",
+			"Fantasy",
+			"12 Generals"
+		],
+		"totalRate1": 99.805,
+		"totalRate2": 99.86,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "207170",
+		"key": "48vn7zqx",
+		"start": "7 p.m., Oct 25, 2023 (JST)",
+		"end": "6:59 p.m., Oct 26, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040315600",
+			"1040615500",
+			"1040617800"
+		],
+		"seasons": [
+			"Halloween"
+		],
+		"series": [
+			"Halloween",
+			"Fantasy",
+			"12 Generals"
+		],
+		"totalRate1": 99.69,
+		"totalRate2": 99.867,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "207160",
+		"key": "48vn7zqx",
+		"start": "7 p.m., Oct 24, 2023 (JST)",
+		"end": "6:59 p.m., Oct 25, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040316400",
+			"1040514800",
+			"1040416000"
+		],
+		"seasons": [
+			"Halloween"
+		],
+		"series": [
+			"Halloween",
+			"Fantasy",
+			"12 Generals"
+		],
+		"totalRate1": 99.741,
+		"totalRate2": 99.895,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "207150",
+		"key": "48vn7zqx",
+		"start": "7 p.m., Oct 23, 2023 (JST)",
+		"end": "6:59 p.m., Oct 24, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040422100",
+			"1040113100",
+			"1040218400"
+		],
+		"seasons": [
+			"Halloween"
+		],
+		"series": [
+			"Halloween",
+			"Fantasy",
+			"12 Generals"
+		],
+		"totalRate1": 99.621,
+		"totalRate2": 99.714,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "207140",
+		"key": "48vn7zqx",
+		"start": "7 p.m., Oct 22, 2023 (JST)",
+		"end": "6:59 p.m., Oct 23, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040215400",
+			"1040411500",
+			"1040218700"
+		],
+		"seasons": [
+			"Halloween"
+		],
+		"series": [
+			"Halloween",
+			"Fantasy",
+			"12 Generals"
+		],
+		"totalRate1": 99.753,
+		"totalRate2": 99.845,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "207130",
+		"key": "3y2dr2iz",
+		"start": "7 p.m., Oct 18, 2023 (JST)",
+		"end": "6:59 p.m., Oct 22, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040422100",
+			"1040516400",
+			"1040316400"
+		],
+		"seasons": [
+			"Halloween"
+		],
+		"series": [
+			"Halloween",
+			"Grand",
+			"Fantasy",
+			"12 Generals"
+		],
+		"totalRate1": 99.568,
+		"totalRate2": 99.631,
+		"drawRates": {
+			"SS Rare": "6.00%",
+			"S Rare": "15.00%",
+			"Rare": "79.00%"
+		}
+	},
+	{
+		"id": "207120",
+		"key": "2u247tfd",
+		"start": "7 p.m., Oct 15, 2023 (JST)",
+		"end": "6:59 p.m., Oct 18, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040421000",
+			"1040814800",
+			"1040311400",
+			"1040915500"
+		],
+		"seasons": [
+			"Halloween"
+		],
+		"series": [
+			"Halloween",
+			"Fantasy"
+		],
+		"totalRate1": 99.711,
+		"totalRate2": 99.738,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "207110",
+		"key": "18bmnpx9",
+		"start": "7 p.m., Oct 12, 2023 (JST)",
+		"end": "6:59 p.m., Oct 15, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040315600",
+			"1040421000",
+			"1040514800",
+			"1040615500"
+		],
+		"seasons": [
+			"Halloween"
+		],
+		"series": [
+			"Halloween",
+			"Fantasy"
+		],
+		"totalRate1": 99.58,
+		"totalRate2": 99.701,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "207100",
+		"key": "0h6afx0p",
+		"start": "7 p.m., Oct 9, 2023 (JST)",
+		"end": "6:59 p.m., Oct 12, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040113100",
+			"1040215400",
+			"1040311400",
+			"1040416000"
+		],
+		"seasons": [
+			"Halloween"
+		],
+		"series": [
+			"Halloween",
+			"Fantasy"
+		],
+		"totalRate1": 99.756,
+		"totalRate2": 99.841,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "207090",
+		"key": "9eci7zxb",
+		"start": "7 p.m., Oct 6, 2023 (JST)",
+		"end": "6:59 p.m., Oct 9, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040808700",
+			"1040411500",
+			"1040506300",
+			"1040404200"
+		],
+		"seasons": [
+			"Halloween"
+		],
+		"series": [
+			"Halloween",
+			"Fantasy"
+		],
+		"totalRate1": 99.681,
+		"totalRate2": 99.718,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "207080",
+		"key": "8x6qii5r",
+		"start": "7 p.m., Oct 3, 2023 (JST)",
+		"end": "6:59 p.m., Oct 6, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040915500",
+			"1040211700",
+			"1040020100",
+			"1040022500"
+		],
+		"seasons": [],
+		"series": [
+			"Fantasy"
+		],
+		"totalRate1": 99.764,
+		"totalRate2": 99.784,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "207070",
+		"key": "7px0oad8",
+		"start": "12 noon, Sep 30, 2023 (JST)",
+		"end": "6:59 p.m., Oct 3, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040915500",
+			"1040617800"
+		],
+		"seasons": [],
+		"series": [
+			"Grand",
+			"Fantasy",
+			"12 Generals"
+		],
+		"totalRate1": 99.71,
+		"totalRate2": 99.766,
+		"drawRates": {
+			"SS Rare": "6.00%",
+			"S Rare": "15.00%",
+			"Rare": "79.00%"
+		}
+	},
+	{
+		"id": "207060",
+		"key": "6yqnjnu6",
+		"start": "7 p.m., Sep 27, 2023 (JST)",
+		"end": "11:59 a.m., Sep 30, 2023 (JST)",
+		"featuredItemIDs": [
+			"2040398000",
+			"2040413000",
+			"2040401000",
+			"2040406000",
+			"2040409000",
+			"2040418000"
+		],
+		"seasons": [
+			"Valentine"
+		],
+		"series": [
+			"Fantasy",
+			"Valentine"
+		],
+		"totalRate1": 99.728,
+		"totalRate2": 99.787,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "207050",
+		"key": "50j599ey",
+		"start": "7 p.m., Sep 24, 2023 (JST)",
+		"end": "6:59 p.m., Sep 27, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040617200",
+			"1040213600",
+			"1040815500"
+		],
+		"seasons": [
+			"Valentine"
+		],
+		"series": [
+			"Fantasy",
+			"Valentine"
+		],
+		"totalRate1": 99.767,
+		"totalRate2": 99.858,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "207040",
+		"key": "44iegdug",
+		"start": "7 p.m., Sep 21, 2023 (JST)",
+		"end": "6:59 p.m., Sep 24, 2023 (JST)",
+		"featuredItemIDs": [
+			"2040406000",
+			"2040261000",
+			"2040202000",
+			"2040098000",
+			"2040326000",
+			"2040281000"
+		],
+		"seasons": [
+			"Valentine"
+		],
+		"series": [
+			"Fantasy",
+			"Valentine"
+		],
+		"totalRate1": 99.736,
+		"totalRate2": 99.796,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "207030",
+		"key": "3a0fm3gu",
+		"start": "7 p.m., Sep 18, 2023 (JST)",
+		"end": "6:59 p.m., Sep 21, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040617200",
+			"1040213600",
+			"1040421800",
+			"1040815600"
+		],
+		"seasons": [
+			"Valentine"
+		],
+		"series": [
+			"Fantasy",
+			"Valentine"
+		],
+		"totalRate1": 99.772,
+		"totalRate2": 99.8,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "207020",
+		"key": "2dvap283",
+		"start": "7 p.m., Sep 15, 2023 (JST)",
+		"end": "6:59 p.m., Sep 18, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040117200",
+			"1040024900"
+		],
+		"seasons": [
+			"Valentine"
+		],
+		"series": [
+			"Grand",
+			"Fantasy",
+			"Valentine"
+		],
+		"totalRate1": 99.687,
+		"totalRate2": 99.765,
+		"drawRates": {
+			"SS Rare": "6.00%",
+			"S Rare": "15.00%",
+			"Rare": "79.00%"
+		}
+	},
+	{
+		"id": "207010",
+		"key": "1r6y391d",
+		"start": "7 p.m., Sep 12, 2023 (JST)",
+		"end": "6:59 p.m., Sep 15, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040408900",
+			"1040813000"
+		],
+		"seasons": [
+			"Valentine"
+		],
+		"series": [
+			"Fantasy",
+			"Valentine"
+		],
+		"totalRate1": 99.759,
+		"totalRate2": 99.85,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "207000",
+		"key": "0ipzp4kq",
+		"start": "7 p.m., Sep 9, 2023 (JST)",
+		"end": "6:59 p.m., Sep 12, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040617200",
+			"1040421500",
+			"1040022800",
+			"1040616100"
+		],
+		"seasons": [
+			"Valentine"
+		],
+		"series": [
+			"Fantasy",
+			"Valentine"
+		],
+		"totalRate1": 99.744,
+		"totalRate2": 99.835,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "206990",
+		"key": "9dn37wcf",
+		"start": "7 p.m., Sep 6, 2023 (JST)",
+		"end": "6:59 p.m., Sep 9, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040213600",
+			"1040021000",
+			"1040614700",
+			"1040612400"
+		],
+		"seasons": [
+			"Valentine"
+		],
+		"series": [
+			"Fantasy",
+			"Valentine"
+		],
+		"totalRate1": 99.657,
+		"totalRate2": 99.694,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "206980",
+		"key": "8jt596qb",
+		"start": "7 p.m., Sep 3, 2023 (JST)",
+		"end": "6:59 p.m., Sep 6, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040218700",
+			"1040814200",
+			"1040616500",
+			"1040115200"
+		],
+		"seasons": [],
+		"series": [
+			"Fantasy"
+		],
+		"totalRate1": 99.673,
+		"totalRate2": 99.685,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "206970",
+		"key": "76p8rgme",
+		"start": "12 noon, Aug 31, 2023 (JST)",
+		"end": "6:59 p.m., Sep 3, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040218700",
+			"1040617700"
+		],
+		"seasons": [],
+		"series": [
+			"Grand",
+			"Fantasy",
+			"12 Generals"
+		],
+		"totalRate1": 99.639,
+		"totalRate2": 99.695,
+		"drawRates": {
+			"SS Rare": "6.00%",
+			"S Rare": "15.00%",
+			"Rare": "79.00%"
+		}
+	},
+	{
+		"id": "206960",
+		"key": "1a2ro6cj",
+		"start": "7 p.m., Aug 30, 2023 (JST)",
+		"end": "11:59 a.m., Aug 31, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040421900",
+			"1040316100",
+			"1040515900"
+		],
+		"seasons": [
+			"Summer",
+			"Yukata"
+		],
+		"series": [
+			"Summer",
+			"Fantasy",
+			"Yukata",
+			"12 Generals"
+		],
+		"totalRate1": 99.602,
+		"totalRate2": 99.637,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "206950",
+		"key": "1a2ro6cj",
+		"start": "7 p.m., Aug 29, 2023 (JST)",
+		"end": "6:59 p.m., Aug 30, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040024800",
+			"1040218600",
+			"1040712300"
+		],
+		"seasons": [
+			"Summer",
+			"Yukata"
+		],
+		"series": [
+			"Summer",
+			"Fantasy",
+			"Yukata",
+			"12 Generals"
+		],
+		"totalRate1": 99.536,
+		"totalRate2": 99.657,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "206940",
+		"key": "1a2ro6cj",
+		"start": "7 p.m., Aug 28, 2023 (JST)",
+		"end": "6:59 p.m., Aug 29, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040422000",
+			"1040024700",
+			"1040515400"
+		],
+		"seasons": [
+			"Summer",
+			"Yukata"
+		],
+		"series": [
+			"Summer",
+			"Fantasy",
+			"Yukata",
+			"12 Generals"
+		],
+		"totalRate1": 99.654,
+		"totalRate2": 99.693,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "206930",
+		"key": "1a2ro6cj",
+		"start": "7 p.m., Aug 27, 2023 (JST)",
+		"end": "6:59 p.m., Aug 28, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040712600",
+			"1040420800",
+			"1040023300"
+		],
+		"seasons": [
+			"Summer",
+			"Yukata"
+		],
+		"series": [
+			"Summer",
+			"Fantasy",
+			"Yukata",
+			"12 Generals"
+		],
+		"totalRate1": 99.593,
+		"totalRate2": 99.782,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "206920",
+		"key": "1a2ro6cj",
+		"start": "7 p.m., Aug 26, 2023 (JST)",
+		"end": "6:59 p.m., Aug 27, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040915400",
+			"1040815800",
+			"1040316300"
+		],
+		"seasons": [
+			"Summer",
+			"Yukata"
+		],
+		"series": [
+			"Summer",
+			"Fantasy",
+			"Yukata",
+			"12 Generals"
+		],
+		"totalRate1": 99.589,
+		"totalRate2": 99.639,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "206910",
+		"key": "1a2ro6cj",
+		"start": "7 p.m., Aug 25, 2023 (JST)",
+		"end": "6:59 p.m., Aug 26, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040516200",
+			"1040516100",
+			"1040617500"
+		],
+		"seasons": [
+			"Summer",
+			"Yukata"
+		],
+		"series": [
+			"Summer",
+			"Fantasy",
+			"Yukata",
+			"12 Generals"
+		],
+		"totalRate1": 99.48599999999989,
+		"totalRate2": 99.6380000000001,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "206900",
+		"key": "0vuo2fcm",
+		"start": "7 p.m., Aug 22, 2023 (JST)",
+		"end": "6:59 p.m., Aug 25, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040421900",
+			"1040420800",
+			"1040214900",
+			"1040614600"
+		],
+		"seasons": [
+			"Summer",
+			"Yukata"
+		],
+		"series": [
+			"Summer",
+			"Fantasy",
+			"Yukata",
+			"12 Generals"
+		],
+		"totalRate1": 99.72899999999979,
+		"totalRate2": 99.83599999999991,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "206890",
+		"key": "9845cn88",
+		"start": "7 p.m., Aug 19, 2023 (JST)",
+		"end": "6:59 p.m., Aug 22, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040218400",
+			"1040514400",
+			"1040216500",
+			"2040417000",
+			"2040408000",
+			"2040406000"
+		],
+		"seasons": [
+			"Summer",
+			"Yukata"
+		],
+		"series": [
+			"Summer",
+			"Fantasy",
+			"Yukata",
+			"12 Generals"
+		],
+		"totalRate1": 99.68599999999982,
+		"totalRate2": 99.764,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
+		"id": "206880",
+		"key": "8nkt9t7y",
+		"start": "7 p.m., Aug 16, 2023 (JST)",
+		"end": "6:59 p.m., Aug 19, 2023 (JST)",
+		"featuredItemIDs": [
+			"1040422000",
+			"1040915400",
+			"1040024800",
+			"2040423000"
+		],
+		"seasons": [
+			"Summer",
+			"Yukata"
+		],
+		"series": [
+			"Summer",
+			"Grand",
+			"Fantasy",
+			"Yukata",
+			"12 Generals"
+		],
+		"totalRate1": 99.777,
+		"totalRate2": 99.768,
+		"drawRates": {
+			"SS Rare": "6.00%",
+			"S Rare": "15.00%",
+			"Rare": "79.00%"
+		}
+	}
+]
