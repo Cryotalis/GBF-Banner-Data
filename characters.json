@@ -13681,5 +13681,51 @@
 		"voice_actor": "Akari Kito",
 		"add_date": "2023/11/30 12:00:00",
 		"weapon_id": "1040516700"
+	},
+	{
+		"number": "651",
+		"id": "3040497000",
+		"name": "Helel ben Shalem",
+		"short_name": "Shalem",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Earth",
+		"uncaps": 4,
+		"specialties": [
+			"Spear",
+			"Staff"
+		],
+		"series": [
+			"Holiday"
+		],
+		"races": [
+			"Unknown"
+		],
+		"voice_actor": "Mariya Ise",
+		"add_date": "2023/12/17 19:00:00",
+		"weapon_id": "1040816200"
+	},
+	{
+		"number": "652",
+		"id": "3040498000",
+		"name": "Noa",
+		"short_name": "Noa",
+		"style": "Defense",
+		"rarity": "SS Rare",
+		"element": "Fire",
+		"uncaps": 4,
+		"specialties": [
+			"Staff",
+			"Gun"
+		],
+		"series": [
+			"Holiday"
+		],
+		"races": [
+			"Primal"
+		],
+		"voice_actor": "Kaito Ishikawa",
+		"add_date": "2023/12/17 19:00:00",
+		"weapon_id": "1040218800"
 	}
 ]
