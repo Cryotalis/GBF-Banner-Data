@@ -13727,5 +13727,48 @@
 		"voice_actor": "Kaito Ishikawa",
 		"add_date": "2023/12/17 19:00:00",
 		"weapon_id": "1040218800"
+	},
+	{
+		"number": "653",
+		"id": "3040499000",
+		"name": "Zeta",
+		"short_name": "Zeta",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Fire",
+		"uncaps": 4,
+		"specialties": [
+			"Spear"
+		],
+		"series": [
+			"Grand"
+		],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Kana Hanazawa",
+		"add_date": "2023/12/28 19:00:00",
+		"weapon_id": "1040218900"
+	},
+	{
+		"number": "654",
+		"id": "3040500000",
+		"name": "Lowain",
+		"short_name": "Lowain",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Dark",
+		"uncaps": 4,
+		"specialties": [
+			"Dagger",
+			"Saber"
+		],
+		"series": [],
+		"races": [
+			"Erune"
+		],
+		"voice_actor": "Minoru Shiraishi<br>Mark Ishii<br>Junya Enoki",
+		"add_date": "2023/12/28 19:00:00",
+		"weapon_id": "1040618100"
 	}
 ]
