@@ -13770,5 +13770,69 @@
 		"voice_actor": "Minoru Shiraishi<br>Mark Ishii<br>Junya Enoki",
 		"add_date": "2023/12/28 19:00:00",
 		"weapon_id": "1040618100"
+	},
+	{
+		"number": "655",
+		"id": "3040502000",
+		"name": "Payila",
+		"short_name": "Payila",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Water",
+		"uncaps": 4,
+		"specialties": [
+			"Staff"
+		],
+		"series": [
+			"12 Generals"
+		],
+		"races": [
+			"Draph"
+		],
+		"voice_actor": "Rie Takahashi",
+		"add_date": "2023/12/31 12:00:00",
+		"weapon_id": "1040119000"
+	},
+	{
+		"number": "656",
+		"id": "3040501000",
+		"name": "Uriel",
+		"short_name": "Uriel",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Earth",
+		"uncaps": 4,
+		"specialties": [
+			"Melee"
+		],
+		"series": [
+			"Grand"
+		],
+		"races": [
+			"Primal"
+		],
+		"voice_actor": "Kenyu Horiuchi",
+		"add_date": "2023/12/31 12:00:00",
+		"weapon_id": "1040618200"
+	},
+	{
+		"number": "657",
+		"id": "3040503000",
+		"name": "Tyra",
+		"short_name": "Tyra",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Dark",
+		"uncaps": 4,
+		"specialties": [
+			"Melee"
+		],
+		"series": [],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Machico",
+		"add_date": "2023/12/31 12:00:00",
+		"weapon_id": "1040317000"
 	}
 ]
