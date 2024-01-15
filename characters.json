@@ -13834,5 +13834,45 @@
 		"voice_actor": "Machico",
 		"add_date": "2023/12/31 12:00:00",
 		"weapon_id": "1040317000"
+	},
+	{
+		"number": "658",
+		"id": "3040508000",
+		"name": "Olivia",
+		"short_name": "Olivia",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Earth",
+		"uncaps": 4,
+		"specialties": [
+			"Saber"
+		],
+		"series": [],
+		"races": [
+			"Primal"
+		],
+		"voice_actor": "Maaya Sakamoto",
+		"add_date": "2024/01/15 19:00:00",
+		"weapon_id": "1040422400"
+	},
+	{
+		"number": "659",
+		"id": "3040507000",
+		"name": "Deliford",
+		"short_name": "Deliford",
+		"style": "Defense",
+		"rarity": "SS Rare",
+		"element": "Water",
+		"uncaps": 4,
+		"specialties": [
+			"Spear"
+		],
+		"series": [],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Kenta Miyake",
+		"add_date": "2024/01/15 19:00:00",
+		"weapon_id": "1040219000"
 	}
 ]
