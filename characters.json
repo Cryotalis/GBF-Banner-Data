@@ -13874,5 +13874,45 @@
 		"voice_actor": "Kenta Miyake",
 		"add_date": "2024/01/15 19:00:00",
 		"weapon_id": "1040219000"
+	},
+	{
+		"number": "660",
+		"id": "3040509000",
+		"name": "Juri",
+		"short_name": "Juri",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Water",
+		"uncaps": 4,
+		"specialties": [
+			"Saber"
+		],
+		"series": [],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Makoto Furukawa",
+		"add_date": "2024/01/31 12:00:00",
+		"weapon_id": "1040025700"
+	},
+	{
+		"number": "661",
+		"id": "3040510000",
+		"name": "Robertina",
+		"short_name": "Robertina",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Light",
+		"uncaps": 4,
+		"specialties": [
+			"Harp"
+		],
+		"series": [],
+		"races": [
+			"Harvin"
+		],
+		"voice_actor": "Ayaka Imamura/Ayasa Ito",
+		"add_date": "2024/01/31 12:00:00",
+		"weapon_id": "1040422500"
 	}
 ]
