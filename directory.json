@@ -1,5 +1,32 @@
 [
 	{
+		"path": "/2024/February/207590.json",
+		"id": "207590",
+		"key": "9keyy1q9",
+		"start": "7 p.m., Feb 9, 2024 (JST)",
+		"end": "6:59 p.m., Feb 12, 2024 (JST)",
+		"featuredItemIDs": [
+			"1040617200",
+			"1040421500",
+			"1040616100",
+			"1040022800"
+		],
+		"seasons": [
+			"Valentine"
+		],
+		"series": [
+			"Fantasy",
+			"Valentine"
+		],
+		"totalRate1": 99.672,
+		"totalRate2": 99.763,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
 		"path": "/2024/February/207580.json",
 		"id": "207580",
 		"key": "8dfvqzzb",
