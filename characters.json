@@ -13914,5 +13914,51 @@
 		"voice_actor": "Ayaka Imamura/Ayasa Ito",
 		"add_date": "2024/01/31 12:00:00",
 		"weapon_id": "1040422500"
+	},
+	{
+		"number": "662",
+		"id": "3040512000",
+		"name": "Cidala",
+		"short_name": "Cidala",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Dark",
+		"uncaps": 4,
+		"specialties": [
+			"Axe"
+		],
+		"series": [
+			"Valentine",
+			"12 Generals"
+		],
+		"races": [
+			"Erune"
+		],
+		"voice_actor": "Ai Kakuma",
+		"add_date": "2024/02/14 19:00:00",
+		"weapon_id": "1040713200"
+	},
+	{
+		"number": "663",
+		"id": "3040511000",
+		"name": "Nehan",
+		"short_name": "Nehan",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Fire",
+		"uncaps": 4,
+		"specialties": [
+			"Gun",
+			"Melee"
+		],
+		"series": [
+			"Valentine"
+		],
+		"races": [
+			"Erune"
+		],
+		"voice_actor": "Takashi Kondo",
+		"add_date": "2024/02/14 19:00:00",
+		"weapon_id": "1040816400"
 	}
 ]
