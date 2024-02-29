@@ -13960,5 +13960,68 @@
 		"voice_actor": "Takashi Kondo",
 		"add_date": "2024/02/14 19:00:00",
 		"weapon_id": "1040816400"
+	},
+	{
+		"number": "664",
+		"id": "3040515000",
+		"name": "Sandalphon",
+		"short_name": "Sandalphon",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Light",
+		"uncaps": 4,
+		"specialties": [
+			"Saber",
+			"Katana"
+		],
+		"series": [
+			"Grand"
+		],
+		"races": [
+			"Primal"
+		],
+		"voice_actor": "Kenichi Suzumura",
+		"add_date": "2024/02/29 12:00:00",
+		"weapon_id": "1040025900"
+	},
+	{
+		"number": "665",
+		"id": "3040514000",
+		"name": "Sabrina",
+		"short_name": "Sabrina",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Earth",
+		"uncaps": 4,
+		"specialties": [
+			"Saber"
+		],
+		"series": [],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Yuko Natsuyoshi",
+		"add_date": "2024/02/29 12:00:00",
+		"weapon_id": "1040119100"
+	},
+	{
+		"number": "666",
+		"id": "3040513000",
+		"name": "Richard",
+		"short_name": "Richard",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Wind",
+		"uncaps": 4,
+		"specialties": [
+			"Gun"
+		],
+		"series": [],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Ryohei Kimura",
+		"add_date": "2024/02/29 12:00:00",
+		"weapon_id": "1040618500"
 	}
 ]
