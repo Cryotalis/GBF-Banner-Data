@@ -14023,5 +14023,71 @@
 		"voice_actor": "Ryohei Kimura",
 		"add_date": "2024/02/29 12:00:00",
 		"weapon_id": "1040618500"
+	},
+	{
+		"number": "667",
+		"id": "3040519000",
+		"name": "Fenie",
+		"short_name": "Fenie",
+		"style": "Heal",
+		"rarity": "SS Rare",
+		"element": "Fire",
+		"uncaps": 4,
+		"specialties": [
+			"Staff"
+		],
+		"series": [
+			"Grand"
+		],
+		"races": [
+			"Unknown"
+		],
+		"voice_actor": "Konomi Kohara",
+		"add_date": "2024/03/15 19:00:00",
+		"weapon_id": "1040422700"
+	},
+	{
+		"number": "668",
+		"id": "3040518000",
+		"name": "Horus",
+		"short_name": "Horus",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Light",
+		"uncaps": 4,
+		"specialties": [
+			"Staff"
+		],
+		"series": [
+			"Summer"
+		],
+		"races": [
+			"Primal"
+		],
+		"voice_actor": "Misa Ishii",
+		"add_date": "2024/03/15 19:00:00",
+		"weapon_id": "1040422600"
+	},
+	{
+		"number": "669",
+		"id": "3040517000",
+		"name": "Magus",
+		"short_name": "Magus",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Dark",
+		"uncaps": 4,
+		"specialties": [
+			"Staff"
+		],
+		"series": [
+			"Summer"
+		],
+		"races": [
+			"Primal"
+		],
+		"voice_actor": "Nanako Mori",
+		"add_date": "2024/03/15 19:00:00",
+		"weapon_id": "1040317200"
 	}
 ]
