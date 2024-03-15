@@ -1,5 +1,32 @@
 [
 	{
+		"path": "/2024/March/207750.json",
+		"id": "207750",
+		"key": "5ka08odv",
+		"start": "7 p.m., Mar 15, 2024 (JST)",
+		"end": "6:59 p.m., Mar 18, 2024 (JST)",
+		"featuredItemIDs": [
+			"1040422700",
+			"1040422600",
+			"1040317200"
+		],
+		"seasons": [
+			"Summer"
+		],
+		"series": [
+			"Grand",
+			"Fantasy",
+			"Summer"
+		],
+		"totalRate1": 99.755,
+		"totalRate2": 99.811,
+		"drawRates": {
+			"SS Rare": "6.00%",
+			"S Rare": "15.00%",
+			"Rare": "79.00%"
+		}
+	},
+	{
 		"path": "/2024/March/207740.json",
 		"id": "207740",
 		"key": "4mk8s0d2",
