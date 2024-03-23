@@ -1,5 +1,35 @@
 [
 	{
+		"path": "/2024/March/207780.json",
+		"id": "207780",
+		"key": "8933wb9u",
+		"start": "7 p.m., Mar 23, 2024 (JST)",
+		"end": "6:59 p.m., Mar 26, 2024 (JST)",
+		"featuredItemIDs": [
+			"1040421900",
+			"1040712600",
+			"1040516100",
+			"1040316300",
+			"2040420000"
+		],
+		"seasons": [
+			"Summer",
+			"Yukata"
+		],
+		"series": [
+			"Fantasy",
+			"Summer",
+			"Yukata"
+		],
+		"totalRate1": 99.77,
+		"totalRate2": 99.821,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
 		"path": "/2024/March/207770.json",
 		"id": "207770",
 		"key": "7kyy20cw",
