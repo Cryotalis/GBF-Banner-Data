@@ -14089,5 +14089,49 @@
 		"voice_actor": "Nanako Mori",
 		"add_date": "2024/03/15 19:00:00",
 		"weapon_id": "1040317200"
+	},
+	{
+		"number": "670",
+		"id": "3040520000",
+		"name": "De La Fille",
+		"short_name": "De La Fille",
+		"style": "Heal",
+		"rarity": "SS Rare",
+		"element": "Dark",
+		"uncaps": 4,
+		"specialties": [
+			"Saber"
+		],
+		"series": [
+			"Yukata"
+		],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Chiwa Saito",
+		"add_date": "2024/03/31 12:00:00",
+		"weapon_id": "1040026000"
+	},
+	{
+		"number": "671",
+		"id": "3040521000",
+		"name": "Elmott",
+		"short_name": "Elmott",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Fire",
+		"uncaps": 4,
+		"specialties": [
+			"Staff"
+		],
+		"series": [
+			"Yukata"
+		],
+		"races": [
+			"Erune"
+		],
+		"voice_actor": "Tetsuya Kakihara",
+		"add_date": "2024/03/31 12:00:00",
+		"weapon_id": "1040422900"
 	}
 ]
