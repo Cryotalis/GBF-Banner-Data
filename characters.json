@@ -14133,5 +14133,46 @@
 		"voice_actor": "Tetsuya Kakihara",
 		"add_date": "2024/03/31 12:00:00",
 		"weapon_id": "1040422900"
+	},
+	{
+		"number": "672",
+		"id": "3040524000",
+		"name": "Anne",
+		"short_name": "Anne",
+		"style": "Balanced",
+		"rarity": "SS Rare",
+		"element": "Light",
+		"uncaps": 4,
+		"specialties": [
+			"Spear",
+			"Staff"
+		],
+		"series": [],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Yoko Hikasa",
+		"add_date": "2024/04/15 19:00:00",
+		"weapon_id": "1040423000"
+	},
+	{
+		"number": "673",
+		"id": "3040523000",
+		"name": "Spinnah",
+		"short_name": "Spinnah",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Wind",
+		"uncaps": 4,
+		"specialties": [
+			"Dagger"
+		],
+		"series": [],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Showtaro Morikubo",
+		"add_date": "2024/04/15 19:00:00",
+		"weapon_id": "1040119300"
 	}
 ]
