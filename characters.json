@@ -14174,5 +14174,45 @@
 		"voice_actor": "Showtaro Morikubo",
 		"add_date": "2024/04/15 19:00:00",
 		"weapon_id": "1040119300"
+	},
+	{
+		"number": "674",
+		"id": "3040529000",
+		"name": "Kolulu",
+		"short_name": "Kolulu",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Earth",
+		"uncaps": 4,
+		"specialties": [
+			"Spear"
+		],
+		"series": [],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Miku Ito",
+		"add_date": "2024/04/30 12:00:00",
+		"weapon_id": "1040219200"
+	},
+	{
+		"number": "675",
+		"id": "3040530000",
+		"name": "Chloe",
+		"short_name": "Chloe",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Dark",
+		"uncaps": 4,
+		"specialties": [
+			"Melee"
+		],
+		"series": [],
+		"races": [
+			"Erune"
+		],
+		"voice_actor": "Miyu Tomita",
+		"add_date": "2024/04/30 12:00:00",
+		"weapon_id": "1040119400"
 	}
 ]
