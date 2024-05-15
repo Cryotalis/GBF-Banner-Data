@@ -14214,5 +14214,46 @@
 		"voice_actor": "Miyu Tomita",
 		"add_date": "2024/04/30 12:00:00",
 		"weapon_id": "1040119400"
+	},
+	{
+		"number": "676",
+		"id": "3040531000",
+		"name": "Sui",
+		"short_name": "Sui",
+		"style": "Heal",
+		"rarity": "SS Rare",
+		"element": "Light",
+		"uncaps": 4,
+		"specialties": [
+			"Melee",
+			"Harp"
+		],
+		"series": [],
+		"races": [
+			"Unknown"
+		],
+		"voice_actor": "Minami Tsuda",
+		"add_date": "2024/05/15 19:00:00",
+		"weapon_id": "1040119600"
+	},
+	{
+		"number": "677",
+		"id": "3040532000",
+		"name": "Veight",
+		"short_name": "Veight",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Wind",
+		"uncaps": 4,
+		"specialties": [
+			"Dagger"
+		],
+		"series": [],
+		"races": [
+			"Unknown"
+		],
+		"voice_actor": "Yuki Kaji",
+		"add_date": "2024/05/15 19:00:00",
+		"weapon_id": "1040713500"
 	}
 ]
