@@ -14255,5 +14255,46 @@
 		"voice_actor": "Yuki Kaji",
 		"add_date": "2024/05/15 19:00:00",
 		"weapon_id": "1040713500"
+	},
+	{
+		"number": "678",
+		"id": "3040533000",
+		"name": "Sato",
+		"short_name": "Sato",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Fire",
+		"uncaps": 4,
+		"specialties": [
+			"Dagger",
+			"Katana"
+		],
+		"series": [],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Anna Nagase",
+		"add_date": "2024/05/31 12:00:00",
+		"weapon_id": "1040618900"
+	},
+	{
+		"number": "679",
+		"id": "3040534000",
+		"name": "Mirin",
+		"short_name": "Mirin",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Wind",
+		"uncaps": 4,
+		"specialties": [
+			"Katana"
+		],
+		"series": [],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Miyu Takagi",
+		"add_date": "2024/05/31 12:00:00",
+		"weapon_id": "1040916400"
 	}
 ]
