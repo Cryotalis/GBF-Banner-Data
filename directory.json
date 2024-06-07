@@ -1,5 +1,34 @@
 [
 	{
+		"path": "/2024/June/208110.json",
+		"id": "208110",
+		"key": "1jgp8d7x",
+		"start": "7 p.m., Jun 7, 2024 (JST)",
+		"end": "6:59 p.m., Jun 10, 2024 (JST)",
+		"featuredItemIDs": [
+			"1040419400",
+			"1040419500",
+			"1040911700",
+			"1040511700",
+			"2040388000"
+		],
+		"seasons": [
+			"Holiday"
+		],
+		"series": [
+			"Fantasy",
+			"Holiday",
+			"12 Generals"
+		],
+		"totalRate1": 99.72,
+		"totalRate2": 99.757,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
 		"path": "/2024/June/208100.json",
 		"id": "208100",
 		"key": "0iv7dx7w",
