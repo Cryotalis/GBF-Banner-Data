@@ -14296,5 +14296,49 @@
 		"voice_actor": "Miyu Takagi",
 		"add_date": "2024/05/31 12:00:00",
 		"weapon_id": "1040916400"
+	},
+	{
+		"number": "680",
+		"id": "3040536000",
+		"name": "Orologia",
+		"short_name": "Orologia",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Dark",
+		"uncaps": 4,
+		"specialties": [
+			"Axe",
+			"Staff"
+		],
+		"series": [
+			"Grand"
+		],
+		"races": [
+			"Unknown"
+		],
+		"voice_actor": "Satoshi Hino<br>Sora Tokui",
+		"add_date": "2024/06/15 19:00:00",
+		"weapon_id": "1040916700"
+	},
+	{
+		"number": "681",
+		"id": "3040535000",
+		"name": "Nectar",
+		"short_name": "Nectar",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Water",
+		"uncaps": 4,
+		"specialties": [
+			"Katana",
+			"Bow"
+		],
+		"series": [],
+		"races": [
+			"Unknown"
+		],
+		"voice_actor": "Yoshihisa Kawahara",
+		"add_date": "2024/06/15 19:00:00",
+		"weapon_id": "1040916600"
 	}
 ]
