@@ -14340,5 +14340,50 @@
 		"voice_actor": "Yoshihisa Kawahara",
 		"add_date": "2024/06/15 19:00:00",
 		"weapon_id": "1040916600"
+	},
+	{
+		"number": "682",
+		"id": "3040538000",
+		"name": "Raziel",
+		"short_name": "Raziel",
+		"style": "Balanced",
+		"rarity": "SS Rare",
+		"element": "Earth",
+		"uncaps": 4,
+		"specialties": [
+			"Gun",
+			"Staff"
+		],
+		"series": [
+			"Summer"
+		],
+		"races": [
+			"Primal"
+		],
+		"voice_actor": "Ayaka Nanase",
+		"add_date": "2024/06/30 12:00:00",
+		"weapon_id": "1040517000"
+	},
+	{
+		"number": "683",
+		"id": "3040537000",
+		"name": "Tefnut",
+		"short_name": "Tefnut",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Water",
+		"uncaps": 4,
+		"specialties": [
+			"Staff"
+		],
+		"series": [
+			"Summer"
+		],
+		"races": [
+			"Primal"
+		],
+		"voice_actor": "Yui Kondo",
+		"add_date": "2024/06/30 12:00:00",
+		"weapon_id": "1040423400"
 	}
 ]
