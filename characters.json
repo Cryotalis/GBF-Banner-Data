@@ -14385,5 +14385,49 @@
 		"voice_actor": "Yui Kondo",
 		"add_date": "2024/06/30 12:00:00",
 		"weapon_id": "1040423400"
+	},
+	{
+		"number": "684",
+		"id": "3040539000",
+		"name": "Cucouroux",
+		"short_name": "Cucouroux",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Light",
+		"uncaps": 4,
+		"specialties": [
+			"Gun"
+		],
+		"series": [
+			"Summer"
+		],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Aya Suzaki",
+		"add_date": "2024/07/16 19:00:00",
+		"weapon_id": "1040318200"
+	},
+	{
+		"number": "685",
+		"id": "3040540000",
+		"name": "Hallessena",
+		"short_name": "Hallessena",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Dark",
+		"uncaps": 4,
+		"specialties": [
+			"Axe"
+		],
+		"series": [
+			"Summer"
+		],
+		"races": [
+			"Draph"
+		],
+		"voice_actor": "Sumire Uesaka",
+		"add_date": "2024/07/16 19:00:00",
+		"weapon_id": "1040318300"
 	}
 ]
