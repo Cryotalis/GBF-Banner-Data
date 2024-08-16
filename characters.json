@@ -14429,5 +14429,72 @@
 		"voice_actor": "Sumire Uesaka",
 		"add_date": "2024/07/16 19:00:00",
 		"weapon_id": "1040318300"
+	},
+	{
+		"number": "686",
+		"id": "3040541000",
+		"name": "Tweyen",
+		"short_name": "Tweyen",
+		"style": "Balanced",
+		"rarity": "SS Rare",
+		"element": "Fire",
+		"uncaps": 4,
+		"specialties": [
+			"Bow"
+		],
+		"series": [
+			"Eternals",
+			"Yukata"
+		],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Yuko Minaguchi",
+		"add_date": "2024/07/31 12:00:00",
+		"weapon_id": "1040713700"
+	},
+	{
+		"number": "687",
+		"id": "3040542000",
+		"name": "Ragazzo",
+		"short_name": "Ragazzo",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Light",
+		"uncaps": 4,
+		"specialties": [
+			"Melee"
+		],
+		"series": [
+			"Summer"
+		],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Hiroyuki Yoshino",
+		"add_date": "2024/07/31 12:00:00",
+		"weapon_id": "1040619100"
+	},
+	{
+		"number": "688",
+		"id": "3040543000",
+		"name": "Hekate",
+		"short_name": "Hekate",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Dark",
+		"uncaps": 4,
+		"specialties": [
+			"Staff"
+		],
+		"series": [
+			"Summer"
+		],
+		"races": [
+			"Unknown"
+		],
+		"voice_actor": "Shizuka Itoh",
+		"add_date": "2024/07/31 12:00:00",
+		"weapon_id": "1040423600"
 	}
 ]
