@@ -14496,5 +14496,73 @@
 		"voice_actor": "Shizuka Itoh",
 		"add_date": "2024/07/31 12:00:00",
 		"weapon_id": "1040423600"
+	},
+	{
+		"number": "689",
+		"id": "3040544000",
+		"name": "Galleon",
+		"short_name": "Galleon",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Wind",
+		"uncaps": 4,
+		"specialties": [
+			"Staff"
+		],
+		"series": [
+			"Summer"
+		],
+		"races": [
+			"Unknown"
+		],
+		"voice_actor": "Suzuko Mimori",
+		"add_date": "2024/08/16 19:00:00",
+		"weapon_id": "1040816600"
+	},
+	{
+		"number": "690",
+		"id": "3040546000",
+		"name": "Nier",
+		"short_name": "Nier",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Water",
+		"uncaps": 4,
+		"specialties": [
+			"Axe",
+			"Dagger"
+		],
+		"series": [
+			"Evokers",
+			"Yukata"
+		],
+		"races": [
+			"Erune"
+		],
+		"voice_actor": "Noriko Shitaya",
+		"add_date": "2024/08/16 19:00:00",
+		"weapon_id": "1040219300"
+	},
+	{
+		"number": "691",
+		"id": "3040545000",
+		"name": "Aglovale",
+		"short_name": "Aglovale",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Fire",
+		"uncaps": 4,
+		"specialties": [
+			"Saber"
+		],
+		"series": [
+			"Yukata"
+		],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Tatsuhisa Suzuki",
+		"add_date": "2024/08/16 19:00:00",
+		"weapon_id": "1040120000"
 	}
 ]
