@@ -14564,5 +14564,48 @@
 		"voice_actor": "Tatsuhisa Suzuki",
 		"add_date": "2024/08/16 19:00:00",
 		"weapon_id": "1040120000"
+	},
+	{
+		"number": "692",
+		"id": "3040547000",
+		"name": "Medusa",
+		"short_name": "Medusa",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Earth",
+		"uncaps": 4,
+		"specialties": [
+			"Melee",
+			"Staff"
+		],
+		"series": [
+			"Grand"
+		],
+		"races": [
+			"Primal"
+		],
+		"voice_actor": "Kaori Mizuhashi",
+		"add_date": "2024/08/31 12:00:00",
+		"weapon_id": "1040916800"
+	},
+	{
+		"number": "693",
+		"id": "3040548000",
+		"name": "Sevastien",
+		"short_name": "Sevastien",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Dark",
+		"uncaps": 4,
+		"specialties": [
+			"Saber"
+		],
+		"series": [],
+		"races": [
+			"Erune"
+		],
+		"voice_actor": "Yoshito Yasuhara",
+		"add_date": "2024/08/31 12:00:00",
+		"weapon_id": "1040026600"
 	}
 ]
