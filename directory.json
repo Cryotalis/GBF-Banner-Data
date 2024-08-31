@@ -1,5 +1,29 @@
 [
 	{
+		"path": "/2024/August/208470.json",
+		"id": "208470",
+		"key": "727qqtcb",
+		"start": "12 noon, Aug 31, 2024 (JST)",
+		"end": "6:59 p.m., Sep 3, 2024 (JST)",
+		"featuredItemIDs": [
+			"1040916800",
+			"1040026600"
+		],
+		"seasons": [],
+		"series": [
+			"12 Generals",
+			"Grand",
+			"Fantasy"
+		],
+		"totalRate1": 99.679,
+		"totalRate2": 99.735,
+		"drawRates": {
+			"SS Rare": "6.00%",
+			"S Rare": "15.00%",
+			"Rare": "79.00%"
+		}
+	},
+	{
 		"path": "/2024/August/208460.json",
 		"id": "208460",
 		"key": "1cd0u3cw",
