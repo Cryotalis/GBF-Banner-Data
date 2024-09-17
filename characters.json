@@ -14607,5 +14607,45 @@
 		"voice_actor": "Yoshito Yasuhara",
 		"add_date": "2024/08/31 12:00:00",
 		"weapon_id": "1040026600"
+	},
+	{
+		"number": "694",
+		"id": "3040549000",
+		"name": "Noire",
+		"short_name": "Noire",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Wind",
+		"uncaps": 4,
+		"specialties": [
+			"Saber"
+		],
+		"series": [],
+		"races": [
+			"Primal"
+		],
+		"voice_actor": "Yoshino Aoyama",
+		"add_date": "2024/09/17 19:00:00",
+		"weapon_id": "1040026700"
+	},
+	{
+		"number": "695",
+		"id": "3040550000",
+		"name": "Novei",
+		"short_name": "Novei",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Light",
+		"uncaps": 4,
+		"specialties": [
+			"Harp"
+		],
+		"series": [],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Saori Hayami",
+		"add_date": "2024/09/17 19:00:00",
+		"weapon_id": "1040219500"
 	}
 ]
