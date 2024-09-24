@@ -1,5 +1,32 @@
 [
 	{
+		"path": "/2024/September/208570.json",
+		"id": "208570",
+		"key": "45gpsxbt",
+		"start": "7 p.m., Sep 24, 2024 (JST)",
+		"end": "6:59 p.m., Sep 25, 2024 (JST)",
+		"featuredItemIDs": [
+			"1040617200",
+			"1040213600",
+			"1040026700"
+		],
+		"seasons": [
+			"Valentine"
+		],
+		"series": [
+			"Valentine",
+			"Fantasy",
+			"12 Generals"
+		],
+		"totalRate1": 99.81,
+		"totalRate2": 99.912,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
 		"path": "/2024/September/208560.json",
 		"id": "208560",
 		"key": "45gpsxbt",
