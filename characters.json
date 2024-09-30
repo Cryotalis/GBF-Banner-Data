@@ -14647,5 +14647,48 @@
 		"voice_actor": "Saori Hayami",
 		"add_date": "2024/09/17 19:00:00",
 		"weapon_id": "1040219500"
+	},
+	{
+		"number": "696",
+		"id": "3040551000",
+		"name": "Vane",
+		"short_name": "Vane",
+		"style": "Defense",
+		"rarity": "SS Rare",
+		"element": "Wind",
+		"uncaps": 4,
+		"specialties": [
+			"Spear",
+			"Axe"
+		],
+		"series": [
+			"Grand"
+		],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Takuya Eguchi",
+		"add_date": "2024/09/30 12:00:00",
+		"weapon_id": "1040318400"
+	},
+	{
+		"number": "697",
+		"id": "3040552000",
+		"name": "Florence",
+		"short_name": "Florence",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Dark",
+		"uncaps": 4,
+		"specialties": [
+			"Staff"
+		],
+		"series": [],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Toa Yukinari",
+		"add_date": "2024/09/30 12:00:00",
+		"weapon_id": "1040816800"
 	}
 ]
