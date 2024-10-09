@@ -1,5 +1,32 @@
 [
 	{
+		"path": "/2024/October/208640.json",
+		"id": "208640",
+		"key": "49ok1uqa",
+		"start": "7 p.m., Oct 9, 2024 (JST)",
+		"end": "6:59 p.m., Oct 12, 2024 (JST)",
+		"featuredItemIDs": [
+			"1040615500",
+			"1040514800",
+			"1040113100",
+			"1040215400"
+		],
+		"seasons": [
+			"Halloween"
+		],
+		"series": [
+			"Halloween",
+			"Fantasy"
+		],
+		"totalRate1": 99.589,
+		"totalRate2": 99.722,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
 		"path": "/2024/October/208630.json",
 		"id": "208630",
 		"key": "3xeouxmi",
