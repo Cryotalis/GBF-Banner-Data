@@ -14690,5 +14690,73 @@
 		"voice_actor": "Toa Yukinari",
 		"add_date": "2024/09/30 12:00:00",
 		"weapon_id": "1040816800"
+	},
+	{
+		"number": "698",
+		"id": "3040554000",
+		"name": "Satyr",
+		"short_name": "Satyr",
+		"style": "Heal",
+		"rarity": "SS Rare",
+		"element": "Dark",
+		"uncaps": 4,
+		"specialties": [
+			"Staff",
+			"Saber"
+		],
+		"series": [
+			"Halloween"
+		],
+		"races": [
+			"Primal"
+		],
+		"voice_actor": "Manaka Iwami",
+		"add_date": "2024/10/15 19:00:00",
+		"weapon_id": "1040120200"
+	},
+	{
+		"number": "699",
+		"id": "3040553000",
+		"name": "Wilnas",
+		"short_name": "Wilnas",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Light",
+		"uncaps": 4,
+		"specialties": [
+			"Melee",
+			"Axe"
+		],
+		"series": [
+			"Halloween"
+		],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Masaaki Mizunaka",
+		"add_date": "2024/10/15 19:00:00",
+		"weapon_id": "1040816900"
+	},
+	{
+		"number": "700",
+		"id": "3040555000",
+		"name": "Manamel",
+		"short_name": "Manamel",
+		"style": "Balanced",
+		"rarity": "SS Rare",
+		"element": "Earth",
+		"uncaps": 4,
+		"specialties": [
+			"Dagger"
+		],
+		"series": [
+			"Halloween"
+		],
+		"races": [
+			"Erune"
+		],
+		"voice_actor": "Yuri Yamaoka",
+		"add_date": "2024/10/15 19:00:00",
+		"weapon_id": "1040518000"
 	}
 ]
