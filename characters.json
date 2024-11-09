@@ -16,7 +16,7 @@
 			"Human"
 		],
 		"voice_actor": "Chiwa Saito",
-		"add_date": "2014/03/10 21:00:00",
+		"weapon_name": "Kerykeion",
 		"weapon_id": "1040400200"
 	},
 	{
@@ -36,7 +36,7 @@
 			"Human"
 		],
 		"voice_actor": "Jurota Kosugi",
-		"add_date": "2014/03/10 21:00:00",
+		"weapon_name": "Pilum",
 		"weapon_id": "1040200200"
 	},
 	{
@@ -56,7 +56,7 @@
 			"Human"
 		],
 		"voice_actor": "Yuka Inokuchi",
-		"add_date": "2014/03/10 21:00:00",
+		"weapon_name": "Feather Wand",
 		"weapon_id": "1020400600"
 	},
 	{
@@ -76,7 +76,7 @@
 			"Human"
 		],
 		"voice_actor": "Saori Goto",
-		"add_date": "2014/03/10 21:00:00",
+		"weapon_name": "Taiaha",
 		"weapon_id": "1020400000"
 	},
 	{
@@ -96,7 +96,7 @@
 			"Human"
 		],
 		"voice_actor": "Kappei Yamaguchi",
-		"add_date": "",
+		"weapon_name": "Main Gauche",
 		"weapon_id": "1020100700"
 	},
 	{
@@ -117,7 +117,7 @@
 			"Human"
 		],
 		"voice_actor": "Ai Orikasa",
-		"add_date": "2014/03/10 21:00:00",
+		"weapon_name": "Ukonvasara",
 		"weapon_id": "1040300000"
 	},
 	{
@@ -137,7 +137,7 @@
 			"Human"
 		],
 		"voice_actor": "Yu Kobayashi",
-		"add_date": "",
+		"weapon_name": "Tanzanite Sword",
 		"weapon_id": "1030001300"
 	},
 	{
@@ -157,7 +157,7 @@
 			"Human"
 		],
 		"voice_actor": "Mai Nakahara",
-		"add_date": "2014/03/10 21:00:00",
+		"weapon_name": "Ram-Dao",
 		"weapon_id": "1030001400"
 	},
 	{
@@ -177,7 +177,7 @@
 			"Erune"
 		],
 		"voice_actor": "Tatsuhisa Suzuki",
-		"add_date": "2014/03/10 21:00:00",
+		"weapon_name": "Tilvung",
 		"weapon_id": "1030000300"
 	},
 	{
@@ -197,7 +197,7 @@
 			"Human"
 		],
 		"voice_actor": "Megumi Han",
-		"add_date": "2014/03/10 21:00:00",
+		"weapon_name": "Kaiser Knuckles",
 		"weapon_id": "1030600200"
 	},
 	{
@@ -217,7 +217,7 @@
 			"Human"
 		],
 		"voice_actor": "Akiko Hasegawa",
-		"add_date": "2014/03/10 21:00:00",
+		"weapon_name": "Petronel",
 		"weapon_id": "1020500100"
 	},
 	{
@@ -237,7 +237,7 @@
 			"Human"
 		],
 		"voice_actor": "KENN",
-		"add_date": "2014/03/10 21:00:00",
+		"weapon_name": "Mandau",
 		"weapon_id": "1020100600"
 	},
 	{
@@ -257,7 +257,7 @@
 			"Human"
 		],
 		"voice_actor": "Yui Ishikawa",
-		"add_date": "2014/03/10 21:00:00",
+		"weapon_name": "Thunder Rapier",
 		"weapon_id": "1020000400"
 	},
 	{
@@ -277,7 +277,7 @@
 			"Human"
 		],
 		"voice_actor": "Mariya Ise",
-		"add_date": "2014/03/10 21:00:00",
+		"weapon_name": "Fire Sword",
 		"weapon_id": "1020000800"
 	},
 	{
@@ -298,7 +298,7 @@
 			"Human"
 		],
 		"voice_actor": "Kenji Hamada",
-		"add_date": "2014/03/10 21:00:00",
+		"weapon_name": "Mythril Knuckles",
 		"weapon_id": "1020600300"
 	},
 	{
@@ -318,7 +318,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Yuka Iguchi",
-		"add_date": "2014/03/31 21:00:00",
+		"weapon_name": "Ice Crystal Staff",
 		"weapon_id": "1040400900"
 	},
 	{
@@ -338,7 +338,7 @@
 			"Erune"
 		],
 		"voice_actor": "Kikuko Inoue",
-		"add_date": "2014/03/31 21:00:00",
+		"weapon_name": "Spritewood Staff",
 		"weapon_id": "1030400700"
 	},
 	{
@@ -358,7 +358,7 @@
 			"Human"
 		],
 		"voice_actor": "Ryohei Kimura",
-		"add_date": "2014/03/31 21:00:00",
+		"weapon_name": "Self Defender",
 		"weapon_id": "1020500800"
 	},
 	{
@@ -379,7 +379,7 @@
 			"Human"
 		],
 		"voice_actor": "Chikao Ohtsuka/Akio Otsuka",
-		"add_date": "2014/04/16 21:00:00",
+		"weapon_name": "Greatsword Andalius",
 		"weapon_id": "1040001400"
 	},
 	{
@@ -399,7 +399,7 @@
 			"Human"
 		],
 		"voice_actor": "Sanae Kobayashi",
-		"add_date": "2014/04/16 21:00:00",
+		"weapon_name": "Royal Rapier",
 		"weapon_id": "1030001800"
 	},
 	{
@@ -419,7 +419,7 @@
 			"Human"
 		],
 		"voice_actor": "Taiten Kusunoki",
-		"add_date": "2014/04/16 21:00:00",
+		"weapon_name": "Sky Tomahawk",
 		"weapon_id": "1020301200"
 	},
 	{
@@ -440,7 +440,7 @@
 			"Human"
 		],
 		"voice_actor": "Tomokazu Seki",
-		"add_date": "2014/04/23 21:00:00",
+		"weapon_name": "Windflash",
 		"weapon_id": "1040300600"
 	},
 	{
@@ -460,7 +460,7 @@
 			"Draph"
 		],
 		"voice_actor": "Satomi Akesaka",
-		"add_date": "2014/04/23 21:00:00",
+		"weapon_name": "Zhonpeli",
 		"weapon_id": "1030400800"
 	},
 	{
@@ -481,7 +481,7 @@
 			"Human"
 		],
 		"voice_actor": "Daisuke Kishio",
-		"add_date": "2014/04/23 21:00:00",
+		"weapon_name": "The Cross",
 		"weapon_id": "1020401500"
 	},
 	{
@@ -502,7 +502,7 @@
 			"Erune"
 		],
 		"voice_actor": "Kana Ueda",
-		"add_date": "2014/04/30 21:00:00",
+		"weapon_name": "Scarlet Crest Axe",
 		"weapon_id": "1040300700"
 	},
 	{
@@ -522,7 +522,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Ayumu Murase",
-		"add_date": "2014/04/30 21:00:00",
+		"weapon_name": "Narval",
 		"weapon_id": "1030201700"
 	},
 	{
@@ -542,7 +542,7 @@
 			"Erune"
 		],
 		"voice_actor": "Toshiki Masuda",
-		"add_date": "2014/04/30 21:00:00",
+		"weapon_name": "Lightbringer",
 		"weapon_id": "1020001500"
 	},
 	{
@@ -562,7 +562,7 @@
 			"Human"
 		],
 		"voice_actor": "Asami Seto",
-		"add_date": "",
+		"weapon_name": "Arquebus",
 		"weapon_id": "1030501100"
 	},
 	{
@@ -582,7 +582,7 @@
 			"Human"
 		],
 		"voice_actor": "Daisuke Ono",
-		"add_date": "2014/05/08 21:00:00",
+		"weapon_name": "Dainsleif",
 		"weapon_id": "1040000000"
 	},
 	{
@@ -602,7 +602,7 @@
 			"Draph"
 		],
 		"voice_actor": "Nozomi Sasaki",
-		"add_date": "2014/05/08 21:00:00",
+		"weapon_name": "Puppet Knife",
 		"weapon_id": "1030101800"
 	},
 	{
@@ -622,7 +622,7 @@
 			"Draph"
 		],
 		"voice_actor": "Kohsei Hirota",
-		"add_date": "2014/05/08 21:00:00",
+		"weapon_name": "Draph Hammer",
 		"weapon_id": "1020301400"
 	},
 	{
@@ -642,7 +642,7 @@
 			"Draph"
 		],
 		"voice_actor": "Natsumi Takamori",
-		"add_date": "",
+		"weapon_name": "Vulcan Gauntlet",
 		"weapon_id": "1030602000"
 	},
 	{
@@ -662,7 +662,7 @@
 			"Erune"
 		],
 		"voice_actor": "Daisuke Namikawa",
-		"add_date": "2014/05/23 21:00:00",
+		"weapon_name": "Sealed Claustrum",
 		"weapon_id": "1040401000"
 	},
 	{
@@ -682,7 +682,7 @@
 			"Erune"
 		],
 		"voice_actor": "Shizuka Itoh",
-		"add_date": "2014/05/23 21:00:00",
+		"weapon_name": "Sutera's Bow",
 		"weapon_id": "1030700700"
 	},
 	{
@@ -702,7 +702,7 @@
 			"Human"
 		],
 		"voice_actor": "Shintaro Asanuma",
-		"add_date": "2014/05/23 21:00:00",
+		"weapon_name": "Soldier Axe",
 		"weapon_id": "1020301500"
 	},
 	{
@@ -722,7 +722,7 @@
 			"Human"
 		],
 		"voice_actor": "Sakura Tange",
-		"add_date": "2014/05/31 19:00:00",
+		"weapon_name": "Ouroboros",
 		"weapon_id": "1040401100"
 	},
 	{
@@ -742,7 +742,7 @@
 			"Human"
 		],
 		"voice_actor": "Rikiya Koyama",
-		"add_date": "2014/05/31 19:00:00",
+		"weapon_name": "Impact Knuckles",
 		"weapon_id": "1030601000"
 	},
 	{
@@ -762,7 +762,7 @@
 			"Human"
 		],
 		"voice_actor": "Asuka Ohgame",
-		"add_date": "",
+		"weapon_name": "Sandcastle Spear",
 		"weapon_id": "1030201800"
 	},
 	{
@@ -782,7 +782,7 @@
 			"Human"
 		],
 		"voice_actor": "Yu Shimamura",
-		"add_date": "2014/05/31 19:00:00",
+		"weapon_name": "Xiphos",
 		"weapon_id": "1020001800"
 	},
 	{
@@ -802,7 +802,7 @@
 			"Human"
 		],
 		"voice_actor": "Hiroki Yasumoto",
-		"add_date": "",
+		"weapon_name": "Obsidian Bow",
 		"weapon_id": "1030701000"
 	},
 	{
@@ -822,7 +822,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Kaori Nazuka",
-		"add_date": "2014/06/17 19:00:00",
+		"weapon_name": "Claíomh Solais",
 		"weapon_id": "1040001600"
 	},
 	{
@@ -842,7 +842,7 @@
 			"Erune"
 		],
 		"voice_actor": "Tetsuya Kakihara",
-		"add_date": "2014/06/17 19:00:00",
+		"weapon_name": "Arson",
 		"weapon_id": "1030401300"
 	},
 	{
@@ -862,7 +862,7 @@
 			"Human"
 		],
 		"voice_actor": "Houko Kuwashima",
-		"add_date": "2014/06/17 19:00:00",
+		"weapon_name": "Moss Tree Staff",
 		"weapon_id": "1020401600"
 	},
 	{
@@ -883,7 +883,7 @@
 			"Human"
 		],
 		"voice_actor": "Sayaka Ohara",
-		"add_date": "2014/06/22 19:00:00",
+		"weapon_name": "Illusion Scepter",
 		"weapon_id": "1040401200"
 	},
 	{
@@ -903,7 +903,7 @@
 			"Human"
 		],
 		"voice_actor": "Asami Imai",
-		"add_date": "2014/06/22 19:00:00",
+		"weapon_name": "Lyst",
 		"weapon_id": "1030001900"
 	},
 	{
@@ -923,7 +923,7 @@
 			"Human"
 		],
 		"voice_actor": "Soma Saito",
-		"add_date": "2014/06/22 19:00:00",
+		"weapon_name": "Blast Knuckles",
 		"weapon_id": "1020601100"
 	},
 	{
@@ -943,7 +943,7 @@
 			"Erune"
 		],
 		"voice_actor": "Ryoka Yuzuki",
-		"add_date": "2014/06/30 19:00:00",
+		"weapon_name": "Aetherial Bow",
 		"weapon_id": "1040700400"
 	},
 	{
@@ -963,7 +963,7 @@
 			"Human"
 		],
 		"voice_actor": "Shouta Aoi",
-		"add_date": "2014/06/30 19:00:00",
+		"weapon_name": "Songsmith's Harp",
 		"weapon_id": "1030800000"
 	},
 	{
@@ -983,7 +983,7 @@
 			"Human"
 		],
 		"voice_actor": "Minako Kotobuki",
-		"add_date": "2014/06/30 19:00:00",
+		"weapon_name": "Two-Handed Sword",
 		"weapon_id": "1020001900"
 	},
 	{
@@ -1003,7 +1003,7 @@
 			"Erune"
 		],
 		"voice_actor": "Yoko Hikasa",
-		"add_date": "",
+		"weapon_name": "Platinum Harp",
 		"weapon_id": "1030800100"
 	},
 	{
@@ -1023,7 +1023,7 @@
 			"Erune"
 		],
 		"voice_actor": "Mugihito",
-		"add_date": "2014/07/08 19:00:00",
+		"weapon_name": "Stravaria",
 		"weapon_id": "1030800300"
 	},
 	{
@@ -1043,7 +1043,7 @@
 			"Erune"
 		],
 		"voice_actor": "Toshiyuki Morikawa",
-		"add_date": "2014/07/16 19:00:00",
+		"weapon_name": "Hrotti",
 		"weapon_id": "1040001900"
 	},
 	{
@@ -1063,7 +1063,7 @@
 			"Human"
 		],
 		"voice_actor": "Kenjiro Tsuda",
-		"add_date": "2014/07/16 19:00:00",
+		"weapon_name": "Chain Knuckles",
 		"weapon_id": "1030601100"
 	},
 	{
@@ -1085,7 +1085,7 @@
 			"Human"
 		],
 		"voice_actor": "Yuka Inokuchi",
-		"add_date": "2023/07/03 19:00:00",
+		"weapon_name": "Cursed Flame Candelabra",
 		"weapon_id": "1020402100"
 	},
 	{
@@ -1107,7 +1107,7 @@
 			"Human"
 		],
 		"voice_actor": "Chiwa Saito",
-		"add_date": "2023/07/03 19:00:00",
+		"weapon_name": "Diamond Edge",
 		"weapon_id": "1040101300"
 	},
 	{
@@ -1129,7 +1129,7 @@
 			"Human"
 		],
 		"voice_actor": "Miyuki Sawashiro",
-		"add_date": "2023/07/03 19:00:00",
+		"weapon_name": "Ripple Rapier",
 		"weapon_id": "1030002400"
 	},
 	{
@@ -1151,7 +1151,7 @@
 			"Human"
 		],
 		"voice_actor": "Asami Seto",
-		"add_date": "2023/07/03 19:00:00",
+		"weapon_name": "Custom Arquebus",
 		"weapon_id": "1030501300"
 	},
 	{
@@ -1173,7 +1173,7 @@
 			"Human"
 		],
 		"voice_actor": "Kappei Yamaguchi",
-		"add_date": "2023/07/03 19:00:00",
+		"weapon_name": "Wooden Dagger",
 		"weapon_id": "1020102100"
 	},
 	{
@@ -1193,7 +1193,7 @@
 			"Human"
 		],
 		"voice_actor": "Hitomi Nabatame",
-		"add_date": "",
+		"weapon_name": "Harpoon",
 		"weapon_id": "1030202300"
 	},
 	{
@@ -1215,7 +1215,7 @@
 			"Human"
 		],
 		"voice_actor": "Yukari Tamura",
-		"add_date": "2023/07/03 19:00:00",
+		"weapon_name": "Sunflower Wand",
 		"weapon_id": "1040401300"
 	},
 	{
@@ -1235,7 +1235,7 @@
 			"Erune"
 		],
 		"voice_actor": "Madoka Yonezawa",
-		"add_date": "",
+		"weapon_name": "Soul Edge",
 		"weapon_id": "1030102300"
 	},
 	{
@@ -1257,7 +1257,7 @@
 			"Erune"
 		],
 		"voice_actor": "Tatsuhisa Suzuki",
-		"add_date": "2023/07/03 19:00:00",
+		"weapon_name": "Skirt Chaser",
 		"weapon_id": "1030002600"
 	},
 	{
@@ -1279,7 +1279,7 @@
 			"Human"
 		],
 		"voice_actor": "Akiko Hasegawa",
-		"add_date": "2023/07/03 19:00:00",
+		"weapon_name": "Firecracker",
 		"weapon_id": "1020501200"
 	},
 	{
@@ -1299,7 +1299,7 @@
 			"Human"
 		],
 		"voice_actor": "Go Inoue",
-		"add_date": "",
+		"weapon_name": "Longinus",
 		"weapon_id": "1030200400"
 	},
 	{
@@ -1319,7 +1319,7 @@
 			"Human"
 		],
 		"voice_actor": "Emiri Kato",
-		"add_date": "",
+		"weapon_name": "Akhu",
 		"weapon_id": "1030300000"
 	},
 	{
@@ -1339,7 +1339,7 @@
 			"Primal"
 		],
 		"voice_actor": "Eri Kitamura",
-		"add_date": "2014/08/31 19:00:00",
+		"weapon_name": "Coco & Mimi",
 		"weapon_id": "1040600600"
 	},
 	{
@@ -1359,7 +1359,7 @@
 			"Human"
 		],
 		"voice_actor": "Takehito Koyasu",
-		"add_date": "2014/08/31 19:00:00",
+		"weapon_name": "Purity Blade",
 		"weapon_id": "1030002700"
 	},
 	{
@@ -1379,7 +1379,7 @@
 			"Human"
 		],
 		"voice_actor": "Yui Horie",
-		"add_date": "2014/08/31 19:00:00",
+		"weapon_name": "Soulbond Dirk",
 		"weapon_id": "1030102400"
 	},
 	{
@@ -1399,7 +1399,7 @@
 			"Human"
 		],
 		"voice_actor": "Ayaka Suwa",
-		"add_date": "2014/08/31 19:00:00",
+		"weapon_name": "Bloody Piercer",
 		"weapon_id": "1020102200"
 	},
 	{
@@ -1419,7 +1419,7 @@
 			"Draph"
 		],
 		"voice_actor": "Unsho Ishizuka/Koji Ishii",
-		"add_date": "2014/09/12 19:00:00",
+		"weapon_name": "Thunder Dirk Jove",
 		"weapon_id": "1040101800"
 	},
 	{
@@ -1439,7 +1439,7 @@
 			"Erune"
 		],
 		"voice_actor": "Fumiko Orikasa",
-		"add_date": "2014/09/12 19:00:00",
+		"weapon_name": "Aerial Cane",
 		"weapon_id": "1030401700"
 	},
 	{
@@ -1459,7 +1459,7 @@
 			"Draph"
 		],
 		"voice_actor": "Kotori Koiwai",
-		"add_date": "2014/09/12 19:00:00",
+		"weapon_name": "Morning Star",
 		"weapon_id": "1020301800"
 	},
 	{
@@ -1479,7 +1479,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Maaya Sakamoto",
-		"add_date": "2014/09/30 19:00:00",
+		"weapon_name": "Gargantua",
 		"weapon_id": "1040201700"
 	},
 	{
@@ -1499,7 +1499,7 @@
 			"Human"
 		],
 		"voice_actor": "Mariya Ise",
-		"add_date": "2014/09/30 19:00:00",
+		"weapon_name": "Sword of Lisblanc",
 		"weapon_id": "1030102600"
 	},
 	{
@@ -1519,7 +1519,7 @@
 			"Human"
 		],
 		"voice_actor": "Kenta Miyake",
-		"add_date": "2014/09/30 19:00:00",
+		"weapon_name": "Night Horn",
 		"weapon_id": "1020201600"
 	},
 	{
@@ -1541,7 +1541,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Kaori Nazuka",
-		"add_date": "2023/10/06 19:00:00",
+		"weapon_name": "Jack-O'-Brand",
 		"weapon_id": "1040102000"
 	},
 	{
@@ -1563,7 +1563,7 @@
 			"Human"
 		],
 		"voice_actor": "Sanae Kobayashi",
-		"add_date": "2023/10/06 19:00:00",
+		"weapon_name": "Dracula Harp",
 		"weapon_id": "1030800500"
 	},
 	{
@@ -1583,7 +1583,7 @@
 			"Human"
 		],
 		"voice_actor": "Mamiko Noto",
-		"add_date": "2014/10/31 19:00:00",
+		"weapon_name": "Far Away",
 		"weapon_id": "1040500700"
 	},
 	{
@@ -1603,7 +1603,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Yumiko Kobayashi",
-		"add_date": "2014/10/31 19:00:00",
+		"weapon_name": "Tiger Fang",
 		"weapon_id": "1030601500"
 	},
 	{
@@ -1623,7 +1623,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Neeko",
-		"add_date": "2014/10/31 19:00:00",
+		"weapon_name": "Ghillie Fork",
 		"weapon_id": "1020201700"
 	},
 	{
@@ -1643,7 +1643,7 @@
 			"Primal"
 		],
 		"voice_actor": "Kaito Ishikawa",
-		"add_date": "",
+		"weapon_name": "Wind-Rhyme Staff",
 		"weapon_id": "1030402100"
 	},
 	{
@@ -1663,7 +1663,7 @@
 			"Human"
 		],
 		"voice_actor": "Chie Nakamura",
-		"add_date": "2014/11/14 19:00:00",
+		"weapon_name": "Flare Glaive",
 		"weapon_id": "1030202600"
 	},
 	{
@@ -1684,7 +1684,7 @@
 			"Erune"
 		],
 		"voice_actor": "Aki Toyosaki",
-		"add_date": "2014/11/14 19:00:00",
+		"weapon_name": "Vassago",
 		"weapon_id": "1040301200"
 	},
 	{
@@ -1704,7 +1704,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Suzuko Hara",
-		"add_date": "2014/11/14 19:00:00",
+		"weapon_name": "Dark Sword",
 		"weapon_id": "1020002000"
 	},
 	{
@@ -1725,7 +1725,7 @@
 			"Human"
 		],
 		"voice_actor": "Yuki Ono",
-		"add_date": "2014/11/30 19:00:00",
+		"weapon_name": "Hoarfrost Blade Persius",
 		"weapon_id": "1040102100"
 	},
 	{
@@ -1745,7 +1745,7 @@
 			"Human"
 		],
 		"voice_actor": "Kaori Fukuhara",
-		"add_date": "2014/11/30 19:00:00",
+		"weapon_name": "Ocean Harp",
 		"weapon_id": "1040800200"
 	},
 	{
@@ -1765,7 +1765,7 @@
 			"Draph"
 		],
 		"voice_actor": "Hidenori Takahashi",
-		"add_date": "2014/11/30 19:00:00",
+		"weapon_name": "Sawed-Off Shotgun",
 		"weapon_id": "1020501300"
 	},
 	{
@@ -1785,7 +1785,7 @@
 			"Human"
 		],
 		"voice_actor": "Satomi Sato",
-		"add_date": "2014/11/30 19:00:00",
+		"weapon_name": "Ember Blade",
 		"weapon_id": "1030003400"
 	},
 	{
@@ -1807,7 +1807,7 @@
 			"Primal"
 		],
 		"voice_actor": "Rie Tanaka",
-		"add_date": "2022/12/03 19:00:00",
+		"weapon_name": "Rosen Maiden",
 		"weapon_id": "1040202000"
 	},
 	{
@@ -1829,7 +1829,7 @@
 			"Human"
 		],
 		"voice_actor": "Hiroaki Hirata",
-		"add_date": "2022/12/03 19:00:00",
+		"weapon_name": "Holy Harp",
 		"weapon_id": "1030800800"
 	},
 	{
@@ -1851,7 +1851,7 @@
 			"Human"
 		],
 		"voice_actor": "Kappei Yamaguchi",
-		"add_date": "2022/12/03 19:00:00",
+		"weapon_name": "Tree Wand",
 		"weapon_id": "1020402200"
 	},
 	{
@@ -1874,7 +1874,7 @@
 			"Draph"
 		],
 		"voice_actor": "Aoi Yuki",
-		"add_date": "2023/11/30 12:00:00",
+		"weapon_name": "Ramulus",
 		"weapon_id": "1040202800"
 	},
 	{
@@ -1894,7 +1894,7 @@
 			"Human"
 		],
 		"voice_actor": "Kana Hanazawa",
-		"add_date": "2014/12/31 19:00:00",
+		"weapon_name": "Brionac",
 		"weapon_id": "1040200300"
 	},
 	{
@@ -1914,7 +1914,7 @@
 			"Draph"
 		],
 		"voice_actor": "Fumihiko Tachiki",
-		"add_date": "2014/12/31 19:00:00",
+		"weapon_name": "Mistilteinn",
 		"weapon_id": "1040003100"
 	},
 	{
@@ -1934,7 +1934,7 @@
 			"Human"
 		],
 		"voice_actor": "Yui Ishikawa",
-		"add_date": "2014/12/31 19:00:00",
+		"weapon_name": "Soothing Torch",
 		"weapon_id": "1030402900"
 	},
 	{
@@ -1954,7 +1954,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Manami Tanaka",
-		"add_date": "2014/12/31 19:00:00",
+		"weapon_name": "Snowman Rod",
 		"weapon_id": "1020402300"
 	},
 	{
@@ -1975,7 +1975,7 @@
 			"Human"
 		],
 		"voice_actor": "Megumi Han",
-		"add_date": "2015/01/22 19:00:00",
+		"weapon_name": "Caladbolg",
 		"weapon_id": "1040000500"
 	},
 	{
@@ -1995,7 +1995,7 @@
 			"Draph"
 		],
 		"voice_actor": "Ryota Takeuchi",
-		"add_date": "2015/01/22 19:00:00",
+		"weapon_name": "Arondight",
 		"weapon_id": "1030000000"
 	},
 	{
@@ -2016,7 +2016,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Shigeru Chiba",
-		"add_date": "2015/01/22 19:00:00",
+		"weapon_name": "Shrimp Lure",
 		"weapon_id": "1020002100"
 	},
 	{
@@ -2037,7 +2037,7 @@
 			"Human"
 		],
 		"voice_actor": "Kazuhiko Inoue",
-		"add_date": "2015/01/31 19:00:00",
+		"weapon_name": "Ascalon",
 		"weapon_id": "1040000300"
 	},
 	{
@@ -2057,7 +2057,7 @@
 			"Human"
 		],
 		"voice_actor": "Asuka Ohgame",
-		"add_date": "2015/01/31 19:00:00",
+		"weapon_name": "Sandcastle Song-Lume",
 		"weapon_id": "1040801100"
 	},
 	{
@@ -2077,7 +2077,7 @@
 			"Draph"
 		],
 		"voice_actor": "Tetsu Inada",
-		"add_date": "2015/01/31 19:00:00",
+		"weapon_name": "Metal Glove",
 		"weapon_id": "1030603400"
 	},
 	{
@@ -2097,7 +2097,7 @@
 			"Erune"
 		],
 		"voice_actor": "Minoru Shiraishi",
-		"add_date": "2015/01/31 19:00:00",
+		"weapon_name": "Switchblade",
 		"weapon_id": "1020102300"
 	},
 	{
@@ -2117,7 +2117,7 @@
 			"Human"
 		],
 		"voice_actor": "Miho Arakawa",
-		"add_date": "2015/02/13 19:00:00",
+		"weapon_name": "Golden Mop",
 		"weapon_id": "1030203500"
 	},
 	{
@@ -2137,7 +2137,7 @@
 			"Human"
 		],
 		"voice_actor": "Sora Amamiya",
-		"add_date": "2015/02/13 19:00:00",
+		"weapon_name": "Cup and Saucer",
 		"weapon_id": "1030603500"
 	},
 	{
@@ -2157,7 +2157,7 @@
 			"Draph"
 		],
 		"voice_actor": "Misato Fukuen",
-		"add_date": "2015/02/13 19:00:00",
+		"weapon_name": "Turpin Spear",
 		"weapon_id": "1040200800"
 	},
 	{
@@ -2177,7 +2177,7 @@
 			"Draph"
 		],
 		"voice_actor": "Misaki Kuno",
-		"add_date": "2015/02/28 19:00:00",
+		"weapon_name": "Torch",
 		"weapon_id": "1020402400"
 	},
 	{
@@ -2197,7 +2197,7 @@
 			"Draph"
 		],
 		"voice_actor": "Hideo Ishikawa",
-		"add_date": "2015/02/28 19:00:00",
+		"weapon_name": "Voulge",
 		"weapon_id": "1030302800"
 	},
 	{
@@ -2217,7 +2217,7 @@
 			"Human"
 		],
 		"voice_actor": "Asami Imai",
-		"add_date": "2015/02/28 19:00:00",
+		"weapon_name": "Lyst Sin",
 		"weapon_id": "1040003600"
 	},
 	{
@@ -2238,7 +2238,7 @@
 			"Erune"
 		],
 		"voice_actor": "Ryoko Shiraishi",
-		"add_date": "2015/03/17 19:00:00",
+		"weapon_name": "Scarlet Vane",
 		"weapon_id": "1040602500"
 	},
 	{
@@ -2258,7 +2258,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Hinako Sasaki",
-		"add_date": "2015/03/17 19:00:00",
+		"weapon_name": "Stone Pole",
 		"weapon_id": "1020402500"
 	},
 	{
@@ -2278,7 +2278,7 @@
 			"Human"
 		],
 		"voice_actor": "Sayuri Yahagi",
-		"add_date": "2015/03/17 19:00:00",
+		"weapon_name": "Aquarium Harp",
 		"weapon_id": "1030802100"
 	},
 	{
@@ -2298,7 +2298,7 @@
 			"Human"
 		],
 		"voice_actor": "Hikaru Midorikawa",
-		"add_date": "2015/03/31 19:00:00",
+		"weapon_name": "Hauteclaire",
 		"weapon_id": "1040001000"
 	},
 	{
@@ -2318,7 +2318,7 @@
 			"Draph"
 		],
 		"voice_actor": "Shunsuke Takeuchi",
-		"add_date": "2015/03/31 19:00:00",
+		"weapon_name": "Derringer",
 		"weapon_id": "1020501400"
 	},
 	{
@@ -2338,7 +2338,7 @@
 			"Human"
 		],
 		"voice_actor": "Yu Kobayashi",
-		"add_date": "2015/03/31 19:00:00",
+		"weapon_name": "Tanzanite Sword Mikoh",
 		"weapon_id": "1030004500"
 	},
 	{
@@ -2358,7 +2358,7 @@
 			"Erune"
 		],
 		"voice_actor": "Yuto Suzuki",
-		"add_date": "2015/04/16 19:00:00",
+		"weapon_name": "Old Sword",
 		"weapon_id": "1020002200"
 	},
 	{
@@ -2378,7 +2378,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Saori Onishi",
-		"add_date": "2015/04/16 19:00:00",
+		"weapon_name": "Ice Bow",
 		"weapon_id": "1030702600"
 	},
 	{
@@ -2389,7 +2389,7 @@
 		"style": "Special",
 		"rarity": "SS Rare",
 		"element": "Fire",
-		"uncaps": 4,
+		"uncaps": 5,
 		"specialties": [
 			"Staff"
 		],
@@ -2398,7 +2398,7 @@
 			"Human"
 		],
 		"voice_actor": "Ayane Sakura",
-		"add_date": "2015/04/16 19:00:00",
+		"weapon_name": "Mobius Strip",
 		"weapon_id": "1040802100"
 	},
 	{
@@ -2418,7 +2418,7 @@
 			"Draph"
 		],
 		"voice_actor": "Juri Kimura",
-		"add_date": "2015/04/30 19:00:00",
+		"weapon_name": "Flame Bolt",
 		"weapon_id": "1020501500"
 	},
 	{
@@ -2439,7 +2439,7 @@
 			"Human"
 		],
 		"voice_actor": "Kenji Hamada",
-		"add_date": "2015/04/30 19:00:00",
+		"weapon_name": "Merciless Chastening",
 		"weapon_id": "1030603800"
 	},
 	{
@@ -2450,7 +2450,7 @@
 		"style": "Balanced",
 		"rarity": "SS Rare",
 		"element": "Wind",
-		"uncaps": 4,
+		"uncaps": 5,
 		"specialties": [
 			"Staff"
 		],
@@ -2459,7 +2459,7 @@
 			"Human"
 		],
 		"voice_actor": "Houko Kuwashima",
-		"add_date": "2015/04/30 19:00:00",
+		"weapon_name": "Heaven's Cloud",
 		"weapon_id": "1040103800"
 	},
 	{
@@ -2479,7 +2479,7 @@
 			"Erune"
 		],
 		"voice_actor": "Daisuke Namikawa",
-		"add_date": "2015/05/25 19:00:00",
+		"weapon_name": "Kalaurops",
 		"weapon_id": "1040403800"
 	},
 	{
@@ -2499,7 +2499,7 @@
 			"Draph"
 		],
 		"voice_actor": "Toru Nara",
-		"add_date": "2015/05/25 19:00:00",
+		"weapon_name": "Tonfa",
 		"weapon_id": "1020601300"
 	},
 	{
@@ -2519,7 +2519,7 @@
 			"Human"
 		],
 		"voice_actor": "Subaru Kimura",
-		"add_date": "2015/05/25 19:00:00",
+		"weapon_name": "Misanga Bracelet",
 		"weapon_id": "1030603900"
 	},
 	{
@@ -2539,7 +2539,7 @@
 			"Human"
 		],
 		"voice_actor": "Norio Wakamoto",
-		"add_date": "2015/05/31 19:00:00",
+		"weapon_name": "Chopsticks",
 		"weapon_id": "1020601400"
 	},
 	{
@@ -2559,7 +2559,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Nanami Yamashita",
-		"add_date": "2015/05/31 19:00:00",
+		"weapon_name": "Quarrel",
 		"weapon_id": "1030502900"
 	},
 	{
@@ -2579,7 +2579,7 @@
 			"Human"
 		],
 		"voice_actor": "Aya Hisakawa",
-		"add_date": "2015/05/31 19:00:00",
+		"weapon_name": "Vlisragna",
 		"weapon_id": "1040502400"
 	},
 	{
@@ -2599,7 +2599,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Yuiko Tatsumi",
-		"add_date": "2015/06/26 19:00:00",
+		"weapon_name": "Light Staff",
 		"weapon_id": "1020402600"
 	},
 	{
@@ -2619,7 +2619,7 @@
 			"Human"
 		],
 		"voice_actor": "Akiko Hasegawa",
-		"add_date": "2015/06/26 19:00:00",
+		"weapon_name": "Fire Piece",
 		"weapon_id": "1030503000"
 	},
 	{
@@ -2639,7 +2639,7 @@
 			"Human"
 		],
 		"voice_actor": "Ryota Osaka",
-		"add_date": "2015/06/26 19:00:00",
+		"weapon_name": "Lohengrin",
 		"weapon_id": "1040004400"
 	},
 	{
@@ -2659,7 +2659,7 @@
 			"Human"
 		],
 		"voice_actor": "Soma Saito",
-		"add_date": "2015/06/30 19:00:00",
+		"weapon_name": "Heavy Blast Knuckles",
 		"weapon_id": "1030604000"
 	},
 	{
@@ -2679,7 +2679,7 @@
 			"Human"
 		],
 		"voice_actor": "Shunichi Toki",
-		"add_date": "2015/06/30 19:00:00",
+		"weapon_name": "Silver Pole",
 		"weapon_id": "1020201800"
 	},
 	{
@@ -2699,7 +2699,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Risa Shimizu",
-		"add_date": "2015/06/30 19:00:00",
+		"weapon_name": "Dragon Slayer",
 		"weapon_id": "1040902100"
 	},
 	{
@@ -2719,7 +2719,7 @@
 			"Draph"
 		],
 		"voice_actor": "Kiyoyuki Yanada",
-		"add_date": "2015/07/24 19:00:00",
+		"weapon_name": "Brahma Gauntlet",
 		"weapon_id": "1040602900"
 	},
 	{
@@ -2741,7 +2741,7 @@
 			"Erune"
 		],
 		"voice_actor": "Tetsuya Kakihara",
-		"add_date": "2023/07/03 19:00:00",
+		"weapon_name": "Deathly Arson",
 		"weapon_id": "1030403400"
 	},
 	{
@@ -2763,7 +2763,7 @@
 			"Human"
 		],
 		"voice_actor": "Ayaka Suwa",
-		"add_date": "2023/07/03 19:00:00",
+		"weapon_name": "Shade Knife",
 		"weapon_id": "1030103900"
 	},
 	{
@@ -2785,7 +2785,7 @@
 			"Human"
 		],
 		"voice_actor": "Miyuki Sawashiro",
-		"add_date": "",
+		"weapon_name": "Murgleis",
 		"weapon_id": "1040004600"
 	},
 	{
@@ -2807,7 +2807,7 @@
 			"Erune"
 		],
 		"voice_actor": "Minoru Shiraishi",
-		"add_date": "2023/07/03 19:00:00",
+		"weapon_name": "Cleaver",
 		"weapon_id": "1020102400"
 	},
 	{
@@ -2829,7 +2829,7 @@
 			"Human"
 		],
 		"voice_actor": "Keiji Fujiwara/Kazuhiro Yamaji",
-		"add_date": "2023/07/03 19:00:00",
+		"weapon_name": "Desert Arms",
 		"weapon_id": "1030503100"
 	},
 	{
@@ -2851,7 +2851,7 @@
 			"Human"
 		],
 		"voice_actor": "Asami Imai",
-		"add_date": "2023/07/03 19:00:00",
+		"weapon_name": "Deep Desire",
 		"weapon_id": "1040004700"
 	},
 	{
@@ -2873,7 +2873,7 @@
 			"Human"
 		],
 		"voice_actor": "Ayako Kawasumi",
-		"add_date": "2023/07/03 19:00:00",
+		"weapon_name": "Pirate Sword",
 		"weapon_id": "1030004800"
 	},
 	{
@@ -2895,7 +2895,7 @@
 			"Draph"
 		],
 		"voice_actor": "Nozomi Sasaki",
-		"add_date": "2023/07/03 19:00:00",
+		"weapon_name": "Mikazuki",
 		"weapon_id": "1040902400"
 	},
 	{
@@ -2917,7 +2917,7 @@
 			"Human"
 		],
 		"voice_actor": "Kana Hanazawa",
-		"add_date": "2023/07/03 19:00:00",
+		"weapon_name": "Cletine",
 		"weapon_id": "1040200000"
 	},
 	{
@@ -2939,7 +2939,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Manami Tanaka",
-		"add_date": "2023/07/03 19:00:00",
+		"weapon_name": "Sunshade Parasol",
 		"weapon_id": "1030403500"
 	},
 	{
@@ -2959,7 +2959,7 @@
 			"Erune"
 		],
 		"voice_actor": "Ai Nonaka",
-		"add_date": "2015/08/31 19:00:00",
+		"weapon_name": "Paper Fan",
 		"weapon_id": "1020002300"
 	},
 	{
@@ -2980,7 +2980,7 @@
 			"Human"
 		],
 		"voice_actor": "Daisuke Kishio",
-		"add_date": "2015/08/31 19:00:00",
+		"weapon_name": "Cursed Cane",
 		"weapon_id": "1030403600"
 	},
 	{
@@ -3001,7 +3001,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Rie Kugimiya",
-		"add_date": "2015/08/31 19:00:00",
+		"weapon_name": "Azoth",
 		"weapon_id": "1040100000"
 	},
 	{
@@ -3012,7 +3012,7 @@
 		"style": "Special",
 		"rarity": "SS Rare",
 		"element": "Wind",
-		"uncaps": 4,
+		"uncaps": 5,
 		"specialties": [
 			"Harp"
 		],
@@ -3021,7 +3021,7 @@
 			"Human"
 		],
 		"voice_actor": "Chinatsu Akasaki",
-		"add_date": "2015/09/22 19:00:00",
+		"weapon_name": "Cords of Heaven Lyre",
 		"weapon_id": "1040802400"
 	},
 	{
@@ -3041,7 +3041,7 @@
 			"Draph"
 		],
 		"voice_actor": "Kohsei Hirota",
-		"add_date": "2015/09/22 19:00:00",
+		"weapon_name": "Great Hammer",
 		"weapon_id": "1030303000"
 	},
 	{
@@ -3061,7 +3061,7 @@
 			"Human"
 		],
 		"voice_actor": "Takanori Hoshino",
-		"add_date": "2015/09/22 19:00:00",
+		"weapon_name": "Forest Hermit Staff",
 		"weapon_id": "1020402700"
 	},
 	{
@@ -3083,7 +3083,7 @@
 			"Human"
 		],
 		"voice_actor": "Hiroaki Hirata",
-		"add_date": "",
+		"weapon_name": "Benedia",
 		"weapon_id": "1040502500"
 	},
 	{
@@ -3104,7 +3104,7 @@
 			"Erune"
 		],
 		"voice_actor": "Yumi Touma",
-		"add_date": "2015/09/30 19:00:00",
+		"weapon_name": "Luin",
 		"weapon_id": "1040203900"
 	},
 	{
@@ -3124,7 +3124,7 @@
 			"Human"
 		],
 		"voice_actor": "Yuka Inokuchi",
-		"add_date": "2015/09/30 19:00:00",
+		"weapon_name": "Witch's Broom",
 		"weapon_id": "1030403700"
 	},
 	{
@@ -3144,7 +3144,7 @@
 			"Draph"
 		],
 		"voice_actor": "Shuya Nishiji",
-		"add_date": "2015/09/30 19:00:00",
+		"weapon_name": "Light Buckler",
 		"weapon_id": "1020601500"
 	},
 	{
@@ -3164,7 +3164,7 @@
 			"Human"
 		],
 		"voice_actor": "Haruka Tomatsu",
-		"add_date": "2015/10/14 19:00:00",
+		"weapon_name": "Heroic Bow",
 		"weapon_id": "1040702500"
 	},
 	{
@@ -3184,7 +3184,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Kotori Koiwai",
-		"add_date": "2015/10/14 19:00:00",
+		"weapon_name": "Shadow Scepter",
 		"weapon_id": "1030403800"
 	},
 	{
@@ -3206,7 +3206,7 @@
 			"Human"
 		],
 		"voice_actor": "Sakura Tange",
-		"add_date": "2023/10/06 19:00:00",
+		"weapon_name": "Ouroboros Treat",
 		"weapon_id": "1040404200"
 	},
 	{
@@ -3228,7 +3228,7 @@
 			"Erune"
 		],
 		"voice_actor": "Madoka Yonezawa",
-		"add_date": "2023/10/06 19:00:00",
+		"weapon_name": "Aura Whip",
 		"weapon_id": "1030004900"
 	},
 	{
@@ -3248,7 +3248,7 @@
 			"Draph"
 		],
 		"voice_actor": "M・A・O",
-		"add_date": "2015/10/31 19:00:00",
+		"weapon_name": "Venustas",
 		"weapon_id": "1040900100"
 	},
 	{
@@ -3268,7 +3268,7 @@
 			"Human"
 		],
 		"voice_actor": "Saori Goto",
-		"add_date": "2015/10/31 19:00:00",
+		"weapon_name": "Flower Crown",
 		"weapon_id": "1030403900"
 	},
 	{
@@ -3288,7 +3288,7 @@
 			"Human"
 		],
 		"voice_actor": "Atsushi Tamaru",
-		"add_date": "2015/10/31 19:00:00",
+		"weapon_name": "Iron Pliers",
 		"weapon_id": "1020301900"
 	},
 	{
@@ -3309,7 +3309,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Shigeru Chiba",
-		"add_date": "2015/11/19 19:00:00",
+		"weapon_name": "Fudo-Kuniyuki",
 		"weapon_id": "1040902600"
 	},
 	{
@@ -3330,7 +3330,7 @@
 			"Human"
 		],
 		"voice_actor": "Hitomi Nabatame",
-		"add_date": "2015/11/19 19:00:00",
+		"weapon_name": "Titanium Harpoon",
 		"weapon_id": "1030204400"
 	},
 	{
@@ -3350,7 +3350,7 @@
 			"Draph"
 		],
 		"voice_actor": "Misaki Kuno",
-		"add_date": "2015/11/19 19:00:00",
+		"weapon_name": "Rubia Rod",
 		"weapon_id": "1020402800"
 	},
 	{
@@ -3372,7 +3372,7 @@
 			"Human"
 		],
 		"voice_actor": "Yukari Tamura",
-		"add_date": "",
+		"weapon_name": "Gambanteinn",
 		"weapon_id": "1040404300"
 	},
 	{
@@ -3392,7 +3392,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Sumire Morohoshi",
-		"add_date": "2015/12/02 19:00:00",
+		"weapon_name": "Melodic Sphere",
 		"weapon_id": "1040802600"
 	},
 	{
@@ -3413,7 +3413,7 @@
 			"Human"
 		],
 		"voice_actor": "Takuya Eguchi",
-		"add_date": "2015/12/02 19:00:00",
+		"weapon_name": "Raging Halberd",
 		"weapon_id": "1030204500"
 	},
 	{
@@ -3433,7 +3433,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Kaya Okuno",
-		"add_date": "2015/12/02 19:00:00",
+		"weapon_name": "White Sword",
 		"weapon_id": "1020002400"
 	},
 	{
@@ -3455,7 +3455,7 @@
 			"Human"
 		],
 		"voice_actor": "Ayane Sakura",
-		"add_date": "2022/12/03 19:00:00",
+		"weapon_name": "Snowy Mobius Strip",
 		"weapon_id": "1040802700"
 	},
 	{
@@ -3477,7 +3477,7 @@
 			"Draph"
 		],
 		"voice_actor": "Tetsu Inada",
-		"add_date": "2022/12/03 19:00:00",
+		"weapon_name": "Holy Glove ",
 		"weapon_id": "1030604300"
 	},
 	{
@@ -3499,7 +3499,7 @@
 			"Primal"
 		],
 		"voice_actor": "Rie Tanaka",
-		"add_date": "",
+		"weapon_name": "Love Eternal",
 		"weapon_id": "1040105400"
 	},
 	{
@@ -3522,7 +3522,7 @@
 			"Erune"
 		],
 		"voice_actor": "Aya Uchida",
-		"add_date": "2023/05/31 12:00:00",
+		"weapon_name": "Dormius",
 		"weapon_id": "1040904200"
 	},
 	{
@@ -3542,7 +3542,7 @@
 			"Erune"
 		],
 		"voice_actor": "Kazuya Nakai",
-		"add_date": "2015/12/31 19:00:00",
+		"weapon_name": "Stratomizer",
 		"weapon_id": "1040503400"
 	},
 	{
@@ -3562,7 +3562,7 @@
 			"Human"
 		],
 		"voice_actor": "Aya Hirano",
-		"add_date": "2015/12/31 19:00:00",
+		"weapon_name": "Gram",
 		"weapon_id": "1040005800"
 	},
 	{
@@ -3582,7 +3582,7 @@
 			"Draph"
 		],
 		"voice_actor": "Rina Hidaka",
-		"add_date": "2015/12/31 19:00:00",
+		"weapon_name": "Frying Pan",
 		"weapon_id": "1030005400"
 	},
 	{
@@ -3602,7 +3602,7 @@
 			"Erune"
 		],
 		"voice_actor": "Ryoka Yuzuki",
-		"add_date": "2016/01/15 19:00:00",
+		"weapon_name": "Roseate Aetherial Bow",
 		"weapon_id": "1040703300"
 	},
 	{
@@ -3622,7 +3622,7 @@
 			"Erune"
 		],
 		"voice_actor": "Shizuka Itoh",
-		"add_date": "2016/01/15 19:00:00",
+		"weapon_name": "Glass Bow",
 		"weapon_id": "1030703200"
 	},
 	{
@@ -3642,7 +3642,7 @@
 			"Erune"
 		],
 		"voice_actor": "Mutsumi Tamura",
-		"add_date": "2016/01/15 19:00:00",
+		"weapon_name": "Flame Bow",
 		"weapon_id": "1020700700"
 	},
 	{
@@ -3662,7 +3662,7 @@
 			"Erune"
 		],
 		"voice_actor": "Madoka Yonezawa",
-		"add_date": "2016/01/31 19:00:00",
+		"weapon_name": "Ethereal Lasher",
 		"weapon_id": "1040006100"
 	},
 	{
@@ -3682,7 +3682,7 @@
 			"Draph"
 		],
 		"voice_actor": "Kotori Koiwai",
-		"add_date": "2016/01/31 19:00:00",
+		"weapon_name": "Golden Woofer",
 		"weapon_id": "1030303200"
 	},
 	{
@@ -3702,7 +3702,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Rumi Okubo",
-		"add_date": "2016/01/31 19:00:00",
+		"weapon_name": "Night Bell",
 		"weapon_id": "1020800100"
 	},
 	{
@@ -3722,7 +3722,7 @@
 			"Erune"
 		],
 		"voice_actor": "Chiaki Takahashi",
-		"add_date": "2016/02/18 19:00:00",
+		"weapon_name": "Arsene",
 		"weapon_id": "1040106300"
 	},
 	{
@@ -3742,7 +3742,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Kazuyuki Okitsu",
-		"add_date": "2016/02/18 19:00:00",
+		"weapon_name": "Zanbato",
 		"weapon_id": "1030901800"
 	},
 	{
@@ -3762,7 +3762,7 @@
 			"Human"
 		],
 		"voice_actor": "Kujira",
-		"add_date": "2016/02/18 19:00:00",
+		"weapon_name": "Oven Mitts",
 		"weapon_id": "1020601600"
 	},
 	{
@@ -3784,7 +3784,7 @@
 			"Human"
 		],
 		"voice_actor": "Keiji Fujiwara/Kazuhiro Yamaji",
-		"add_date": "",
+		"weapon_name": "AK-4A",
 		"weapon_id": "1040504300"
 	},
 	{
@@ -3804,7 +3804,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Yumi Hara",
-		"add_date": "2016/02/29 20:00:00",
+		"weapon_name": "Starblaze Rings",
 		"weapon_id": "1040406800"
 	},
 	{
@@ -3825,7 +3825,7 @@
 			"Human"
 		],
 		"voice_actor": "Kisho Taniyama",
-		"add_date": "2016/02/29 20:00:00",
+		"weapon_name": "Way Flyer",
 		"weapon_id": "1040304200"
 	},
 	{
@@ -3845,7 +3845,7 @@
 			"Human"
 		],
 		"voice_actor": "Shintaro Asanuma",
-		"add_date": "2016/02/29 20:00:00",
+		"weapon_name": "Massive Axe",
 		"weapon_id": "1030303300"
 	},
 	{
@@ -3865,7 +3865,7 @@
 			"Draph"
 		],
 		"voice_actor": "Satomi Akesaka",
-		"add_date": "2016/02/29 20:00:00",
+		"weapon_name": "Broken Bottle",
 		"weapon_id": "1020102500"
 	},
 	{
@@ -3885,7 +3885,7 @@
 			"Draph"
 		],
 		"voice_actor": "Sumire Uesaka",
-		"add_date": "2016/07/22 19:00:00",
+		"weapon_name": "Soul Eater",
 		"weapon_id": "1040305500"
 	},
 	{
@@ -3905,7 +3905,7 @@
 			"Draph"
 		],
 		"voice_actor": "Hochu Otsuka",
-		"add_date": "2016/03/18 19:00:00",
+		"weapon_name": "Giant Fork",
 		"weapon_id": "1030204800"
 	},
 	{
@@ -3925,7 +3925,7 @@
 			"Human"
 		],
 		"voice_actor": "Megumi Han",
-		"add_date": "2016/07/31 19:00:00",
+		"weapon_name": "Disparia",
 		"weapon_id": "1040008600"
 	},
 	{
@@ -3945,7 +3945,7 @@
 			"Erune"
 		],
 		"voice_actor": "Takahiro Sakurai",
-		"add_date": "2016/04/04 19:00:00",
+		"weapon_name": "Scalpel",
 		"weapon_id": "1030104700"
 	},
 	{
@@ -3965,7 +3965,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Touko Aoyama",
-		"add_date": "2016/04/04 19:00:00",
+		"weapon_name": "Student Notebook",
 		"weapon_id": "1020402900"
 	},
 	{
@@ -3985,7 +3985,7 @@
 			"Erune"
 		],
 		"voice_actor": "Ayumi Fujimura/Shizuka Itoh",
-		"add_date": "2016/08/15 19:00:00",
+		"weapon_name": "Wing of the Pure",
 		"weapon_id": "1040408200"
 	},
 	{
@@ -4005,7 +4005,7 @@
 			"Erune"
 		],
 		"voice_actor": "Ryo Hirohashi",
-		"add_date": "2016/04/20 19:00:00",
+		"weapon_name": "Crimson Talons",
 		"weapon_id": "1030604700"
 	},
 	{
@@ -4025,7 +4025,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Tsubasa Yonaga",
-		"add_date": "2016/04/20 19:00:00",
+		"weapon_name": "Prism Tear",
 		"weapon_id": "1020002500"
 	},
 	{
@@ -4048,7 +4048,7 @@
 			"Human"
 		],
 		"voice_actor": "Romi Park",
-		"add_date": "",
+		"weapon_name": "Blutgang",
 		"weapon_id": "1040008700"
 	},
 	{
@@ -4068,7 +4068,7 @@
 			"Draph"
 		],
 		"voice_actor": "Natsumi Takamori",
-		"add_date": "2016/08/18 19:00:00",
+		"weapon_name": "Magma Gauntlet",
 		"weapon_id": "1040605600"
 	},
 	{
@@ -4088,7 +4088,7 @@
 			"Human"
 		],
 		"voice_actor": "Taiten Kusunoki",
-		"add_date": "2016/05/02 19:00:00",
+		"weapon_name": "Cloud Tomahawk",
 		"weapon_id": "1030303600"
 	},
 	{
@@ -4108,7 +4108,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Yuki Kaida",
-		"add_date": "2016/05/02 19:00:00",
+		"weapon_name": "Iron Guard",
 		"weapon_id": "1020601700"
 	},
 	{
@@ -4128,7 +4128,7 @@
 			"Human"
 		],
 		"voice_actor": "Kensho Ono",
-		"add_date": "2016/08/31 19:00:00",
+		"weapon_name": "Ancient Bandages",
 		"weapon_id": "1040605700"
 	},
 	{
@@ -4148,7 +4148,7 @@
 			"Draph"
 		],
 		"voice_actor": "Yuka Terasaki",
-		"add_date": "2016/05/18 19:00:00",
+		"weapon_name": "Dreadflayer",
 		"weapon_id": "1030205000"
 	},
 	{
@@ -4168,7 +4168,7 @@
 			"Erune"
 		],
 		"voice_actor": "Atsushi Abe",
-		"add_date": "2016/05/18 19:00:00",
+		"weapon_name": "Practice Sword",
 		"weapon_id": "1020002600"
 	},
 	{
@@ -4189,7 +4189,7 @@
 			"Erune"
 		],
 		"voice_actor": "Ayahi Takagaki",
-		"add_date": "2016/05/31 19:00:00",
+		"weapon_name": "Mettle",
 		"weapon_id": "1040305700"
 	},
 	{
@@ -4209,7 +4209,7 @@
 			"Human"
 		],
 		"voice_actor": "Nobunaga Shimazaki",
-		"add_date": "2016/05/31 19:00:00",
+		"weapon_name": "Shrike's Beak",
 		"weapon_id": "1030104900"
 	},
 	{
@@ -4229,7 +4229,7 @@
 			"Human"
 		],
 		"voice_actor": "Hisako Kyoda",
-		"add_date": "2016/05/31 19:00:00",
+		"weapon_name": "Vintage Flat Iron",
 		"weapon_id": "1020002700"
 	},
 	{
@@ -4249,7 +4249,7 @@
 			"Draph"
 		],
 		"voice_actor": "Sachika Misawa",
-		"add_date": "2016/06/16 19:00:00",
+		"weapon_name": "Skyrend Spear",
 		"weapon_id": "1040206500"
 	},
 	{
@@ -4269,7 +4269,7 @@
 			"Draph"
 		],
 		"voice_actor": "Shizuka Ishigami",
-		"add_date": "2016/06/16 19:00:00",
+		"weapon_name": "Fremel Hammer",
 		"weapon_id": "1030303700"
 	},
 	{
@@ -4289,7 +4289,7 @@
 			"Erune"
 		],
 		"voice_actor": "Ai Kakuma",
-		"add_date": "2016/06/16 19:00:00",
+		"weapon_name": "Heavy Metal Comb",
 		"weapon_id": "1020002800"
 	},
 	{
@@ -4309,7 +4309,7 @@
 			"Human"
 		],
 		"voice_actor": "Yui Ishikawa",
-		"add_date": "2016/06/30 19:00:00",
+		"weapon_name": "Twin Helix",
 		"weapon_id": "1040107800"
 	},
 	{
@@ -4329,7 +4329,7 @@
 			"Human"
 		],
 		"voice_actor": "Mitsuki Saiga",
-		"add_date": "2016/06/30 19:00:00",
+		"weapon_name": "Sacred Codex",
 		"weapon_id": "1030404400"
 	},
 	{
@@ -4349,7 +4349,7 @@
 			"Erune"
 		],
 		"voice_actor": "Miyu Tomita",
-		"add_date": "2016/06/30 19:00:00",
+		"weapon_name": "Enchanted Nail",
 		"weapon_id": "1020601800"
 	},
 	{
@@ -4370,7 +4370,7 @@
 			"Human"
 		],
 		"voice_actor": "Kazuhiro Yamaji",
-		"add_date": "2016/07/15 19:00:00",
+		"weapon_name": "Meteora",
 		"weapon_id": "1040505900"
 	},
 	{
@@ -4392,7 +4392,7 @@
 			"Human"
 		],
 		"voice_actor": "Asuka Ohgame",
-		"add_date": "2023/07/06 19:00:00",
+		"weapon_name": "Ripple Harp",
 		"weapon_id": "1030802700"
 	},
 	{
@@ -4414,7 +4414,7 @@
 			"Human"
 		],
 		"voice_actor": "Norio Wakamoto",
-		"add_date": "2023/07/06 19:00:00",
+		"weapon_name": "Cold Noodles",
 		"weapon_id": "1020601900"
 	},
 	{
@@ -4434,7 +4434,7 @@
 			"Human"
 		],
 		"voice_actor": "Inori Minase",
-		"add_date": "",
+		"weapon_name": "Resonating Wand",
 		"weapon_id": "1030802800"
 	},
 	{
@@ -4456,7 +4456,7 @@
 			"Draph"
 		],
 		"voice_actor": "M・A・O",
-		"add_date": "2023/07/06 19:00:00",
+		"weapon_name": "Raikiri",
 		"weapon_id": "1040905700"
 	},
 	{
@@ -4478,7 +4478,7 @@
 			"Human"
 		],
 		"voice_actor": "Subaru Kimura",
-		"add_date": "2023/07/06 19:00:00",
+		"weapon_name": "Silver Rings",
 		"weapon_id": "1030604800"
 	},
 	{
@@ -4500,7 +4500,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Rumi Okubo",
-		"add_date": "2023/07/06 19:00:00",
+		"weapon_name": "Night Air Bell",
 		"weapon_id": "1020800200"
 	},
 	{
@@ -4522,7 +4522,7 @@
 			"Human"
 		],
 		"voice_actor": "Ryota Osaka",
-		"add_date": "2023/07/06 19:00:00",
+		"weapon_name": "Antwerp",
 		"weapon_id": "1040009000"
 	},
 	{
@@ -4544,7 +4544,7 @@
 			"Draph"
 		],
 		"voice_actor": "Misaki Kuno",
-		"add_date": "2023/07/06 19:00:00",
+		"weapon_name": "Water Balloons",
 		"weapon_id": "1030604900"
 	},
 	{
@@ -4566,7 +4566,7 @@
 			"Erune"
 		],
 		"voice_actor": "Yumi Touma",
-		"add_date": "2023/07/06 19:00:00",
+		"weapon_name": "Crystal Luin",
 		"weapon_id": "1040206600"
 	},
 	{
@@ -4589,7 +4589,7 @@
 			"Primal"
 		],
 		"voice_actor": "Ami Koshimizu",
-		"add_date": "2023/11/17 19:00:00",
+		"weapon_name": "Cute Ribbon",
 		"weapon_id": "1040605900"
 	},
 	{
@@ -4600,7 +4600,7 @@
 		"style": "Special",
 		"rarity": "SS Rare",
 		"element": "Water",
-		"uncaps": 4,
+		"uncaps": 5,
 		"specialties": [
 			"Staff",
 			"Dagger"
@@ -4610,7 +4610,7 @@
 			"Human"
 		],
 		"voice_actor": "Yoshitsugu Matsuoka",
-		"add_date": "2016/08/31 19:00:00",
+		"weapon_name": "Phantom Thief Blade",
 		"weapon_id": "1040108000"
 	},
 	{
@@ -4631,7 +4631,7 @@
 			"Human"
 		],
 		"voice_actor": "Reina Ueda",
-		"add_date": "2016/08/31 19:00:00",
+		"weapon_name": "Colorful Crackerjack",
 		"weapon_id": "1030503900"
 	},
 	{
@@ -4651,7 +4651,7 @@
 			"Erune"
 		],
 		"voice_actor": "Asami Shimoda",
-		"add_date": "2016/08/31 19:00:00",
+		"weapon_name": "Boogie Plates",
 		"weapon_id": "1020602000"
 	},
 	{
@@ -4671,7 +4671,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Yuki Kaji",
-		"add_date": "2016/09/15 19:00:00",
+		"weapon_name": "Bloody Scar",
 		"weapon_id": "1040108100"
 	},
 	{
@@ -4692,7 +4692,7 @@
 			"Erune"
 		],
 		"voice_actor": "Ryoko Shiraishi",
-		"add_date": "2016/09/15 19:00:00",
+		"weapon_name": "Blushing Blossom Pin",
 		"weapon_id": "1040606100"
 	},
 	{
@@ -4712,7 +4712,7 @@
 			"Human"
 		],
 		"voice_actor": "Aya Suzaki",
-		"add_date": "2016/09/15 19:00:00",
+		"weapon_name": "Dolphin",
 		"weapon_id": "1030504000"
 	},
 	{
@@ -4732,7 +4732,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Rina Endo",
-		"add_date": "2016/09/15 19:00:00",
+		"weapon_name": "Little Scarlet",
 		"weapon_id": "1020102600"
 	},
 	{
@@ -4752,7 +4752,7 @@
 			"Human"
 		],
 		"voice_actor": "Kaori Ishihara",
-		"add_date": "2016/09/30 19:00:00",
+		"weapon_name": "Capulet's Oath",
 		"weapon_id": "1040408800"
 	},
 	{
@@ -4772,7 +4772,7 @@
 			"Human"
 		],
 		"voice_actor": "Takanori Hoshino",
-		"add_date": "2016/09/30 19:00:00",
+		"weapon_name": "Nature's Mystery",
 		"weapon_id": "1030404500"
 	},
 	{
@@ -4792,7 +4792,7 @@
 			"Human"
 		],
 		"voice_actor": "Miki Ito",
-		"add_date": "2016/09/30 19:00:00",
+		"weapon_name": "Blue Crest",
 		"weapon_id": "1020002900"
 	},
 	{
@@ -4813,7 +4813,7 @@
 			"Human"
 		],
 		"voice_actor": "Yuichi Nakamura",
-		"add_date": "2016/10/14 19:00:00",
+		"weapon_name": "Montague's Oath",
 		"weapon_id": "1040408900"
 	},
 	{
@@ -4833,7 +4833,7 @@
 			"Human"
 		],
 		"voice_actor": "Asami Seto",
-		"add_date": "2016/10/14 19:00:00",
+		"weapon_name": "Handy Arquebus",
 		"weapon_id": "1030504200"
 	},
 	{
@@ -4853,7 +4853,7 @@
 			"Draph"
 		],
 		"voice_actor": "Shinnosuke Ogami",
-		"add_date": "2016/10/14 19:00:00",
+		"weapon_name": "Bronze Bell",
 		"weapon_id": "1020800300"
 	},
 	{
@@ -4875,7 +4875,7 @@
 			"Erune"
 		],
 		"voice_actor": "Kazuya Nakai",
-		"add_date": "2023/10/06 19:00:00",
+		"weapon_name": "Nightmare Mobilizer",
 		"weapon_id": "1040506300"
 	},
 	{
@@ -4897,7 +4897,7 @@
 			"Human"
 		],
 		"voice_actor": "Aya Hirano",
-		"add_date": "2023/10/06 19:00:00",
+		"weapon_name": "Delta Apex",
 		"weapon_id": "1030005700"
 	},
 	{
@@ -4917,7 +4917,7 @@
 			"Draph"
 		],
 		"voice_actor": "Aya Endo",
-		"add_date": "2016/10/31 19:00:00",
+		"weapon_name": "Nagelring",
 		"weapon_id": "1040009300"
 	},
 	{
@@ -4939,7 +4939,7 @@
 			"Human"
 		],
 		"voice_actor": "Ayako Kawasumi",
-		"add_date": "",
+		"weapon_name": "Reunion",
 		"weapon_id": "1040108200"
 	},
 	{
@@ -4959,7 +4959,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Rie Takahashi",
-		"add_date": "2016/10/31 19:00:00",
+		"weapon_name": "Ice Bough Staff",
 		"weapon_id": "1030404600"
 	},
 	{
@@ -4980,7 +4980,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Shiori Mikami",
-		"add_date": "2016/11/18 19:00:00",
+		"weapon_name": "Split End",
 		"weapon_id": "1040306100"
 	},
 	{
@@ -5000,7 +5000,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Yumiko Kobayashi",
-		"add_date": "2016/11/18 19:00:00",
+		"weapon_name": "White Flag",
 		"weapon_id": "1030005900"
 	},
 	{
@@ -5021,7 +5021,7 @@
 			"Erune"
 		],
 		"voice_actor": "Yuu Asakawa",
-		"add_date": "2016/11/30 19:00:00",
+		"weapon_name": "Forbidden Inferno",
 		"weapon_id": "1040409000"
 	},
 	{
@@ -5041,7 +5041,7 @@
 			"Human"
 		],
 		"voice_actor": "Ayaka Suwa",
-		"add_date": "2016/11/30 19:00:00",
+		"weapon_name": "Wyrm Claw",
 		"weapon_id": "1030105100"
 	},
 	{
@@ -5061,7 +5061,7 @@
 			"Human"
 		],
 		"voice_actor": "Wataru Hatano",
-		"add_date": "2016/11/30 19:00:00",
+		"weapon_name": "Tattoo Fist",
 		"weapon_id": "1020602100"
 	},
 	{
@@ -5083,7 +5083,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Maaya Sakamoto",
-		"add_date": "2022/12/03 19:00:00",
+		"weapon_name": "Stardust Holly Rod",
 		"weapon_id": "1040409100"
 	},
 	{
@@ -5105,7 +5105,7 @@
 			"Erune"
 		],
 		"voice_actor": "Ryo Hirohashi",
-		"add_date": "2022/12/03 19:00:00",
+		"weapon_name": "White Talons",
 		"weapon_id": "1030605000"
 	},
 	{
@@ -5116,7 +5116,7 @@
 		"style": "Balanced",
 		"rarity": "SS Rare",
 		"element": "Light",
-		"uncaps": 4,
+		"uncaps": 5,
 		"specialties": [
 			"Katana",
 			"Saber"
@@ -5128,7 +5128,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Takahiro Sakurai",
-		"add_date": "",
+		"weapon_name": "Eden",
 		"weapon_id": "1040207000"
 	},
 	{
@@ -5149,7 +5149,7 @@
 			"Erune"
 		],
 		"voice_actor": "Rika Tachibana",
-		"add_date": "2016/12/31 19:00:00",
+		"weapon_name": "Yyrkoon",
 		"weapon_id": "1040009400"
 	},
 	{
@@ -5172,7 +5172,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Maii Kadowaki",
-		"add_date": "2023/06/30 12:00:00",
+		"weapon_name": "Gallinarius",
 		"weapon_id": "1040705400"
 	},
 	{
@@ -5192,7 +5192,7 @@
 			"Human"
 		],
 		"voice_actor": "Takehito Koyasu",
-		"add_date": "2016/12/31 19:00:00",
+		"weapon_name": "Wandering Blade",
 		"weapon_id": "1030902000"
 	},
 	{
@@ -5203,7 +5203,7 @@
 		"style": "Special",
 		"rarity": "SS Rare",
 		"element": "Dark",
-		"uncaps": 4,
+		"uncaps": 5,
 		"specialties": [
 			"Staff"
 		],
@@ -5212,7 +5212,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Chafurin",
-		"add_date": "2017/01/20 19:00:00",
+		"weapon_name": "Gridarvor",
 		"weapon_id": "1040409200"
 	},
 	{
@@ -5232,7 +5232,7 @@
 			"Human"
 		],
 		"voice_actor": "Minako Kotobuki",
-		"add_date": "2017/01/20 19:00:00",
+		"weapon_name": "Grand Edge",
 		"weapon_id": "1030006100"
 	},
 	{
@@ -5253,7 +5253,7 @@
 			"Draph"
 		],
 		"voice_actor": "Nozomi Yamamoto",
-		"add_date": "2017/01/31 19:00:00",
+		"weapon_name": "Gae Derg",
 		"weapon_id": "1040207100"
 	},
 	{
@@ -5273,7 +5273,7 @@
 			"Human"
 		],
 		"voice_actor": "Aoi Yuki",
-		"add_date": "2017/01/31 19:00:00",
+		"weapon_name": "Aquablade",
 		"weapon_id": "1030006000"
 	},
 	{
@@ -5295,7 +5295,7 @@
 			"Human"
 		],
 		"voice_actor": "Aya Hirano",
-		"add_date": "2023/07/06 19:00:00",
+		"weapon_name": "Delta Quartz",
 		"weapon_id": "1040108300"
 	},
 	{
@@ -5317,7 +5317,7 @@
 			"Human"
 		],
 		"voice_actor": "Hiroki Yasumoto",
-		"add_date": "2023/07/06 19:00:00",
+		"weapon_name": "Tyrian Tiger Blade",
 		"weapon_id": "1030902200"
 	},
 	{
@@ -5340,7 +5340,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Minori Chihara",
-		"add_date": "",
+		"weapon_name": "Parazonium",
 		"weapon_id": "1040108700"
 	},
 	{
@@ -5360,7 +5360,7 @@
 			"Human"
 		],
 		"voice_actor": "Kana Hanazawa",
-		"add_date": "2017/02/28 19:00:00",
+		"weapon_name": "Sunspot Spear",
 		"weapon_id": "1040207500"
 	},
 	{
@@ -5381,7 +5381,7 @@
 			"Human"
 		],
 		"voice_actor": "Yoshihisa Kawahara",
-		"add_date": "2017/02/28 19:00:00",
+		"weapon_name": "Standard Albion Bolt",
 		"weapon_id": "1030504400"
 	},
 	{
@@ -5401,7 +5401,7 @@
 			"Human"
 		],
 		"voice_actor": "Chiwa Saito",
-		"add_date": "2017/03/20 19:00:00",
+		"weapon_name": "Thyrsus",
 		"weapon_id": "1040409800"
 	},
 	{
@@ -5421,7 +5421,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Tsubasa Yonaga",
-		"add_date": "2017/03/20 19:00:00",
+		"weapon_name": "True Teardrop",
 		"weapon_id": "1030006300"
 	},
 	{
@@ -5443,7 +5443,7 @@
 			"Draph"
 		],
 		"voice_actor": "Kanae Ito",
-		"add_date": "",
+		"weapon_name": "Ixaba",
 		"weapon_id": "1040906400"
 	},
 	{
@@ -5466,7 +5466,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Miyuki Sawashiro<br>Asami Imai",
-		"add_date": "2017/03/31 19:00:00",
+		"weapon_name": "Metal Hand",
 		"weapon_id": "1040606700"
 	},
 	{
@@ -5486,7 +5486,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Mai Aizawa",
-		"add_date": "2017/03/31 19:00:00",
+		"weapon_name": "Hunter's Rifle",
 		"weapon_id": "1030504500"
 	},
 	{
@@ -5507,7 +5507,7 @@
 			"Human"
 		],
 		"voice_actor": "Takuya Eguchi",
-		"add_date": "2017/04/18 19:00:00",
+		"weapon_name": "Blossom Axe",
 		"weapon_id": "1040306900"
 	},
 	{
@@ -5527,7 +5527,7 @@
 			"Draph"
 		],
 		"voice_actor": "Satomi Akesaka",
-		"add_date": "2017/04/18 19:00:00",
+		"weapon_name": "Bottle o' Blossoms",
 		"weapon_id": "1030006500"
 	},
 	{
@@ -5549,7 +5549,7 @@
 			"Erune"
 		],
 		"voice_actor": "Tomokazu Sugita",
-		"add_date": "",
+		"weapon_name": "Blue Sphere",
 		"weapon_id": "1040410000"
 	},
 	{
@@ -5569,7 +5569,7 @@
 			"Human"
 		],
 		"voice_actor": "Sakura Tange",
-		"add_date": "2017/04/30 19:00:00",
+		"weapon_name": "Black Ouroboros",
 		"weapon_id": "1040409900"
 	},
 	{
@@ -5589,7 +5589,7 @@
 			"Human"
 		],
 		"voice_actor": "Kenta Miyake",
-		"add_date": "2017/04/30 19:00:00",
+		"weapon_name": "Brocken Lance",
 		"weapon_id": "1030205600"
 	},
 	{
@@ -5609,7 +5609,7 @@
 			"Human"
 		],
 		"voice_actor": "Ayane Sakura",
-		"add_date": "2017/05/19 19:00:00",
+		"weapon_name": "Fusion Mobius",
 		"weapon_id": "1040806000"
 	},
 	{
@@ -5629,7 +5629,7 @@
 			"Human"
 		],
 		"voice_actor": "Yuu Asakawa",
-		"add_date": "2017/05/19 19:00:00",
+		"weapon_name": "Cruel Claw",
 		"weapon_id": "1030605400"
 	},
 	{
@@ -5649,7 +5649,7 @@
 			"Erune"
 		],
 		"voice_actor": "Sachiko Kojima",
-		"add_date": "2017/05/31 19:00:00",
+		"weapon_name": "Deirdre's Claws",
 		"weapon_id": "1040607200"
 	},
 	{
@@ -5669,7 +5669,7 @@
 			"Erune"
 		],
 		"voice_actor": "Yoshito Yasuhara",
-		"add_date": "2017/05/31 19:00:00",
+		"weapon_name": "Holy Axe",
 		"weapon_id": "1030303900"
 	},
 	{
@@ -5689,7 +5689,7 @@
 			"Draph"
 		],
 		"voice_actor": "Ryota Takeuchi",
-		"add_date": "2017/06/19 19:00:00",
+		"weapon_name": "Symbol of Justice",
 		"weapon_id": "1040011000"
 	},
 	{
@@ -5709,7 +5709,7 @@
 			"Human"
 		],
 		"voice_actor": "Megumi Han",
-		"add_date": "2017/06/19 19:00:00",
+		"weapon_name": "Lance d'Espoir",
 		"weapon_id": "1030205700"
 	},
 	{
@@ -5729,7 +5729,7 @@
 			"Primal"
 		],
 		"voice_actor": "???",
-		"add_date": "2017/06/30 19:00:00",
+		"weapon_name": "Bella Aeterna",
 		"weapon_id": "1040806100"
 	},
 	{
@@ -5749,7 +5749,7 @@
 			"Human"
 		],
 		"voice_actor": "Nobunaga Shimazaki",
-		"add_date": "2017/06/30 19:00:00",
+		"weapon_name": "Katzbalger",
 		"weapon_id": "1030105400"
 	},
 	{
@@ -5771,7 +5771,7 @@
 			"Erune"
 		],
 		"voice_actor": "Ayumi Fujimura/Shizuka Itoh",
-		"add_date": "2023/07/06 19:00:00",
+		"weapon_name": "Bell of Happy Endings",
 		"weapon_id": "1040806200"
 	},
 	{
@@ -5793,7 +5793,7 @@
 			"Draph"
 		],
 		"voice_actor": "Aya Endo",
-		"add_date": "2023/07/06 19:00:00",
+		"weapon_name": "Frostbite",
 		"weapon_id": "1040012500"
 	},
 	{
@@ -5815,7 +5815,7 @@
 			"Human"
 		],
 		"voice_actor": "Kensho Ono",
-		"add_date": "2023/07/06 19:00:00",
+		"weapon_name": "Tropical Punch",
 		"weapon_id": "1030605500"
 	},
 	{
@@ -5837,7 +5837,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Kaori Nazuka",
-		"add_date": "2023/07/06 19:00:00",
+		"weapon_name": "Floaty Sword",
 		"weapon_id": "1030006700"
 	},
 	{
@@ -5860,7 +5860,7 @@
 			"Human"
 		],
 		"voice_actor": "Kazuhiko Inoue",
-		"add_date": "2023/07/06 19:00:00",
+		"weapon_name": "Sinensis",
 		"weapon_id": "1040908100"
 	},
 	{
@@ -5882,7 +5882,7 @@
 			"Human"
 		],
 		"voice_actor": "Inori Minase",
-		"add_date": "2023/07/06 19:00:00",
+		"weapon_name": "Tlepilli",
 		"weapon_id": "1040608800"
 	},
 	{
@@ -5904,7 +5904,7 @@
 			"Draph"
 		],
 		"voice_actor": "Kiyoyuki Yanada",
-		"add_date": "2023/07/06 19:00:00",
+		"weapon_name": "Rope Knuckles",
 		"weapon_id": "1030605600"
 	},
 	{
@@ -5926,7 +5926,7 @@
 			"Erune"
 		],
 		"voice_actor": "Miyu Tomita",
-		"add_date": "2023/07/06 19:00:00",
+		"weapon_name": "Seaside Memory",
 		"weapon_id": "1030605700"
 	},
 	{
@@ -5946,7 +5946,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Ayaka Fukuhara",
-		"add_date": "",
+		"weapon_name": "Draco Claw",
 		"weapon_id": "1040608900"
 	},
 	{
@@ -5966,7 +5966,7 @@
 			"Erune"
 		],
 		"voice_actor": "Tetsuya Kakihara",
-		"add_date": "",
+		"weapon_name": "Arson Link",
 		"weapon_id": "1030404900"
 	},
 	{
@@ -5987,7 +5987,7 @@
 			"Human"
 		],
 		"voice_actor": "Yoko Hikasa",
-		"add_date": "2017/09/14 19:00:00",
+		"weapon_name": "Daemon's Spine",
 		"weapon_id": "1040209600"
 	},
 	{
@@ -6007,7 +6007,7 @@
 			"Human"
 		],
 		"voice_actor": "Wataru Hatano",
-		"add_date": "2017/09/14 19:00:00",
+		"weapon_name": "Sword of Sorcery",
 		"weapon_id": "1030006900"
 	},
 	{
@@ -6028,7 +6028,7 @@
 			"Human"
 		],
 		"voice_actor": "Sora Amamiya<br>Miho Arakawa",
-		"add_date": "2017/09/30 12:00:00",
+		"weapon_name": "Gothic Cutlery",
 		"weapon_id": "1040609000"
 	},
 	{
@@ -6048,7 +6048,7 @@
 			"Draph"
 		],
 		"voice_actor": "Ari Ozawa",
-		"add_date": "2017/09/30 12:00:00",
+		"weapon_name": "Slingshot",
 		"weapon_id": "1030704100"
 	},
 	{
@@ -6069,7 +6069,7 @@
 			"Primal"
 		],
 		"voice_actor": "Masakazu Morita",
-		"add_date": "2017/10/17 19:00:00",
+		"weapon_name": "Shadow Viperlance",
 		"weapon_id": "1040210300"
 	},
 	{
@@ -6089,7 +6089,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Rie Kugimiya",
-		"add_date": "2017/10/17 19:00:00",
+		"weapon_name": "Vampire's Nail",
 		"weapon_id": "1030605800"
 	},
 	{
@@ -6112,7 +6112,7 @@
 			"Draph"
 		],
 		"voice_actor": "Nozomi Sasaki",
-		"add_date": "2023/10/06 19:00:00",
+		"weapon_name": "Snack Pole",
 		"weapon_id": "1040411500"
 	},
 	{
@@ -6135,7 +6135,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Yumiko Kobayashi",
-		"add_date": "2023/10/06 19:00:00",
+		"weapon_name": "Heavy-Duty Pumpkins",
 		"weapon_id": "1030605900"
 	},
 	{
@@ -6156,7 +6156,7 @@
 			"Erune"
 		],
 		"voice_actor": "Kana Ueda",
-		"add_date": "",
+		"weapon_name": "Izayoi",
 		"weapon_id": "1040908400"
 	},
 	{
@@ -6176,7 +6176,7 @@
 			"Erune"
 		],
 		"voice_actor": "Ai Nonaka",
-		"add_date": "2017/10/31 12:00:00",
+		"weapon_name": "Silver Fan",
 		"weapon_id": "1030007000"
 	},
 	{
@@ -6199,7 +6199,7 @@
 			"Primal"
 		],
 		"voice_actor": "Asami Imai",
-		"add_date": "",
+		"weapon_name": "Certificus",
 		"weapon_id": "1040309000"
 	},
 	{
@@ -6219,7 +6219,7 @@
 			"Human"
 		],
 		"voice_actor": "Miyu Takagi",
-		"add_date": "2017/11/17 19:00:00",
+		"weapon_name": "Unsigned Blade",
 		"weapon_id": "1030902800"
 	},
 	{
@@ -6240,7 +6240,7 @@
 			"Human"
 		],
 		"voice_actor": "Yuki Ono",
-		"add_date": "2017/11/30 12:00:00",
+		"weapon_name": "Heiliges Schwert",
 		"weapon_id": "1040014000"
 	},
 	{
@@ -6260,7 +6260,7 @@
 			"Human"
 		],
 		"voice_actor": "Kaori Fukuhara",
-		"add_date": "2017/11/30 12:00:00",
+		"weapon_name": "Staff of the Star Seeker",
 		"weapon_id": "1030405100"
 	},
 	{
@@ -6282,7 +6282,7 @@
 			"Human"
 		],
 		"voice_actor": "Akiko Hasegawa",
-		"add_date": "2022/12/03 19:00:00",
+		"weapon_name": "Jolly Starcracker",
 		"weapon_id": "1040508700"
 	},
 	{
@@ -6304,7 +6304,7 @@
 			"Human"
 		],
 		"voice_actor": "Haruka Tomatsu",
-		"add_date": "2022/12/03 19:00:00",
+		"weapon_name": "Winter Wonderbow",
 		"weapon_id": "1030504800"
 	},
 	{
@@ -6326,7 +6326,7 @@
 			"Primal"
 		],
 		"voice_actor": "Maaya Sakamoto",
-		"add_date": "",
+		"weapon_name": "Fallen Sword",
 		"weapon_id": "1040014300"
 	},
 	{
@@ -6349,7 +6349,7 @@
 			"Erune"
 		],
 		"voice_actor": "Yu Serizawa",
-		"add_date": "2023/07/31 12:00:00",
+		"weapon_name": "Canisius",
 		"weapon_id": "1040609700"
 	},
 	{
@@ -6369,7 +6369,7 @@
 			"Draph"
 		],
 		"voice_actor": "Fumihiko Tachiki",
-		"add_date": "",
+		"weapon_name": "Wurtzite Scythe",
 		"weapon_id": "1040309100"
 	},
 	{
@@ -6390,7 +6390,7 @@
 			"Erune"
 		],
 		"voice_actor": "Mie Sonozaki",
-		"add_date": "2017/12/31 12:00:00",
+		"weapon_name": "Gandiva",
 		"weapon_id": "1040708200"
 	},
 	{
@@ -6410,7 +6410,7 @@
 			"Draph"
 		],
 		"voice_actor": "Juri Kimura",
-		"add_date": "2017/12/31 12:00:00",
+		"weapon_name": "Signal Flare",
 		"weapon_id": "1030504900"
 	},
 	{
@@ -6430,7 +6430,7 @@
 			"Human"
 		],
 		"voice_actor": "Yu Kobayashi",
-		"add_date": "2018/01/16 19:00:00",
+		"weapon_name": "Tanzanite Blade",
 		"weapon_id": "1040908800"
 	},
 	{
@@ -6450,7 +6450,7 @@
 			"Human"
 		],
 		"voice_actor": "Norio Wakamoto",
-		"add_date": "2018/01/16 19:00:00",
+		"weapon_name": "Red-Hot Noodles",
 		"weapon_id": "1030606200"
 	},
 	{
@@ -6471,7 +6471,7 @@
 			"Primal"
 		],
 		"voice_actor": "Ami Koshimizu",
-		"add_date": "",
+		"weapon_name": "Ruler of Fate",
 		"weapon_id": "1040508800"
 	},
 	{
@@ -6491,7 +6491,7 @@
 			"Human"
 		],
 		"voice_actor": "Wataru Hatano",
-		"add_date": "2018/01/31 12:00:00",
+		"weapon_name": "Silver Shotel",
 		"weapon_id": "1030007100"
 	},
 	{
@@ -6513,7 +6513,7 @@
 			"Primal"
 		],
 		"voice_actor": "Kaori Mizuhashi",
-		"add_date": "2023/09/06 19:00:00",
+		"weapon_name": "Medusiana Staff",
 		"weapon_id": "1040414000"
 	},
 	{
@@ -6535,7 +6535,7 @@
 			"Draph"
 		],
 		"voice_actor": "M・A・O",
-		"add_date": "2023/09/06 19:00:00",
+		"weapon_name": "Confection Cutter",
 		"weapon_id": "1030902900"
 	},
 	{
@@ -6557,7 +6557,7 @@
 			"Human"
 		],
 		"voice_actor": "Yui Horie",
-		"add_date": "2023/09/06 19:00:00",
+		"weapon_name": "Scarlet Oath",
 		"weapon_id": "1030405200"
 	},
 	{
@@ -6577,7 +6577,7 @@
 			"Erune"
 		],
 		"voice_actor": "Nobuhiko Okamoto",
-		"add_date": "",
+		"weapon_name": "Loupe Rod",
 		"weapon_id": "1030405500"
 	},
 	{
@@ -6597,7 +6597,7 @@
 			"Human"
 		],
 		"voice_actor": "Reina Ueda",
-		"add_date": "",
+		"weapon_name": "Monochrome Crackerjack",
 		"weapon_id": "1030505100"
 	},
 	{
@@ -6618,7 +6618,7 @@
 			"Primal"
 		],
 		"voice_actor": "???",
-		"add_date": "2018/02/28 12:00:00",
+		"weapon_name": "Tiamat Bolt Prime",
 		"weapon_id": "1040509000"
 	},
 	{
@@ -6638,7 +6638,7 @@
 			"Human"
 		],
 		"voice_actor": "Jurota Kosugi",
-		"add_date": "2018/02/28 12:00:00",
+		"weapon_name": "Tughril",
 		"weapon_id": "1030405300"
 	},
 	{
@@ -6660,7 +6660,7 @@
 			"Human"
 		],
 		"voice_actor": "Megumi Han",
-		"add_date": "2023/07/18 19:00:00",
+		"weapon_name": "Orleans Standard",
 		"weapon_id": "1040210900"
 	},
 	{
@@ -6680,7 +6680,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Keiko Han",
-		"add_date": "",
+		"weapon_name": "Railgun",
 		"weapon_id": "1040509200"
 	},
 	{
@@ -6700,7 +6700,7 @@
 			"Human"
 		],
 		"voice_actor": "Tomokazu Seki",
-		"add_date": "",
+		"weapon_name": "Gigante Slicer",
 		"weapon_id": "1040909200"
 	},
 	{
@@ -6711,7 +6711,7 @@
 		"style": "Defense",
 		"rarity": "SS Rare",
 		"element": "Earth",
-		"uncaps": 4,
+		"uncaps": 5,
 		"specialties": [
 			"Saber",
 			"Katana"
@@ -6723,7 +6723,7 @@
 			"Primal"
 		],
 		"voice_actor": "Aya Hirano",
-		"add_date": "",
+		"weapon_name": "Mirror-Blade Shard",
 		"weapon_id": "1040110600"
 	},
 	{
@@ -6743,7 +6743,7 @@
 			"Draph"
 		],
 		"voice_actor": "Shunsuke Takeuchi",
-		"add_date": "2018/04/17 19:00:00",
+		"weapon_name": "Crocskin Glove",
 		"weapon_id": "1030606400"
 	},
 	{
@@ -6763,7 +6763,7 @@
 			"Human"
 		],
 		"voice_actor": "Aya Suzaki",
-		"add_date": "2018/04/30 12:00:00",
+		"weapon_name": "White Hawk",
 		"weapon_id": "1040509400"
 	},
 	{
@@ -6783,7 +6783,7 @@
 			"Draph"
 		],
 		"voice_actor": "Misato Fukuen",
-		"add_date": "2018/04/30 12:00:00",
+		"weapon_name": "Sudarshana",
 		"weapon_id": "1030606500"
 	},
 	{
@@ -6803,7 +6803,7 @@
 			"Human"
 		],
 		"voice_actor": "Rikiya Koyama",
-		"add_date": "2018/05/21 19:00:00",
+		"weapon_name": "Wyrmtiger Claw",
 		"weapon_id": "1040610600"
 	},
 	{
@@ -6823,7 +6823,7 @@
 			"Human"
 		],
 		"voice_actor": "Hibiku Yamamura",
-		"add_date": "",
+		"weapon_name": "Serpentine Longspear",
 		"weapon_id": "1030206400"
 	},
 	{
@@ -6843,7 +6843,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Rumi Okubo",
-		"add_date": "",
+		"weapon_name": "Ruling Pen",
 		"weapon_id": "1040610700"
 	},
 	{
@@ -6865,7 +6865,7 @@
 			"Human"
 		],
 		"voice_actor": "Takuma Terashima",
-		"add_date": "",
+		"weapon_name": "Ichigo Hitofuri",
 		"weapon_id": "1040910000"
 	},
 	{
@@ -6885,7 +6885,7 @@
 			"Human"
 		],
 		"voice_actor": "Showtaro Morikubo",
-		"add_date": "2018/05/31 12:00:00",
+		"weapon_name": "Spin Blade",
 		"weapon_id": "1020102700"
 	},
 	{
@@ -6906,7 +6906,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Tomoaki Maeno<br>Akane Fujita",
-		"add_date": "2018/06/18 19:00:00",
+		"weapon_name": "Master Key",
 		"weapon_id": "1040309800"
 	},
 	{
@@ -6926,7 +6926,7 @@
 			"Draph"
 		],
 		"voice_actor": "Toru Nara",
-		"add_date": "2018/06/18 19:00:00",
+		"weapon_name": "Mythril Tonfa",
 		"weapon_id": "1030606700"
 	},
 	{
@@ -6946,7 +6946,7 @@
 			"Erune"
 		],
 		"voice_actor": "Yoko Hikasa",
-		"add_date": "2018/06/30 12:00:00",
+		"weapon_name": "Cythara Anglica",
 		"weapon_id": "1040808500"
 	},
 	{
@@ -6966,7 +6966,7 @@
 			"Human"
 		],
 		"voice_actor": "Shouta Aoi",
-		"add_date": "2018/06/30 12:00:00",
+		"weapon_name": "Humming Bard",
 		"weapon_id": "1030803400"
 	},
 	{
@@ -6988,7 +6988,7 @@
 			"Primal"
 		],
 		"voice_actor": "Rie Tanaka",
-		"add_date": "2023/07/18 19:00:00",
+		"weapon_name": "Thorny Rose",
 		"weapon_id": "1040110700"
 	},
 	{
@@ -7011,7 +7011,7 @@
 			"Erune"
 		],
 		"voice_actor": "Rika Tachibana",
-		"add_date": "2023/07/18 19:00:00",
+		"weapon_name": "Summer Souteyrand",
 		"weapon_id": "1030007200"
 	},
 	{
@@ -7033,7 +7033,7 @@
 			"Human"
 		],
 		"voice_actor": "Go Inoue",
-		"add_date": "2023/07/18 19:00:00",
+		"weapon_name": "Conifer",
 		"weapon_id": "1040211200"
 	},
 	{
@@ -7056,7 +7056,7 @@
 			"Erune"
 		],
 		"voice_actor": "Mie Sonozaki",
-		"add_date": "2023/07/18 19:00:00",
+		"weapon_name": "Arjunan Bow",
 		"weapon_id": "1040708600"
 	},
 	{
@@ -7078,7 +7078,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Sumire Morohoshi",
-		"add_date": "2023/07/18 19:00:00",
+		"weapon_name": "Summer Beach Sphere",
 		"weapon_id": "1030803500"
 	},
 	{
@@ -7100,7 +7100,7 @@
 			"Human"
 		],
 		"voice_actor": "Mariya Ise",
-		"add_date": "2023/07/18 19:00:00",
+		"weapon_name": "Macuahuitl",
 		"weapon_id": "1030007300"
 	},
 	{
@@ -7122,7 +7122,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Maaya Sakamoto",
-		"add_date": "2023/07/18 19:00:00",
+		"weapon_name": "Summer Night Peak",
 		"weapon_id": "1030606800"
 	},
 	{
@@ -7144,7 +7144,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Ayaka Fukuhara",
-		"add_date": "2023/07/18 19:00:00",
+		"weapon_name": "Draco Horn",
 		"weapon_id": "1040211400"
 	},
 	{
@@ -7166,7 +7166,7 @@
 			"Draph"
 		],
 		"voice_actor": "Shizuka Ishigami",
-		"add_date": "2023/07/18 19:00:00",
+		"weapon_name": "Gold-Plated Fremel",
 		"weapon_id": "1030304300"
 	},
 	{
@@ -7186,7 +7186,7 @@
 			"Human"
 		],
 		"voice_actor": "Yuichi Nakamura",
-		"add_date": "",
+		"weapon_name": "Two-by-Four",
 		"weapon_id": "1040310000"
 	},
 	{
@@ -7209,7 +7209,7 @@
 			"Erune"
 		],
 		"voice_actor": "Maaya Uchida",
-		"add_date": "",
+		"weapon_name": "Taisai Spirit Bow",
 		"weapon_id": "1040708700"
 	},
 	{
@@ -7229,7 +7229,7 @@
 			"Erune"
 		],
 		"voice_actor": "Asami Shimoda",
-		"add_date": "2018/08/31 12:00:00",
+		"weapon_name": "Epoxy Boogie Plates",
 		"weapon_id": "1030606900"
 	},
 	{
@@ -7251,7 +7251,7 @@
 			"Erune"
 		],
 		"voice_actor": "Yuhko Kaida",
-		"add_date": "2018/09/16 19:00:00",
+		"weapon_name": "Arachne",
 		"weapon_id": "1040509600"
 	},
 	{
@@ -7272,7 +7272,7 @@
 			"Erune"
 		],
 		"voice_actor": "Minoru Shiraishi<br>Mark Ishii<br>Junya Enoki",
-		"add_date": "2018/09/16 19:00:00",
+		"weapon_name": "Macho Hunter Weapon",
 		"weapon_id": "1030206600"
 	},
 	{
@@ -7292,7 +7292,7 @@
 			"Human"
 		],
 		"voice_actor": "Aya Hisakawa",
-		"add_date": "2018/09/30 12:00:00",
+		"weapon_name": "Full Metal Recoil",
 		"weapon_id": "1040310100"
 	},
 	{
@@ -7312,7 +7312,7 @@
 			"Human"
 		],
 		"voice_actor": "Makoto Furukawa",
-		"add_date": "2018/09/30 12:00:00",
+		"weapon_name": "Kilij",
 		"weapon_id": "1030007400"
 	},
 	{
@@ -7323,9 +7323,10 @@
 		"style": "Heal",
 		"rarity": "SS Rare",
 		"element": "Water",
-		"uncaps": 4,
+		"uncaps": 5,
 		"specialties": [
-			"Staff"
+			"Staff",
+			"Spear"
 		],
 		"series": [
 			"Grand"
@@ -7334,7 +7335,7 @@
 			"Primal"
 		],
 		"voice_actor": "Mai Nakahara",
-		"add_date": "",
+		"weapon_name": "Galilei's Insight",
 		"weapon_id": "1040211600"
 	},
 	{
@@ -7357,7 +7358,7 @@
 			"Human"
 		],
 		"voice_actor": "Ai Orikasa",
-		"add_date": "2023/10/06 19:00:00",
+		"weapon_name": "Distant Requiem",
 		"weapon_id": "1040808700"
 	},
 	{
@@ -7379,7 +7380,7 @@
 			"Human"
 		],
 		"voice_actor": "Soma Saito",
-		"add_date": "2023/10/06 19:00:00",
+		"weapon_name": "Phantom Gauntlet",
 		"weapon_id": "1030608100"
 	},
 	{
@@ -7400,7 +7401,7 @@
 			"Human"
 		],
 		"voice_actor": "Yuki Ono<br>Takuya Eguchi",
-		"add_date": "2018/10/31 12:00:00",
+		"weapon_name": "Feendrache Pennant",
 		"weapon_id": "1040211700"
 	},
 	{
@@ -7420,7 +7421,7 @@
 			"Human"
 		],
 		"voice_actor": "Tatsuhisa Suzuki",
-		"add_date": "2018/10/31 12:00:00",
+		"weapon_name": "Gottfried",
 		"weapon_id": "1040016000"
 	},
 	{
@@ -7441,7 +7442,7 @@
 			"Erune"
 		],
 		"voice_actor": "Toshiyuki Toyonaga<br>Yusuke Shirai",
-		"add_date": "2018/10/31 12:00:00",
+		"weapon_name": "Balisarde",
 		"weapon_id": "1030007500"
 	},
 	{
@@ -7462,7 +7463,7 @@
 			"Human"
 		],
 		"voice_actor": "Aoi Yuki",
-		"add_date": "2018/11/15 19:00:00",
+		"weapon_name": "Levin Shooter",
 		"weapon_id": "1040708800"
 	},
 	{
@@ -7483,7 +7484,7 @@
 			"Human"
 		],
 		"voice_actor": "Hidenobu Kiuchi",
-		"add_date": "2018/11/15 19:00:00",
+		"weapon_name": "Returner Staff",
 		"weapon_id": "1040414400"
 	},
 	{
@@ -7503,7 +7504,7 @@
 			"Human"
 		],
 		"voice_actor": "Hisako Kyoda",
-		"add_date": "2018/11/15 19:00:00",
+		"weapon_name": "Time-Tested Iron",
 		"weapon_id": "1030007700"
 	},
 	{
@@ -7523,7 +7524,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Kaori Nazuka",
-		"add_date": "2018/11/30 12:00:00",
+		"weapon_name": "Claidheamh Soluis",
 		"weapon_id": "1040310200"
 	},
 	{
@@ -7544,7 +7545,7 @@
 			"Draph"
 		],
 		"voice_actor": "Nozomi Yamamoto",
-		"add_date": "2018/11/30 12:00:00",
+		"weapon_name": "Divine Spear",
 		"weapon_id": "1030206800"
 	},
 	{
@@ -7566,7 +7567,7 @@
 			"Erune"
 		],
 		"voice_actor": "Ryoka Yuzuki",
-		"add_date": "2022/12/03 19:00:00",
+		"weapon_name": "Pinkie Needle",
 		"weapon_id": "1040211800"
 	},
 	{
@@ -7588,7 +7589,7 @@
 			"Draph"
 		],
 		"voice_actor": "Rina Hidaka",
-		"add_date": "2022/12/03 19:00:00",
+		"weapon_name": "Festive Frying Pan",
 		"weapon_id": "1030007800"
 	},
 	{
@@ -7611,7 +7612,7 @@
 			"Primal"
 		],
 		"voice_actor": "Show Hayami",
-		"add_date": "",
+		"weapon_name": "Purifying Thunderbolt",
 		"weapon_id": "1040709000"
 	},
 	{
@@ -7634,7 +7635,7 @@
 			"Draph"
 		],
 		"voice_actor": "Yui Horie",
-		"add_date": "2023/08/31 12:00:00",
+		"weapon_name": "Porculius",
 		"weapon_id": "1040310400"
 	},
 	{
@@ -7654,7 +7655,7 @@
 			"Primal"
 		],
 		"voice_actor": "Ayako Kawasumi",
-		"add_date": "2018/12/31 12:00:00",
+		"weapon_name": "Sacred Lance",
 		"weapon_id": "1040212000"
 	},
 	{
@@ -7675,7 +7676,7 @@
 			"Erune"
 		],
 		"voice_actor": "Kazuya Nakai",
-		"add_date": "2018/12/31 12:00:00",
+		"weapon_name": "Ishtar",
 		"weapon_id": "1040510300"
 	},
 	{
@@ -7695,7 +7696,7 @@
 			"Human"
 		],
 		"voice_actor": "Aya Hirano",
-		"add_date": "2018/12/31 12:00:00",
+		"weapon_name": "Prideful Sword",
 		"weapon_id": "1030007900"
 	},
 	{
@@ -7715,7 +7716,7 @@
 			"Human"
 		],
 		"voice_actor": "Ayaka Suwa",
-		"add_date": "2019/01/17 19:00:00",
+		"weapon_name": "Gandring",
 		"weapon_id": "1040111100"
 	},
 	{
@@ -7736,7 +7737,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Koki Uchiyama",
-		"add_date": "2019/01/17 19:00:00",
+		"weapon_name": "Genius Squared",
 		"weapon_id": "1030505300"
 	},
 	{
@@ -7756,7 +7757,7 @@
 			"Erune"
 		],
 		"voice_actor": "Ryo Hirohashi",
-		"add_date": "2019/01/31 12:00:00",
+		"weapon_name": "Galactic Impact",
 		"weapon_id": "1040212100"
 	},
 	{
@@ -7777,7 +7778,7 @@
 			"Human"
 		],
 		"voice_actor": "Takanori Hoshino<br>Makoto Furukawa",
-		"add_date": "2019/01/31 12:00:00",
+		"weapon_name": "Neko Punch Pro",
 		"weapon_id": "1040610900"
 	},
 	{
@@ -7797,7 +7798,7 @@
 			"Erune"
 		],
 		"voice_actor": "Chiaki Takahashi",
-		"add_date": "2019/01/31 12:00:00",
+		"weapon_name": "Demitasse",
 		"weapon_id": "1030608200"
 	},
 	{
@@ -7819,7 +7820,7 @@
 			"Human"
 		],
 		"voice_actor": "Ayane Sakura",
-		"add_date": "2023/09/06 19:00:00",
+		"weapon_name": "Silphium",
 		"weapon_id": "1040414900"
 	},
 	{
@@ -7842,7 +7843,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Shiori Mikami",
-		"add_date": "2023/09/06 19:00:00",
+		"weapon_name": "Sword on the Cob",
 		"weapon_id": "1040016600"
 	},
 	{
@@ -7864,7 +7865,7 @@
 			"Erune"
 		],
 		"voice_actor": "Madoka Yonezawa",
-		"add_date": "",
+		"weapon_name": "Unheil",
 		"weapon_id": "1040809100"
 	},
 	{
@@ -7884,7 +7885,7 @@
 			"Erune"
 		],
 		"voice_actor": "Yumi Touma",
-		"add_date": "2019/02/28 12:00:00",
+		"weapon_name": "Deirdre's Symbol",
 		"weapon_id": "1040212300"
 	},
 	{
@@ -7904,7 +7905,7 @@
 			"Human"
 		],
 		"voice_actor": "Miyu Takagi",
-		"add_date": "2019/02/28 12:00:00",
+		"weapon_name": "Samurai Sword",
 		"weapon_id": "1030008200"
 	},
 	{
@@ -7927,7 +7928,7 @@
 			"Erune"
 		],
 		"voice_actor": "Kana Ueda",
-		"add_date": "2023/07/21 19:00:00",
+		"weapon_name": "Crimson Sapphire",
 		"weapon_id": "1040910900"
 	},
 	{
@@ -7950,7 +7951,7 @@
 			"Human"
 		],
 		"voice_actor": "Asami Imai",
-		"add_date": "2019/03/31 12:00:00",
+		"weapon_name": "Another Sky",
 		"weapon_id": "1040809300"
 	},
 	{
@@ -7972,7 +7973,7 @@
 			"Erune"
 		],
 		"voice_actor": "Ayumi Fujimura/Shizuka Itoh",
-		"add_date": "2019/03/31 12:00:00",
+		"weapon_name": "Jeunesse",
 		"weapon_id": "1030008400"
 	},
 	{
@@ -7995,7 +7996,7 @@
 			"Primal"
 		],
 		"voice_actor": "Megumi Ogata",
-		"add_date": "",
+		"weapon_name": "Vortex of the Void",
 		"weapon_id": "1040212700"
 	},
 	{
@@ -8015,7 +8016,7 @@
 			"Primal"
 		],
 		"voice_actor": "Sakura Tange",
-		"add_date": "2019/04/15 19:00:00",
+		"weapon_name": "Froststar Staff",
 		"weapon_id": "1040415200"
 	},
 	{
@@ -8035,7 +8036,7 @@
 			"Primal"
 		],
 		"voice_actor": "Kaori Mizuhashi",
-		"add_date": "2019/04/30 12:00:00",
+		"weapon_name": "Euripides",
 		"weapon_id": "1040415400"
 	},
 	{
@@ -8055,7 +8056,7 @@
 			"Human"
 		],
 		"voice_actor": "Ryohei Kimura",
-		"add_date": "2019/04/30 12:00:00",
+		"weapon_name": "Goldie",
 		"weapon_id": "1030505400"
 	},
 	{
@@ -8076,7 +8077,7 @@
 			"Primal"
 		],
 		"voice_actor": "Kensho Ono",
-		"add_date": "2019/05/18 19:00:00",
+		"weapon_name": "Spymur's Clause",
 		"weapon_id": "1040212800"
 	},
 	{
@@ -8096,7 +8097,7 @@
 			"Erune"
 		],
 		"voice_actor": "Risa Taneda",
-		"add_date": "2019/05/18 19:00:00",
+		"weapon_name": "Mythril Bolt",
 		"weapon_id": "1030505500"
 	},
 	{
@@ -8116,7 +8117,7 @@
 			"Draph"
 		],
 		"voice_actor": "Tetsu Inada",
-		"add_date": "2019/05/31 12:00:00",
+		"weapon_name": "Rainbow Hand",
 		"weapon_id": "1040611500"
 	},
 	{
@@ -8136,7 +8137,7 @@
 			"Primal"
 		],
 		"voice_actor": "Marina Inoue<br>Sora Amamiya<br>Mikako Komatsu",
-		"add_date": "2019/05/31 12:00:00",
+		"weapon_name": "Trí Bandia",
 		"weapon_id": "1040415500"
 	},
 	{
@@ -8158,7 +8159,7 @@
 			"Human"
 		],
 		"voice_actor": "Kaya Okuno<br>Miki Ito",
-		"add_date": "2019/05/31 12:00:00",
+		"weapon_name": "Lumiel Banner",
 		"weapon_id": "1030207000"
 	},
 	{
@@ -8178,7 +8179,7 @@
 			"Human"
 		],
 		"voice_actor": "Miku Ito",
-		"add_date": "2019/06/19 19:00:00",
+		"weapon_name": "Vagabond",
 		"weapon_id": "1040212900"
 	},
 	{
@@ -8199,7 +8200,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Yuiko Tatsumi",
-		"add_date": "2019/06/19 19:00:00",
+		"weapon_name": "Staff of Refusal",
 		"weapon_id": "1030405900"
 	},
 	{
@@ -8222,7 +8223,7 @@
 			"Primal"
 		],
 		"voice_actor": "Kenichi Suzumura",
-		"add_date": "2023/07/21 19:00:00",
+		"weapon_name": "Ain Soph",
 		"weapon_id": "1040018700"
 	},
 	{
@@ -8244,7 +8245,7 @@
 			"Primal"
 		],
 		"voice_actor": "Emiri Kato",
-		"add_date": "2023/07/21 19:00:00",
+		"weapon_name": "Sharp Letter",
 		"weapon_id": "1040111200"
 	},
 	{
@@ -8266,7 +8267,7 @@
 			"Human"
 		],
 		"voice_actor": "Sakura Tange",
-		"add_date": "2023/07/21 19:00:00",
+		"weapon_name": "Only for a Cutie",
 		"weapon_id": "1040415600"
 	},
 	{
@@ -8289,7 +8290,7 @@
 			"Human"
 		],
 		"voice_actor": "Asami Imai",
-		"add_date": "2023/07/21 19:00:00",
+		"weapon_name": "Premium Sword",
 		"weapon_id": "1030008700"
 	},
 	{
@@ -8311,7 +8312,7 @@
 			"Human"
 		],
 		"voice_actor": "Asami Seto",
-		"add_date": "2023/07/21 19:00:00",
+		"weapon_name": "Midnight Radiance",
 		"weapon_id": "1040611600"
 	},
 	{
@@ -8333,7 +8334,7 @@
 			"Primal"
 		],
 		"voice_actor": "Mai Nakahara",
-		"add_date": "2023/07/21 19:00:00",
+		"weapon_name": "Crystal Bellflowers",
 		"weapon_id": "1040111400"
 	},
 	{
@@ -8356,7 +8357,7 @@
 			"Human"
 		],
 		"voice_actor": "Yuki Ono<br>Takuya Eguchi",
-		"add_date": "2023/07/21 19:00:00",
+		"weapon_name": "Knight's Beach Banner",
 		"weapon_id": "1030207200"
 	},
 	{
@@ -8379,7 +8380,7 @@
 			"Erune"
 		],
 		"voice_actor": "Yuu Asakawa",
-		"add_date": "2023/07/21 19:00:00",
+		"weapon_name": "Forbidden Memories",
 		"weapon_id": "1040415900"
 	},
 	{
@@ -8402,7 +8403,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Masaya Matsukaze",
-		"add_date": "2023/07/21 19:00:00",
+		"weapon_name": "Cotton Candy",
 		"weapon_id": "1030608400"
 	},
 	{
@@ -8425,7 +8426,7 @@
 			"Primal"
 		],
 		"voice_actor": "Aya Hirano",
-		"add_date": "2023/07/21 19:00:00",
+		"weapon_name": "Nibelung Glas",
 		"weapon_id": "1040611800"
 	},
 	{
@@ -8447,7 +8448,7 @@
 			"Human"
 		],
 		"voice_actor": "Hibiku Yamamura",
-		"add_date": "2023/07/21 19:00:00",
+		"weapon_name": "Liuyedao",
 		"weapon_id": "1030903400"
 	},
 	{
@@ -8469,7 +8470,7 @@
 			"Draph"
 		],
 		"voice_actor": "Toshiki Masuda<br>Natsumi Takamori",
-		"add_date": "2019/08/31 12:00:00",
+		"weapon_name": "Golden Dragon",
 		"weapon_id": "1040612100"
 	},
 	{
@@ -8490,7 +8491,7 @@
 			"Human"
 		],
 		"voice_actor": "Kaede Hondo",
-		"add_date": "2019/08/31 12:00:00",
+		"weapon_name": "Hand Axe",
 		"weapon_id": "1040311200"
 	},
 	{
@@ -8511,7 +8512,7 @@
 			"Primal"
 		],
 		"voice_actor": "???",
-		"add_date": "2019/09/16 19:00:00",
+		"weapon_name": "Metal Destroyer",
 		"weapon_id": "1040911300"
 	},
 	{
@@ -8531,7 +8532,7 @@
 			"Human"
 		],
 		"voice_actor": "Asuka Ohgame",
-		"add_date": "2019/09/16 19:00:00",
+		"weapon_name": "Eon",
 		"weapon_id": "1040709300"
 	},
 	{
@@ -8554,7 +8555,7 @@
 			"Human"
 		],
 		"voice_actor": "Ayumi Tsuji",
-		"add_date": "",
+		"weapon_name": "Sky Ace",
 		"weapon_id": "1040911500"
 	},
 	{
@@ -8575,7 +8576,7 @@
 			"Human"
 		],
 		"voice_actor": "Kazuhiko Inoue",
-		"add_date": "2019/09/30 12:00:00",
+		"weapon_name": "Black Dragon's Maw",
 		"weapon_id": "1040911400"
 	},
 	{
@@ -8595,7 +8596,7 @@
 			"Erune"
 		],
 		"voice_actor": "Ai Kakuma",
-		"add_date": "2019/09/30 12:00:00",
+		"weapon_name": "Lilac Comb",
 		"weapon_id": "1030008900"
 	},
 	{
@@ -8619,7 +8620,7 @@
 			"Draph"
 		],
 		"voice_actor": "Kana Hanazawa<br>Fumihiko Tachiki",
-		"add_date": "2023/10/09 19:00:00",
+		"weapon_name": "Enchanted Broomstick",
 		"weapon_id": "1040416000"
 	},
 	{
@@ -8641,7 +8642,7 @@
 			"Draph"
 		],
 		"voice_actor": "Sumire Uesaka",
-		"add_date": "2023/10/09 19:00:00",
+		"weapon_name": "Spirit Seeker",
 		"weapon_id": "1040311400"
 	},
 	{
@@ -8663,7 +8664,7 @@
 			"Draph"
 		],
 		"voice_actor": "Hideo Ishikawa",
-		"add_date": "2023/10/09 19:00:00",
+		"weapon_name": "Horrible Voulge",
 		"weapon_id": "1030304900"
 	},
 	{
@@ -8684,7 +8685,7 @@
 			"Erune"
 		],
 		"voice_actor": "Yusuke Kobayashi",
-		"add_date": "2019/10/31 12:00:00",
+		"weapon_name": "Juzumaru",
 		"weapon_id": "1040911600"
 	},
 	{
@@ -8705,7 +8706,7 @@
 			"Erune"
 		],
 		"voice_actor": "Ryoko Shiraishi",
-		"add_date": "2019/10/31 12:00:00",
+		"weapon_name": "Cardinal Spear",
 		"weapon_id": "1040213100"
 	},
 	{
@@ -8728,7 +8729,7 @@
 			"Human"
 		],
 		"voice_actor": "Megumi Han",
-		"add_date": "2023/11/17 19:00:00",
+		"weapon_name": "Sacred Standard",
 		"weapon_id": "1040213400"
 	},
 	{
@@ -8749,7 +8750,7 @@
 			"Human"
 		],
 		"voice_actor": "Chika Anzai",
-		"add_date": "2019/11/16 19:00:00",
+		"weapon_name": "Iridescent Bow",
 		"weapon_id": "1040709400"
 	},
 	{
@@ -8769,7 +8770,7 @@
 			"Erune"
 		],
 		"voice_actor": "Yuto Suzuki",
-		"add_date": "2019/11/16 19:00:00",
+		"weapon_name": "Cube Staff",
 		"weapon_id": "1030406100"
 	},
 	{
@@ -8792,7 +8793,7 @@
 			"Human"
 		],
 		"voice_actor": "Masakazu Morita",
-		"add_date": "2022/12/06 19:00:00",
+		"weapon_name": "Ray Gun",
 		"weapon_id": "1040511700"
 	},
 	{
@@ -8815,7 +8816,7 @@
 			"Human"
 		],
 		"voice_actor": "Sayaka Ohara",
-		"add_date": "2022/12/06 19:00:00",
+		"weapon_name": "Holy Night Scepter",
 		"weapon_id": "1040416200"
 	},
 	{
@@ -8837,7 +8838,7 @@
 			"Draph"
 		],
 		"voice_actor": "M・A・O",
-		"add_date": "2022/12/06 19:00:00",
+		"weapon_name": "Blade of Purification",
 		"weapon_id": "1040911700"
 	},
 	{
@@ -8860,7 +8861,7 @@
 			"Erune"
 		],
 		"voice_actor": "Toshiyuki Morikawa",
-		"add_date": "2022/12/06 19:00:00",
+		"weapon_name": "Brand of Binding Oath",
 		"weapon_id": "1040019400"
 	},
 	{
@@ -8883,7 +8884,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Mariya Ise",
-		"add_date": "2023/11/17 19:00:00",
+		"weapon_name": "Bab-el-Mandeb",
 		"weapon_id": "1040311600"
 	},
 	{
@@ -8906,7 +8907,7 @@
 			"Human"
 		],
 		"voice_actor": "Atsumi Tanezaki",
-		"add_date": "2023/09/30 12:00:00",
+		"weapon_name": "Rodentius",
 		"weapon_id": "1040511900"
 	},
 	{
@@ -8929,7 +8930,7 @@
 			"Primal"
 		],
 		"voice_actor": "Kaito Ishikawa",
-		"add_date": "2023/11/30 12:00:00",
+		"weapon_name": "Ivory Ark",
 		"weapon_id": "1040112500"
 	},
 	{
@@ -8950,7 +8951,7 @@
 			"Erune"
 		],
 		"voice_actor": "Rika Tachibana",
-		"add_date": "2019/12/31 12:00:00",
+		"weapon_name": "Gangsta Knife",
 		"weapon_id": "1040112600"
 	},
 	{
@@ -8971,7 +8972,7 @@
 			"Human"
 		],
 		"voice_actor": "Takehito Koyasu",
-		"add_date": "2019/12/31 12:00:00",
+		"weapon_name": "Alabaster Zenith",
 		"weapon_id": "1040911900"
 	},
 	{
@@ -8992,7 +8993,7 @@
 			"Draph"
 		],
 		"voice_actor": "Nozomi Sasaki",
-		"add_date": "2020/01/17 19:00:00",
+		"weapon_name": "Spectral Cleaver",
 		"weapon_id": "1040112700"
 	},
 	{
@@ -9012,7 +9013,7 @@
 			"Human"
 		],
 		"voice_actor": "Hiroki Yasumoto",
-		"add_date": "2020/01/17 19:00:00",
+		"weapon_name": "Soshu Masamune",
 		"weapon_id": "1040912000"
 	},
 	{
@@ -9033,7 +9034,7 @@
 			"Erune"
 		],
 		"voice_actor": "Mie Sonozaki",
-		"add_date": "2020/01/31 12:00:00",
+		"weapon_name": "Takeminakata",
 		"weapon_id": "1040512100"
 	},
 	{
@@ -9054,7 +9055,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Shigeru Chiba",
-		"add_date": "2020/01/31 12:00:00",
+		"weapon_name": "True Tiger's Bane",
 		"weapon_id": "1040311700"
 	},
 	{
@@ -9076,7 +9077,7 @@
 			"Erune"
 		],
 		"voice_actor": "Sachiko Kojima",
-		"add_date": "2023/09/06 19:00:00",
+		"weapon_name": "Deirdre's Heart",
 		"weapon_id": "1040612400"
 	},
 	{
@@ -9099,7 +9100,7 @@
 			"Primal"
 		],
 		"voice_actor": "Megumi Ogata",
-		"add_date": "2023/09/06 19:00:00",
+		"weapon_name": "Lupercalia",
 		"weapon_id": "1040213600"
 	},
 	{
@@ -9122,7 +9123,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Ai Kayano",
-		"add_date": "2023/11/30 12:00:00",
+		"weapon_name": "Sunya",
 		"weapon_id": "1040811800"
 	},
 	{
@@ -9143,7 +9144,7 @@
 			"Human"
 		],
 		"voice_actor": "Ayako Kawasumi",
-		"add_date": "2020/02/29 12:00:00",
+		"weapon_name": "Commander's Sidearm",
 		"weapon_id": "1040512200"
 	},
 	{
@@ -9164,7 +9165,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Rie Kugimiya<br>Inuko Inuyama",
-		"add_date": "2020/02/29 12:00:00",
+		"weapon_name": "Plushie Pal",
 		"weapon_id": "1040811700"
 	},
 	{
@@ -9187,7 +9188,7 @@
 			"Draph"
 		],
 		"voice_actor": "Tessyo Genda",
-		"add_date": "2023/11/17 19:00:00",
+		"weapon_name": "Kerak",
 		"weapon_id": "1040812000"
 	},
 	{
@@ -9209,7 +9210,7 @@
 			"Human"
 		],
 		"voice_actor": "Yui Horie",
-		"add_date": "2023/07/24 19:00:00",
+		"weapon_name": "Tropical Fairy",
 		"weapon_id": "1040416800"
 	},
 	{
@@ -9229,7 +9230,7 @@
 			"Draph"
 		],
 		"voice_actor": "Kanae Ito",
-		"add_date": "2020/03/31 12:00:00",
+		"weapon_name": "Proelium",
 		"weapon_id": "1040019800"
 	},
 	{
@@ -9249,7 +9250,7 @@
 			"Erune"
 		],
 		"voice_actor": "Tomokazu Sugita",
-		"add_date": "2020/03/31 12:00:00",
+		"weapon_name": "Red Sphere",
 		"weapon_id": "1040416900"
 	},
 	{
@@ -9269,7 +9270,7 @@
 			"Human"
 		],
 		"voice_actor": "Minako Kotobuki",
-		"add_date": "2020/04/15 19:00:00",
+		"weapon_name": "Great Spear",
 		"weapon_id": "1040213900"
 	},
 	{
@@ -9290,7 +9291,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Saori Onishi<br>Nanami Yamashita",
-		"add_date": "2020/04/15 19:00:00",
+		"weapon_name": "Acid Bolt Shooter",
 		"weapon_id": "1040512500"
 	},
 	{
@@ -9312,7 +9313,7 @@
 			"Draph"
 		],
 		"voice_actor": "Kenichirou Matsuda",
-		"add_date": "2023/11/30 12:00:00",
+		"weapon_name": "Fist of Destruction",
 		"weapon_id": "1040612700"
 	},
 	{
@@ -9332,7 +9333,7 @@
 			"Human"
 		],
 		"voice_actor": "Megumi Toyoguchi",
-		"add_date": "2020/04/30 12:00:00",
+		"weapon_name": "Teiwaz",
 		"weapon_id": "1040312600"
 	},
 	{
@@ -9352,7 +9353,7 @@
 			"Human"
 		],
 		"voice_actor": "Akari Kito",
-		"add_date": "2020/05/15 19:00:00",
+		"weapon_name": "Mystic Spray Gun",
 		"weapon_id": "1040513200"
 	},
 	{
@@ -9372,7 +9373,7 @@
 			"Human"
 		],
 		"voice_actor": "Yuu Asakawa",
-		"add_date": "2020/05/15 19:00:00",
+		"weapon_name": "Predator Claw",
 		"weapon_id": "1040612800"
 	},
 	{
@@ -9392,7 +9393,7 @@
 			"Human"
 		],
 		"voice_actor": "Ryota Osaka",
-		"add_date": "2020/05/31 12:00:00",
+		"weapon_name": "Walthari",
 		"weapon_id": "1040020100"
 	},
 	{
@@ -9413,7 +9414,7 @@
 			"Primal"
 		],
 		"voice_actor": "Manaka Iwami",
-		"add_date": "2020/05/31 12:00:00",
+		"weapon_name": "Sikinnis",
 		"weapon_id": "1040812800"
 	},
 	{
@@ -9434,7 +9435,7 @@
 			"Human"
 		],
 		"voice_actor": "Go Inoue",
-		"add_date": "2020/06/16 19:00:00",
+		"weapon_name": "Heavenly Fawn Bow",
 		"weapon_id": "1040709900"
 	},
 	{
@@ -9455,7 +9456,7 @@
 			"Human"
 		],
 		"voice_actor": "Reina Ueda",
-		"add_date": "2020/06/16 19:00:00",
+		"weapon_name": "Hard Knuckle",
 		"weapon_id": "1040613000"
 	},
 	{
@@ -9477,7 +9478,7 @@
 			"Human"
 		],
 		"voice_actor": "Hibiku Yamamura",
-		"add_date": "2023/11/30 12:00:00",
+		"weapon_name": "Yahata's Naginata",
 		"weapon_id": "1040312900"
 	},
 	{
@@ -9499,7 +9500,7 @@
 			"Human"
 		],
 		"voice_actor": "Miku Ito",
-		"add_date": "2023/07/24 19:00:00",
+		"weapon_name": "Much Ado",
 		"weapon_id": "1040214900"
 	},
 	{
@@ -9519,7 +9520,7 @@
 			"Human"
 		],
 		"voice_actor": "Emiri Kato",
-		"add_date": "2020/06/30 12:00:00",
+		"weapon_name": "Tiny Logger's Axe",
 		"weapon_id": "1040312800"
 	},
 	{
@@ -9542,7 +9543,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Takahiro Sakurai",
-		"add_date": "2023/07/24 19:00:00",
+		"weapon_name": "Dayspring",
 		"weapon_id": "1040912300"
 	},
 	{
@@ -9564,7 +9565,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Risa Shimizu",
-		"add_date": "2023/07/24 19:00:00",
+		"weapon_name": "Summer Genesis",
 		"weapon_id": "1040613700"
 	},
 	{
@@ -9588,7 +9589,7 @@
 			"Draph"
 		],
 		"voice_actor": "Aoi Yuki",
-		"add_date": "2023/07/24 19:00:00",
+		"weapon_name": "Eighth Point of the Flock",
 		"weapon_id": "1040313100"
 	},
 	{
@@ -9610,7 +9611,7 @@
 			"Human"
 		],
 		"voice_actor": "Yui Ishikawa",
-		"add_date": "2023/07/24 19:00:00",
+		"weapon_name": "Official's Jitte",
 		"weapon_id": "1040020400"
 	},
 	{
@@ -9633,7 +9634,7 @@
 			"Human"
 		],
 		"voice_actor": "Yoshihisa Kawahara",
-		"add_date": "2023/07/24 19:00:00",
+		"weapon_name": "Impassioned Rose",
 		"weapon_id": "1030009300"
 	},
 	{
@@ -9655,7 +9656,7 @@
 			"Human"
 		],
 		"voice_actor": "Hikaru Midorikawa",
-		"add_date": "2023/07/24 19:00:00",
+		"weapon_name": "Surviving Lightning",
 		"weapon_id": "1040912500"
 	},
 	{
@@ -9677,7 +9678,7 @@
 			"Erune"
 		],
 		"voice_actor": "Madoka Yonezawa",
-		"add_date": "2023/07/24 19:00:00",
+		"weapon_name": "Flame Lit Curl",
 		"weapon_id": "1030009400"
 	},
 	{
@@ -9699,7 +9700,7 @@
 			"Human"
 		],
 		"voice_actor": "Aya Hisakawa",
-		"add_date": "2023/07/24 19:00:00",
+		"weapon_name": "Beach-Camouflage Vlisragna ",
 		"weapon_id": "1040513600"
 	},
 	{
@@ -9722,7 +9723,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Yumiko Kobayashi",
-		"add_date": "2023/07/24 19:00:00",
+		"weapon_name": "My Little Mim",
 		"weapon_id": "1040812900"
 	},
 	{
@@ -9742,7 +9743,7 @@
 			"Human"
 		],
 		"voice_actor": "Kaori Ishihara",
-		"add_date": "2020/08/31 12:00:00",
+		"weapon_name": "Ophelia",
 		"weapon_id": "1040813000"
 	},
 	{
@@ -9762,7 +9763,7 @@
 			"Human"
 		],
 		"voice_actor": "Shunichi Toki",
-		"add_date": "2020/08/31 12:00:00",
+		"weapon_name": "Lifeguard Glove",
 		"weapon_id": "1030608700"
 	},
 	{
@@ -9784,7 +9785,7 @@
 			"Erune"
 		],
 		"voice_actor": "Ai Kayano",
-		"add_date": "2023/11/17 19:00:00",
+		"weapon_name": "Cerastes",
 		"weapon_id": "1040215300"
 	},
 	{
@@ -9804,7 +9805,7 @@
 			"Human"
 		],
 		"voice_actor": "Inori Minase",
-		"add_date": "2020/09/16 19:00:00",
+		"weapon_name": "Brand New Melody",
 		"weapon_id": "1040813200"
 	},
 	{
@@ -9825,7 +9826,7 @@
 			"Human"
 		],
 		"voice_actor": "Tomokazu Seki",
-		"add_date": "2020/09/30 12:00:00",
+		"weapon_name": "Tabarzin",
 		"weapon_id": "1040313400"
 	},
 	{
@@ -9845,7 +9846,7 @@
 			"Human"
 		],
 		"voice_actor": "Toa Yukinari",
-		"add_date": "2020/09/30 12:00:00",
+		"weapon_name": "Disturbance Signum",
 		"weapon_id": "1040418100"
 	},
 	{
@@ -9868,7 +9869,7 @@
 			"Primal"
 		],
 		"voice_actor": "Rie Tanaka",
-		"add_date": "2023/10/09 19:00:00",
+		"weapon_name": "Midnight Rose",
 		"weapon_id": "1040113100"
 	},
 	{
@@ -9891,7 +9892,7 @@
 			"Primal"
 		],
 		"voice_actor": "Masakazu Morita",
-		"add_date": "2023/10/09 19:00:00",
+		"weapon_name": "Trick Serpent",
 		"weapon_id": "1040215400"
 	},
 	{
@@ -9914,7 +9915,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Tomoaki Maeno<br>Akane Fujita",
-		"add_date": "2023/10/09 19:00:00",
+		"weapon_name": "Little Master Key",
 		"weapon_id": "1030009500"
 	},
 	{
@@ -9935,7 +9936,7 @@
 			"Human"
 		],
 		"voice_actor": "Aoi Koga<br>Yumiri Hanamori",
-		"add_date": "2020/10/31 12:00:00",
+		"weapon_name": "Innocent Doll",
 		"weapon_id": "1040813400"
 	},
 	{
@@ -9955,7 +9956,7 @@
 			"Erune"
 		],
 		"voice_actor": "Shizuka Itoh",
-		"add_date": "2020/10/31 12:00:00",
+		"weapon_name": "Aurora Bow",
 		"weapon_id": "1040710800"
 	},
 	{
@@ -9975,7 +9976,7 @@
 			"Human"
 		],
 		"voice_actor": "Soma Saito",
-		"add_date": "2020/11/16 19:00:00",
+		"weapon_name": "Hope-Filled Knuckles",
 		"weapon_id": "1040614600"
 	},
 	{
@@ -9995,7 +9996,7 @@
 			"Human"
 		],
 		"voice_actor": "Fairouz Ai",
-		"add_date": "2020/11/16 19:00:00",
+		"weapon_name": "Barbell",
 		"weapon_id": "1040313600"
 	},
 	{
@@ -10018,7 +10019,7 @@
 			"Erune"
 		],
 		"voice_actor": "Ayahi Takagaki",
-		"add_date": "2022/12/18 19:00:00",
+		"weapon_name": "Tropical Winter",
 		"weapon_id": "1040418300"
 	},
 	{
@@ -10040,7 +10041,7 @@
 			"Human"
 		],
 		"voice_actor": "Miyu Takagi",
-		"add_date": "2022/12/18 19:00:00",
+		"weapon_name": "Snowbane",
 		"weapon_id": "1040215600"
 	},
 	{
@@ -10062,7 +10063,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Yuka Iguchi",
-		"add_date": "2022/12/18 19:00:00",
+		"weapon_name": "Saintly Crystal",
 		"weapon_id": "1040418400"
 	},
 	{
@@ -10084,7 +10085,7 @@
 			"Human"
 		],
 		"voice_actor": "Showtaro Morikubo",
-		"add_date": "2022/12/18 19:00:00",
+		"weapon_name": "Gorgeous Spin Blade",
 		"weapon_id": "1030108500"
 	},
 	{
@@ -10108,7 +10109,7 @@
 			"Primal"
 		],
 		"voice_actor": "Kenichi Suzumura",
-		"add_date": "2023/11/17 19:00:00",
+		"weapon_name": "World Ender",
 		"weapon_id": "1040020900"
 	},
 	{
@@ -10128,7 +10129,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Sora Amamiya",
-		"add_date": "2020/12/31 12:00:00",
+		"weapon_name": "Whitefrost Glacier",
 		"weapon_id": "1040215700"
 	},
 	{
@@ -10150,7 +10151,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Tomokazu Seki",
-		"add_date": "2020/12/31 12:00:00",
+		"weapon_name": "Gigante Bisector",
 		"weapon_id": "1040912800"
 	},
 	{
@@ -10161,7 +10162,7 @@
 		"style": "Attack",
 		"rarity": "SS Rare",
 		"element": "Wind",
-		"uncaps": 4,
+		"uncaps": 5,
 		"specialties": [
 			"Spear",
 			"Melee"
@@ -10173,7 +10174,7 @@
 			"Draph"
 		],
 		"voice_actor": "Rina Hidaka",
-		"add_date": "2023/10/31 12:00:00",
+		"weapon_name": "Bovinius",
 		"weapon_id": "1040813500"
 	},
 	{
@@ -10194,7 +10195,7 @@
 			"Human"
 		],
 		"voice_actor": "KENN",
-		"add_date": "2021/01/17 19:00:00",
+		"weapon_name": "Miming's Baselard",
 		"weapon_id": "1040113300"
 	},
 	{
@@ -10214,7 +10215,7 @@
 			"Erune"
 		],
 		"voice_actor": "Kikuko Inoue",
-		"add_date": "2021/01/17 19:00:00",
+		"weapon_name": "Woodland Prayer",
 		"weapon_id": "1040418500"
 	},
 	{
@@ -10236,7 +10237,7 @@
 			"Human"
 		],
 		"voice_actor": "Sakura Tange",
-		"add_date": "2023/11/30 12:00:00",
+		"weapon_name": "Ouroboros Prime",
 		"weapon_id": "1040418600"
 	},
 	{
@@ -10257,7 +10258,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Yoshihisa Kawahara",
-		"add_date": "2021/01/31 12:00:00",
+		"weapon_name": "Raijodo",
 		"weapon_id": "1040710900"
 	},
 	{
@@ -10277,7 +10278,7 @@
 			"Draph"
 		],
 		"voice_actor": "Satomi Akesaka",
-		"add_date": "2021/01/31 12:00:00",
+		"weapon_name": "Heart of a Songbird",
 		"weapon_id": "1040813600"
 	},
 	{
@@ -10300,7 +10301,7 @@
 			"Human"
 		],
 		"voice_actor": "Ayumi Tsuji",
-		"add_date": "2023/09/06 19:00:00",
+		"weapon_name": "Lovely Ace",
 		"weapon_id": "1040021000"
 	},
 	{
@@ -10322,7 +10323,7 @@
 			"Human"
 		],
 		"voice_actor": "Tatsuhisa Suzuki",
-		"add_date": "2023/09/06 19:00:00",
+		"weapon_name": "Wales' Finest",
 		"weapon_id": "1040614700"
 	},
 	{
@@ -10342,7 +10343,7 @@
 			"Human"
 		],
 		"voice_actor": "Kana Hanazawa",
-		"add_date": "2021/02/28 12:00:00",
+		"weapon_name": "Arvess Demiclone",
 		"weapon_id": "1040215900"
 	},
 	{
@@ -10362,7 +10363,7 @@
 			"Draph"
 		],
 		"voice_actor": "Fumihiko Tachiki",
-		"add_date": "2021/02/28 12:00:00",
+		"weapon_name": "Grynoth Demiclone",
 		"weapon_id": "1040313900"
 	},
 	{
@@ -10382,7 +10383,7 @@
 			"Human"
 		],
 		"voice_actor": "Mariya Ise<br>Makoto Furukawa",
-		"add_date": "2021/02/28 12:00:00",
+		"weapon_name": "Bravery",
 		"weapon_id": "1040021700"
 	},
 	{
@@ -10403,7 +10404,7 @@
 			"Human"
 		],
 		"voice_actor": "Kohsuke Toriumi　",
-		"add_date": "2021/03/16 19:00:00",
+		"weapon_name": "Plasma Slicer",
 		"weapon_id": "1040514400"
 	},
 	{
@@ -10423,7 +10424,7 @@
 			"Human"
 		],
 		"voice_actor": "Aya Hirano",
-		"add_date": "2021/03/16 19:00:00",
+		"weapon_name": "Embrasque Demiclone",
 		"weapon_id": "1040021800"
 	},
 	{
@@ -10447,7 +10448,7 @@
 			"Erune"
 		],
 		"voice_actor": "Aya Uchida",
-		"add_date": "2023/08/03 19:00:00",
+		"weapon_name": "Ninth Head of the Cartload",
 		"weapon_id": "1040314200"
 	},
 	{
@@ -10471,7 +10472,7 @@
 			"Draph"
 		],
 		"voice_actor": "Yui Horie",
-		"add_date": "2023/08/03 19:00:00",
+		"weapon_name": "Twelfth Vertex of the Passel",
 		"weapon_id": "1040216000"
 	},
 	{
@@ -10491,7 +10492,7 @@
 			"Primal"
 		],
 		"voice_actor": "Daisuke Kishio",
-		"add_date": "2021/04/19 19:00:00",
+		"weapon_name": "Flamelance: Accendo",
 		"weapon_id": "1040216100"
 	},
 	{
@@ -10511,7 +10512,7 @@
 			"Human"
 		],
 		"voice_actor": "Shizuka Ishigami",
-		"add_date": "2021/04/19 19:00:00",
+		"weapon_name": "Bonsai Blade",
 		"weapon_id": "1040912900"
 	},
 	{
@@ -10533,7 +10534,7 @@
 			"Draph"
 		],
 		"voice_actor": "M・A・O",
-		"add_date": "2023/11/30 12:00:00",
+		"weapon_name": "Evanescence",
 		"weapon_id": "1040022000"
 	},
 	{
@@ -10553,7 +10554,7 @@
 			"Human"
 		],
 		"voice_actor": "Hikaru Midorikawa",
-		"add_date": "2021/04/30 12:00:00",
+		"weapon_name": "Schwarz Lightning",
 		"weapon_id": "1040022100"
 	},
 	{
@@ -10573,7 +10574,7 @@
 			"Erune"
 		],
 		"voice_actor": "Shun Horie",
-		"add_date": "2021/05/18 19:00:00",
+		"weapon_name": "Reveiller",
 		"weapon_id": "1040114800"
 	},
 	{
@@ -10593,7 +10594,7 @@
 			"Erune"
 		],
 		"voice_actor": "Yoshino Nanjo",
-		"add_date": "2021/05/18 19:00:00",
+		"weapon_name": "Lancet",
 		"weapon_id": "1040114900"
 	},
 	{
@@ -10613,7 +10614,7 @@
 			"Human"
 		],
 		"voice_actor": "Kisho Taniyama",
-		"add_date": "2021/05/31 12:00:00",
+		"weapon_name": "Destiny Knuckles",
 		"weapon_id": "1040614800"
 	},
 	{
@@ -10633,7 +10634,7 @@
 			"Human"
 		],
 		"voice_actor": "Kikuko Inoue",
-		"add_date": "2021/05/31 12:00:00",
+		"weapon_name": "Charming Broom",
 		"weapon_id": "1040418900"
 	},
 	{
@@ -10656,7 +10657,7 @@
 			"Erune"
 		],
 		"voice_actor": "Takashi Kondo",
-		"add_date": "2023/11/17 19:00:00",
+		"weapon_name": "Radiant Rinne",
 		"weapon_id": "1040813700"
 	},
 	{
@@ -10676,7 +10677,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Mamiko Noto",
-		"add_date": "2021/06/18 19:00:00",
+		"weapon_name": "Merveilleux",
 		"weapon_id": "1040614900"
 	},
 	{
@@ -10699,7 +10700,7 @@
 			"Human"
 		],
 		"voice_actor": "Kazuhiro Yamaji",
-		"add_date": "2023/08/03 19:00:00",
+		"weapon_name": "C'est la Vie",
 		"weapon_id": "1040022400"
 	},
 	{
@@ -10721,7 +10722,7 @@
 			"Draph"
 		],
 		"voice_actor": "Aya Endo",
-		"add_date": "2023/08/03 19:00:00",
+		"weapon_name": "Auriculata Bow",
 		"weapon_id": "1040615100"
 	},
 	{
@@ -10743,7 +10744,7 @@
 			"Human"
 		],
 		"voice_actor": "Kazuhiko Inoue",
-		"add_date": "2023/08/03 19:00:00",
+		"weapon_name": "Ravening Harpoon",
 		"weapon_id": "1040216200"
 	},
 	{
@@ -10765,7 +10766,7 @@
 			"Human"
 		],
 		"voice_actor": "Akari Kito",
-		"add_date": "2023/08/03 19:00:00",
+		"weapon_name": "Bubble Sketcher",
 		"weapon_id": "1040514600"
 	},
 	{
@@ -10787,7 +10788,7 @@
 			"Primal"
 		],
 		"voice_actor": "Daisuke Ono",
-		"add_date": "2023/11/30 12:00:00",
+		"weapon_name": "Atlantis",
 		"weapon_id": "1040216300"
 	},
 	{
@@ -10810,7 +10811,7 @@
 			"Human"
 		],
 		"voice_actor": "Tomoyo Kurosawa",
-		"add_date": "2023/08/06 19:00:00",
+		"weapon_name": "Ursula Glove",
 		"weapon_id": "1040615200"
 	},
 	{
@@ -10832,7 +10833,7 @@
 			"Erune"
 		],
 		"voice_actor": "Ryoka Yuzuki",
-		"add_date": "2023/08/06 19:00:00",
+		"weapon_name": "Aetherial Marine",
 		"weapon_id": "1040711200"
 	},
 	{
@@ -10854,7 +10855,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Yumi Hara",
-		"add_date": "2023/08/06 19:00:00",
+		"weapon_name": "Bitternote Sun",
 		"weapon_id": "1040813800"
 	},
 	{
@@ -10877,7 +10878,7 @@
 			"Human"
 		],
 		"voice_actor": "Kaede Hondo",
-		"add_date": "2023/08/06 19:00:00",
+		"weapon_name": "Tahar Masala",
 		"weapon_id": "1040615400"
 	},
 	{
@@ -10900,7 +10901,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Mariya Ise",
-		"add_date": "2023/08/06 19:00:00",
+		"weapon_name": "Zodiaco Vitae",
 		"weapon_id": "1040115100"
 	},
 	{
@@ -10923,7 +10924,7 @@
 			"Primal"
 		],
 		"voice_actor": "Show Hayami",
-		"add_date": "2023/08/06 19:00:00",
+		"weapon_name": "Impossible Diagram",
 		"weapon_id": "1040419000"
 	},
 	{
@@ -10943,7 +10944,7 @@
 			"Human"
 		],
 		"voice_actor": "Go Inoue",
-		"add_date": "2021/08/31 12:00:00",
+		"weapon_name": "Belfast",
 		"weapon_id": "1040216400"
 	},
 	{
@@ -10963,7 +10964,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Ayaka Fukuhara",
-		"add_date": "2021/08/31 12:00:00",
+		"weapon_name": "Maiden's Dragonblade",
 		"weapon_id": "1040913000"
 	},
 	{
@@ -10983,7 +10984,7 @@
 			"Erune"
 		],
 		"voice_actor": "Tetsuya Kakihara",
-		"add_date": "2021/09/15 19:00:00",
+		"weapon_name": "Arson Blaze",
 		"weapon_id": "1040419100"
 	},
 	{
@@ -11005,7 +11006,7 @@
 			"Primal"
 		],
 		"voice_actor": "Karin Takahashi",
-		"add_date": "2023/11/17 19:00:00",
+		"weapon_name": "Pain and Suffering",
 		"weapon_id": "1040314300"
 	},
 	{
@@ -11025,7 +11026,7 @@
 			"Human"
 		],
 		"voice_actor": "Toshiyuki Toyonaga",
-		"add_date": "2021/09/30 12:00:00",
+		"weapon_name": "Collbrande",
 		"weapon_id": "1040022500"
 	},
 	{
@@ -11045,7 +11046,7 @@
 			"Draph"
 		],
 		"voice_actor": "Asami Seto",
-		"add_date": "2021/09/30 12:00:00",
+		"weapon_name": "Dojigiri Yasutsuna",
 		"weapon_id": "1040913100"
 	},
 	{
@@ -11068,7 +11069,7 @@
 			"Human"
 		],
 		"voice_actor": "Takuya Eguchi",
-		"add_date": "2023/10/12 19:00:00",
+		"weapon_name": "Creepy Claws",
 		"weapon_id": "1040615500"
 	},
 	{
@@ -11090,7 +11091,7 @@
 			"Human"
 		],
 		"voice_actor": "Aya Suzaki",
-		"add_date": "2023/10/12 19:00:00",
+		"weapon_name": "Naughty Witch",
 		"weapon_id": "1040514800"
 	},
 	{
@@ -11112,7 +11113,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Rumi Okubo",
-		"add_date": "2021/10/31 12:00:00",
+		"weapon_name": "Into the Sunset",
 		"weapon_id": "1040419300"
 	},
 	{
@@ -11132,7 +11133,7 @@
 			"Primal"
 		],
 		"voice_actor": "Marika Kohno",
-		"add_date": "2021/10/31 12:00:00",
+		"weapon_name": "Galvanic Lance",
 		"weapon_id": "1040216500"
 	},
 	{
@@ -11155,7 +11156,7 @@
 			"Human"
 		],
 		"voice_actor": "Kisho Taniyama",
-		"add_date": "2021/11/16 19:00:00",
+		"weapon_name": "Atrocious Blood",
 		"weapon_id": "1040314500"
 	},
 	{
@@ -11175,7 +11176,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Maaya Sakamoto",
-		"add_date": "2021/11/16 19:00:00",
+		"weapon_name": "Pantagruel",
 		"weapon_id": "1040216700"
 	},
 	{
@@ -11198,7 +11199,7 @@
 			"Erune"
 		],
 		"voice_actor": "Yuu Asakawa",
-		"add_date": "2022/12/21 19:00:00",
+		"weapon_name": "Forbidden Silence",
 		"weapon_id": "1040419400"
 	},
 	{
@@ -11218,7 +11219,7 @@
 			"Human"
 		],
 		"voice_actor": "Wataru Hatano",
-		"add_date": "2021/11/30 12:00:00",
+		"weapon_name": "Bon Joie",
 		"weapon_id": "1040115200"
 	},
 	{
@@ -11242,7 +11243,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Maii Kadowaki",
-		"add_date": "2022/12/21 19:00:00",
+		"weapon_name": "Tenth Crest of the Clutch",
 		"weapon_id": "1040419500"
 	},
 	{
@@ -11264,7 +11265,7 @@
 			"Human"
 		],
 		"voice_actor": "Daisuke Ono",
-		"add_date": "2022/12/21 19:00:00",
+		"weapon_name": "War Fan of Secret Teachings",
 		"weapon_id": "1040115300"
 	},
 	{
@@ -11287,7 +11288,7 @@
 			"Human"
 		],
 		"voice_actor": "Yuki Ono",
-		"add_date": "2023/11/17 19:00:00",
+		"weapon_name": "Knight of Ice",
 		"weapon_id": "1040115600"
 	},
 	{
@@ -11308,7 +11309,7 @@
 			"Primal"
 		],
 		"voice_actor": "Manaka Iwami",
-		"add_date": "2021/12/28 19:00:00",
+		"weapon_name": "Seilenos",
 		"weapon_id": "1040022700"
 	},
 	{
@@ -11330,7 +11331,7 @@
 			"Erune"
 		],
 		"voice_actor": "Ai Kakuma",
-		"add_date": "2022/11/30 12:00:00",
+		"weapon_name": "Tigrisius",
 		"weapon_id": "1040615800"
 	},
 	{
@@ -11353,7 +11354,7 @@
 			"Draph"
 		],
 		"voice_actor": "Asami Tano",
-		"add_date": "2023/11/30 12:00:00",
+		"weapon_name": "Skeletal Eclipse",
 		"weapon_id": "1040216900"
 	},
 	{
@@ -11373,7 +11374,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Rie Hikisaka",
-		"add_date": "2021/12/31 12:00:00",
+		"weapon_name": "Evyg Em Noytnetta",
 		"weapon_id": "1040814100"
 	},
 	{
@@ -11393,7 +11394,7 @@
 			"Human"
 		],
 		"voice_actor": "Ayana Taketatsu",
-		"add_date": "2022/01/17 19:00:00",
+		"weapon_name": "Rainbow Lyre",
 		"weapon_id": "1040814200"
 	},
 	{
@@ -11413,7 +11414,7 @@
 			"Primal"
 		],
 		"voice_actor": "???",
-		"add_date": "2022/01/17 19:00:00",
+		"weapon_name": "Petit Bouquet de Fleurs",
 		"weapon_id": "1040419800"
 	},
 	{
@@ -11436,7 +11437,7 @@
 			"Human"
 		],
 		"voice_actor": "Masaaki Mizunaka",
-		"add_date": "2023/11/30 12:00:00",
+		"weapon_name": "Firestorm Scythe",
 		"weapon_id": "1040314900"
 	},
 	{
@@ -11456,7 +11457,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Sumire Morohoshi",
-		"add_date": "2022/01/31 12:00:00",
+		"weapon_name": "Sparkle Beat Vol. 29",
 		"weapon_id": "1040419900"
 	},
 	{
@@ -11476,7 +11477,7 @@
 			"Human"
 		],
 		"voice_actor": "Norio Wakamoto",
-		"add_date": "2022/01/31 12:00:00",
+		"weapon_name": "Unparalleled Chopsticks ",
 		"weapon_id": "1040217100"
 	},
 	{
@@ -11498,7 +11499,7 @@
 			"Human"
 		],
 		"voice_actor": "Asami Imai",
-		"add_date": "2023/09/09 19:00:00",
+		"weapon_name": "Arcane Rouge",
 		"weapon_id": "1040022800"
 	},
 	{
@@ -11521,7 +11522,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Masaya Matsukaze",
-		"add_date": "2023/09/09 19:00:00",
+		"weapon_name": "Maritozzo",
 		"weapon_id": "1040616100"
 	},
 	{
@@ -11543,7 +11544,7 @@
 			"Draph"
 		],
 		"voice_actor": "Tetsu Inada",
-		"add_date": "2023/09/09 19:00:00",
+		"weapon_name": "Heartbeat Mitten",
 		"weapon_id": "1040616200"
 	},
 	{
@@ -11563,7 +11564,7 @@
 			"Primal"
 		],
 		"voice_actor": "Hikaru Midorikawa",
-		"add_date": "2022/02/28 12:00:00",
+		"weapon_name": "Gullinbursti",
 		"weapon_id": "1040315000"
 	},
 	{
@@ -11583,7 +11584,7 @@
 			"Primal"
 		],
 		"voice_actor": "Satomi Moriya",
-		"add_date": "2022/02/28 12:00:00",
+		"weapon_name": "La Sylphide",
 		"weapon_id": "1040814300"
 	},
 	{
@@ -11605,7 +11606,7 @@
 			"Primal"
 		],
 		"voice_actor": "Ai Kayano",
-		"add_date": "2023/11/17 19:00:00",
+		"weapon_name": "Harmonia",
 		"weapon_id": "1040814500"
 	},
 	{
@@ -11628,7 +11629,7 @@
 			"Primal"
 		],
 		"voice_actor": "Kaori Mizuhashi",
-		"add_date": "2023/08/09 19:00:00",
+		"weapon_name": "Medusiana Floatie",
 		"weapon_id": "1040711800"
 	},
 	{
@@ -11650,7 +11651,7 @@
 			"Draph"
 		],
 		"voice_actor": "M・A・O",
-		"add_date": "2023/08/09 19:00:00",
+		"weapon_name": "Onikiri Yasutsuna",
 		"weapon_id": "1040913600"
 	},
 	{
@@ -11672,7 +11673,7 @@
 			"Human"
 		],
 		"voice_actor": "Aya Hisakawa",
-		"add_date": "2023/08/09 19:00:00",
+		"weapon_name": "Partly Powerful Popgun",
 		"weapon_id": "1040515300"
 	},
 	{
@@ -11693,7 +11694,7 @@
 			"Erune"
 		],
 		"voice_actor": "Miho Wataya",
-		"add_date": "2022/04/19 19:00:00",
+		"weapon_name": "Indigo Flame Stinger",
 		"weapon_id": "1040115800"
 	},
 	{
@@ -11713,7 +11714,7 @@
 			"Draph"
 		],
 		"voice_actor": "Yuka Terasaki",
-		"add_date": "2022/04/19 19:00:00",
+		"weapon_name": "Dreadlance",
 		"weapon_id": "1040217500"
 	},
 	{
@@ -11734,7 +11735,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Koki Uchiyama<br>Yuki Kaida",
-		"add_date": "2022/04/30 12:00:00",
+		"weapon_name": "Jackknife",
 		"weapon_id": "1040116000"
 	},
 	{
@@ -11754,7 +11755,7 @@
 			"Human"
 		],
 		"voice_actor": "Kaori Fukuhara",
-		"add_date": "2022/04/30 12:00:00",
+		"weapon_name": "Vertrauen",
 		"weapon_id": "1040420100"
 	},
 	{
@@ -11774,7 +11775,7 @@
 			"Erune"
 		],
 		"voice_actor": "Yuri Yamaoka",
-		"add_date": "2022/05/20 19:00:00",
+		"weapon_name": "Delightful Dolce",
 		"weapon_id": "1040616500"
 	},
 	{
@@ -11794,7 +11795,7 @@
 			"Human"
 		],
 		"voice_actor": "Yuka Inokuchi",
-		"add_date": "2022/05/20 19:00:00",
+		"weapon_name": "Cloudblazer's Broom",
 		"weapon_id": "1040217600"
 	},
 	{
@@ -11815,7 +11816,7 @@
 			"Erune"
 		],
 		"voice_actor": "Toa Yukinari",
-		"add_date": "2022/05/31 12:00:00",
+		"weapon_name": "Vergelmir",
 		"weapon_id": "1040023100"
 	},
 	{
@@ -11835,7 +11836,7 @@
 			"Human"
 		],
 		"voice_actor": "Nobunaga Shimazaki",
-		"add_date": "2022/05/31 12:00:00",
+		"weapon_name": "Arijwani",
 		"weapon_id": "1040116100"
 	},
 	{
@@ -11857,7 +11858,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Suzuko Mimori",
-		"add_date": "2023/11/17 19:00:00",
+		"weapon_name": "Landslide Scepter",
 		"weapon_id": "1040420500"
 	},
 	{
@@ -11878,7 +11879,7 @@
 			"Human"
 		],
 		"voice_actor": "Sayaka Sembongi",
-		"add_date": "2022/06/17 19:00:00",
+		"weapon_name": "Blue Lightning",
 		"weapon_id": "1040023200"
 	},
 	{
@@ -11902,7 +11903,7 @@
 			"Erune"
 		],
 		"voice_actor": "Yu Serizawa",
-		"add_date": "2023/08/09 19:00:00",
+		"weapon_name": "Eleventh Fang of the Pack",
 		"weapon_id": "1040913900"
 	},
 	{
@@ -11926,7 +11927,7 @@
 			"Human"
 		],
 		"voice_actor": "Atsumi Tanezaki",
-		"add_date": "2023/08/09 19:00:00",
+		"weapon_name": "First Tail of the Mischief",
 		"weapon_id": "1040023300"
 	},
 	{
@@ -11948,7 +11949,7 @@
 			"Human"
 		],
 		"voice_actor": "Miyu Takagi",
-		"add_date": "2023/08/09 19:00:00",
+		"weapon_name": "Vivid Verdure",
 		"weapon_id": "1040914000"
 	},
 	{
@@ -11970,7 +11971,7 @@
 			"Human"
 		],
 		"voice_actor": "Shizuka Ishigami",
-		"add_date": "2023/08/09 19:00:00",
+		"weapon_name": "Evening Floral Shower",
 		"weapon_id": "1040116200"
 	},
 	{
@@ -11992,7 +11993,7 @@
 			"Human"
 		],
 		"voice_actor": "Ayane Sakura",
-		"add_date": "2023/08/12 19:00:00",
+		"weapon_name": "Ocean's Klein",
 		"weapon_id": "1040814700"
 	},
 	{
@@ -12015,7 +12016,7 @@
 			"Human"
 		],
 		"voice_actor": "Sayaka Ohara",
-		"add_date": "2023/08/12 19:00:00",
+		"weapon_name": "Plumeria Scepter",
 		"weapon_id": "1040420700"
 	},
 	{
@@ -12038,7 +12039,7 @@
 			"Erune"
 		],
 		"voice_actor": "Kazuya Nakai",
-		"add_date": "2023/08/12 19:00:00",
+		"weapon_name": "Bubbleizer",
 		"weapon_id": "1040515400"
 	},
 	{
@@ -12060,7 +12061,7 @@
 			"Erune"
 		],
 		"voice_actor": "Yoshino Nanjo",
-		"add_date": "2023/08/12 19:00:00",
+		"weapon_name": "Summer Healing",
 		"weapon_id": "1040420800"
 	},
 	{
@@ -12082,7 +12083,7 @@
 			"Draph"
 		],
 		"voice_actor": "Kanae Ito",
-		"add_date": "2023/08/12 19:00:00",
+		"weapon_name": "Indutiae",
 		"weapon_id": "1040023400"
 	},
 	{
@@ -12105,7 +12106,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Maria Naganawa",
-		"add_date": "2023/11/17 19:00:00",
+		"weapon_name": "Calamitous Aquashade",
 		"weapon_id": "1040315500"
 	},
 	{
@@ -12127,7 +12128,7 @@
 			"Human"
 		],
 		"voice_actor": "Megumi Han",
-		"add_date": "2023/08/12 19:00:00",
+		"weapon_name": "Mystique",
 		"weapon_id": "1040217800"
 	},
 	{
@@ -12147,7 +12148,7 @@
 			"Human"
 		],
 		"voice_actor": "Haruka Tomatsu",
-		"add_date": "2022/08/31 12:00:00",
+		"weapon_name": "Highland Cougar",
 		"weapon_id": "1040515600"
 	},
 	{
@@ -12168,7 +12169,7 @@
 			"Human"
 		],
 		"voice_actor": "Hochu Otsuka",
-		"add_date": "2022/08/31 12:00:00",
+		"weapon_name": "Blade of Loyalty",
 		"weapon_id": "1040023600"
 	},
 	{
@@ -12188,7 +12189,7 @@
 			"Human"
 		],
 		"voice_actor": "Asami Seto",
-		"add_date": "2022/09/19 19:00:00",
+		"weapon_name": "Raffiniert Arquebus",
 		"weapon_id": "1040515700"
 	},
 	{
@@ -12210,7 +12211,7 @@
 			"Human"
 		],
 		"voice_actor": "Yoshimasa Hosoya",
-		"add_date": "2022/09/19 19:00:00",
+		"weapon_name": "Imaginary Knuckles",
 		"weapon_id": "1040616700"
 	},
 	{
@@ -12232,7 +12233,7 @@
 			"Human"
 		],
 		"voice_actor": "Ryota Osaka",
-		"add_date": "2023/11/30 12:00:00",
+		"weapon_name": "Lord of Flames",
 		"weapon_id": "1040023700"
 	},
 	{
@@ -12252,7 +12253,7 @@
 			"Human"
 		],
 		"voice_actor": "Tatsuhisa Suzuki<br>Atsushi Tamaru",
-		"add_date": "2022/09/30 12:00:00",
+		"weapon_name": "Wales Pennant",
 		"weapon_id": "1040217900"
 	},
 	{
@@ -12274,7 +12275,7 @@
 			"Primal"
 		],
 		"voice_actor": "Karin Takahashi",
-		"add_date": "2023/10/12 19:00:00",
+		"weapon_name": "Toothache and Suffering",
 		"weapon_id": "1040315600"
 	},
 	{
@@ -12297,7 +12298,7 @@
 			"Draph"
 		],
 		"voice_actor": "Tessyo Genda",
-		"add_date": "2023/10/12 19:00:00",
+		"weapon_name": "Nioh",
 		"weapon_id": "1040814800"
 	},
 	{
@@ -12319,7 +12320,7 @@
 			"Human"
 		],
 		"voice_actor": "Toa Yukinari",
-		"add_date": "2023/10/12 19:00:00",
+		"weapon_name": "Feast's Signum",
 		"weapon_id": "1040421000"
 	},
 	{
@@ -12340,7 +12341,7 @@
 			"Erune"
 		],
 		"voice_actor": "Kana Ueda<br>Ryoko Shiraishi",
-		"add_date": "2022/10/31 12:00:00",
+		"weapon_name": "Scarlet Sapphire",
 		"weapon_id": "1040616800"
 	},
 	{
@@ -12360,7 +12361,7 @@
 			"Erune"
 		],
 		"voice_actor": "Ai Kayano",
-		"add_date": "2022/10/31 12:00:00",
+		"weapon_name": "Dowry Blade",
 		"weapon_id": "1040023900"
 	},
 	{
@@ -12380,7 +12381,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Tarusuke Shingaki",
-		"add_date": "2022/11/17 19:00:00",
+		"weapon_name": "Zroa Yeshana",
 		"weapon_id": "1040315800"
 	},
 	{
@@ -12400,7 +12401,7 @@
 			"Human"
 		],
 		"voice_actor": "Yu Kobayashi",
-		"add_date": "2022/11/17 19:00:00",
+		"weapon_name": "Tanzanite Duellum",
 		"weapon_id": "1040024000"
 	},
 	{
@@ -12422,7 +12423,7 @@
 			"Primal"
 		],
 		"voice_actor": "Mai Nakahara",
-		"add_date": "2022/11/30 12:00:00",
+		"weapon_name": "Saintly Fountain",
 		"weapon_id": "1040421100"
 	},
 	{
@@ -12444,7 +12445,7 @@
 			"Human"
 		],
 		"voice_actor": "Fairouz Ai",
-		"add_date": "2022/11/30 12:00:00",
+		"weapon_name": "Training Wreath",
 		"weapon_id": "1040712100"
 	},
 	{
@@ -12468,7 +12469,7 @@
 			"Draph"
 		],
 		"voice_actor": "Rina Hidaka",
-		"add_date": "2022/12/15 19:00:00",
+		"weapon_name": "Second Boss of the Herd",
 		"weapon_id": "1040617000"
 	},
 	{
@@ -12490,7 +12491,7 @@
 			"Human"
 		],
 		"voice_actor": "Takuma Terashima",
-		"add_date": "2022/12/15 19:00:00",
+		"weapon_name": "Strawberry Slasher",
 		"weapon_id": "1040914400"
 	},
 	{
@@ -12512,7 +12513,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Kaori Nazuka",
-		"add_date": "2023/11/17 19:00:00",
+		"weapon_name": "Claíomh Solais Díon",
 		"weapon_id": "1040024200"
 	},
 	{
@@ -12532,7 +12533,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Rie Takahashi",
-		"add_date": "2022/12/28 19:00:00",
+		"weapon_name": "Crystal Edge",
 		"weapon_id": "1040116500"
 	},
 	{
@@ -12554,7 +12555,7 @@
 			"Erune"
 		],
 		"voice_actor": "Lynn",
-		"add_date": "2023/11/30 12:00:00",
+		"weapon_name": "Leporidius",
 		"weapon_id": "1040914500"
 	},
 	{
@@ -12576,7 +12577,7 @@
 			"Primal"
 		],
 		"voice_actor": "Kotono Mitsuishi",
-		"add_date": "2023/11/30 12:00:00",
+		"weapon_name": "Crimson Scale",
 		"weapon_id": "1040315900"
 	},
 	{
@@ -12599,7 +12600,7 @@
 			"Human"
 		],
 		"voice_actor": "Asami Imai",
-		"add_date": "2022/12/31 12:00:00",
+		"weapon_name": "FRIED Spear",
 		"weapon_id": "1040218200"
 	},
 	{
@@ -12621,7 +12622,7 @@
 			"Primal"
 		],
 		"voice_actor": "Emiri Kato",
-		"add_date": "2023/11/17 19:00:00",
+		"weapon_name": "Eternal Signature",
 		"weapon_id": "1040116600"
 	},
 	{
@@ -12641,7 +12642,7 @@
 			"Human"
 		],
 		"voice_actor": "Miyuki Sawashiro",
-		"add_date": "2023/01/19 19:00:00",
+		"weapon_name": "Shining Silver",
 		"weapon_id": "1040218300"
 	},
 	{
@@ -12662,7 +12663,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Naomi Ohzora",
-		"add_date": "2023/01/31 12:00:00",
+		"weapon_name": "Lame d'ourlet",
 		"weapon_id": "1040116700"
 	},
 	{
@@ -12683,7 +12684,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Minori Chihara",
-		"add_date": "2023/01/31 12:00:00",
+		"weapon_name": "In Full Whisker",
 		"weapon_id": "1040421400"
 	},
 	{
@@ -12706,7 +12707,7 @@
 			"Primal"
 		],
 		"voice_actor": "Kenichi Suzumura",
-		"add_date": "2023/09/09 19:00:00",
+		"weapon_name": "Nostalgic Coffee Jelly",
 		"weapon_id": "1040617200"
 	},
 	{
@@ -12728,7 +12729,7 @@
 			"Erune"
 		],
 		"voice_actor": "Ryo Hirohashi",
-		"add_date": "2023/09/09 19:00:00",
+		"weapon_name": "The Hand That Scritches",
 		"weapon_id": "1040421500"
 	},
 	{
@@ -12751,7 +12752,7 @@
 			"Erune"
 		],
 		"voice_actor": "Takuya Sato",
-		"add_date": "2023/11/30 12:00:00",
+		"weapon_name": "Imperious Fury",
 		"weapon_id": "1040617300"
 	},
 	{
@@ -12771,7 +12772,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Shizuka Itoh",
-		"add_date": "2023/02/28 12:00:00",
+		"weapon_name": "Lulling Flambeau",
 		"weapon_id": "1040421600"
 	},
 	{
@@ -12793,7 +12794,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Rie Hikisaka",
-		"add_date": "2023/11/17 19:00:00",
+		"weapon_name": "Piercing Galewing",
 		"weapon_id": "1040116800"
 	},
 	{
@@ -12816,7 +12817,7 @@
 			"Human"
 		],
 		"voice_actor": "Ayumi Tsuji",
-		"add_date": "2023/08/16 19:00:00",
+		"weapon_name": "Marine Ace",
 		"weapon_id": "1040712300"
 	},
 	{
@@ -12838,7 +12839,7 @@
 			"Draph"
 		],
 		"voice_actor": "Asami Seto",
-		"add_date": "2023/08/16 19:00:00",
+		"weapon_name": "Shishisosho",
 		"weapon_id": "1040515900"
 	},
 	{
@@ -12861,7 +12862,7 @@
 			"Erune"
 		],
 		"voice_actor": "Mie Sonozaki",
-		"add_date": "2023/08/16 19:00:00",
+		"weapon_name": "White Peony Pouch",
 		"weapon_id": "1040316100"
 	},
 	{
@@ -12883,7 +12884,7 @@
 			"Primal"
 		],
 		"voice_actor": "Daisuke Kishio",
-		"add_date": "2023/08/16 19:00:00",
+		"weapon_name": "Embroidered Handballs",
 		"weapon_id": "1040617500"
 	},
 	{
@@ -12903,7 +12904,7 @@
 			"Draph"
 		],
 		"voice_actor": "Rina Hidaka",
-		"add_date": "2023/04/18 19:00:00",
+		"weapon_name": "Special Fried Rice",
 		"weapon_id": "1040024500"
 	},
 	{
@@ -12923,7 +12924,7 @@
 			"Human"
 		],
 		"voice_actor": "Saori Goto",
-		"add_date": "2023/04/18 19:00:00",
+		"weapon_name": "Herb Basket",
 		"weapon_id": "1040316200"
 	},
 	{
@@ -12943,7 +12944,7 @@
 			"Erune"
 		],
 		"voice_actor": "Yume Miyamoto",
-		"add_date": "2023/04/30 12:00:00",
+		"weapon_name": "Violino della Memoria",
 		"weapon_id": "1040815600"
 	},
 	{
@@ -12963,7 +12964,7 @@
 			"Primal"
 		],
 		"voice_actor": "Yuma Uchida",
-		"add_date": "2023/04/30 12:00:00",
+		"weapon_name": "Teardrop Mandolin",
 		"weapon_id": "1040815500"
 	},
 	{
@@ -12983,7 +12984,7 @@
 			"Human"
 		],
 		"voice_actor": "Mitsuhiro Ichiki",
-		"add_date": "2023/05/20 19:00:00",
+		"weapon_name": "Dreadful Flamesword",
 		"weapon_id": "1040024600"
 	},
 	{
@@ -13003,7 +13004,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Yuka Iguchi",
-		"add_date": "2023/05/20 19:00:00",
+		"weapon_name": "Frigorific Summer Parasol",
 		"weapon_id": "1040421800"
 	},
 	{
@@ -13023,7 +13024,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Rina Endo",
-		"add_date": "2023/05/31 12:00:00",
+		"weapon_name": "Little Vermilion",
 		"weapon_id": "1040116900"
 	},
 	{
@@ -13043,7 +13044,7 @@
 			"Erune"
 		],
 		"voice_actor": "Ayumi Fujimura/Shizuka Itoh",
-		"add_date": "2023/05/31 12:00:00",
+		"weapon_name": "Exuberant Lance",
 		"weapon_id": "1040218400"
 	},
 	{
@@ -13066,7 +13067,7 @@
 			"Primal"
 		],
 		"voice_actor": "Junko Minagawa",
-		"add_date": "2023/11/17 19:00:00",
+		"weapon_name": "Diaitesia",
 		"weapon_id": "1040815700"
 	},
 	{
@@ -13087,7 +13088,7 @@
 			"Primal"
 		],
 		"voice_actor": "Kensho Ono",
-		"add_date": "2023/06/19 19:00:00",
+		"weapon_name": "Solomon's Accelerator",
 		"weapon_id": "1040915300"
 	},
 	{
@@ -13109,7 +13110,7 @@
 			"Human"
 		],
 		"voice_actor": "Ayana Taketatsu",
-		"add_date": "2023/06/30 12:00:00",
+		"weapon_name": "Sea of Dreams",
 		"weapon_id": "1040421900"
 	},
 	{
@@ -13132,7 +13133,7 @@
 			"Erune"
 		],
 		"voice_actor": "Maaya Uchida",
-		"add_date": "2023/06/30 12:00:00",
+		"weapon_name": "Fugaku Vista Bow",
 		"weapon_id": "1040712600"
 	},
 	{
@@ -13154,7 +13155,7 @@
 			"Primal"
 		],
 		"voice_actor": "Marika Kohno",
-		"add_date": "2023/07/15 19:00:00",
+		"weapon_name": "Splash Howl",
 		"weapon_id": "1040516100"
 	},
 	{
@@ -13176,7 +13177,7 @@
 			"Draph"
 		],
 		"voice_actor": "Fumihiko Tachiki",
-		"add_date": "2023/07/15 19:00:00",
+		"weapon_name": "Beach Grynoth",
 		"weapon_id": "1040316300"
 	},
 	{
@@ -13199,7 +13200,7 @@
 			"Draph"
 		],
 		"voice_actor": "Asami Tano",
-		"add_date": "2023/07/31 12:00:00",
+		"weapon_name": "Fediel Float",
 		"weapon_id": "1040815800"
 	},
 	{
@@ -13221,7 +13222,7 @@
 			"Draph"
 		],
 		"voice_actor": "Natsumi Takamori",
-		"add_date": "2023/07/31 12:00:00",
+		"weapon_name": "Sunset Blaze",
 		"weapon_id": "1040024700"
 	},
 	{
@@ -13244,7 +13245,7 @@
 			"Human"
 		],
 		"voice_actor": "Sora Amamiya<br>Miho Arakawa",
-		"add_date": "2023/07/31 12:00:00",
+		"weapon_name": "Shine and Silence",
 		"weapon_id": "1040516200"
 	},
 	{
@@ -13267,7 +13268,7 @@
 			"Human"
 		],
 		"voice_actor": "Hidenobu Kiuchi",
-		"add_date": "2023/07/31 12:00:00",
+		"weapon_name": "Tentacular Javelin",
 		"weapon_id": "1040218600"
 	},
 	{
@@ -13290,7 +13291,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Rie Kugimiya",
-		"add_date": "2023/08/16 19:00:00",
+		"weapon_name": "Flowering Twilight",
 		"weapon_id": "1040422000"
 	},
 	{
@@ -13314,7 +13315,7 @@
 			"Draph"
 		],
 		"voice_actor": "Aoi Yuki",
-		"add_date": "2023/08/16 19:00:00",
+		"weapon_name": "Eighth Shear of the Flock",
 		"weapon_id": "1040915400"
 	},
 	{
@@ -13336,7 +13337,7 @@
 			"Erune"
 		],
 		"voice_actor": "Toshiyuki Morikawa",
-		"add_date": "2023/08/16 19:00:00",
+		"weapon_name": "Midsummer's Repose",
 		"weapon_id": "1040024800"
 	},
 	{
@@ -13356,7 +13357,7 @@
 			"Human"
 		],
 		"voice_actor": "Hiroyuki Yoshino",
-		"add_date": "2023/08/31 12:00:00",
+		"weapon_name": "Crimson Stinger",
 		"weapon_id": "1040218700"
 	},
 	{
@@ -13378,7 +13379,7 @@
 			"Erune"
 		],
 		"voice_actor": "Tomoyo Kurosawa<br>Azumi Waki",
-		"add_date": "2023/08/31 12:00:00",
+		"weapon_name": "Marriage Ring",
 		"weapon_id": "1040617700"
 	},
 	{
@@ -13400,7 +13401,7 @@
 			"Primal"
 		],
 		"voice_actor": "Satsuki Yukino",
-		"add_date": "2023/11/17 19:00:00",
+		"weapon_name": "Kaguya's Folding Fan",
 		"weapon_id": "1040117200"
 	},
 	{
@@ -13420,7 +13421,7 @@
 			"Human"
 		],
 		"voice_actor": "Tomokazu Sugita",
-		"add_date": "2023/09/15 19:00:00",
+		"weapon_name": "Dignita del Conte",
 		"weapon_id": "1040024900"
 	},
 	{
@@ -13443,7 +13444,7 @@
 			"Human"
 		],
 		"voice_actor": "Kazuhiko Inoue",
-		"add_date": "2023/09/30 12:00:00",
+		"weapon_name": "Black Dragonslayer Sword",
 		"weapon_id": "1040915500"
 	},
 	{
@@ -13463,7 +13464,7 @@
 			"Erune"
 		],
 		"voice_actor": "Chiaki Takahashi",
-		"add_date": "2023/09/30 12:00:00",
+		"weapon_name": "Night Rider",
 		"weapon_id": "1040617800"
 	},
 	{
@@ -13487,7 +13488,7 @@
 			"Human"
 		],
 		"voice_actor": "Atsumi Tanezaki",
-		"add_date": "2023/10/18 19:00:00",
+		"weapon_name": "First Fright of the Mischief",
 		"weapon_id": "1040422100"
 	},
 	{
@@ -13509,7 +13510,7 @@
 			"Erune"
 		],
 		"voice_actor": "Yoshino Nanjo",
-		"add_date": "2023/10/18 19:00:00",
+		"weapon_name": "Syringe or Treat",
 		"weapon_id": "1040516400"
 	},
 	{
@@ -13532,7 +13533,7 @@
 			"Human"
 		],
 		"voice_actor": "Takanori Hoshino",
-		"add_date": "2023/10/18 19:00:00",
+		"weapon_name": "Spooky Mew",
 		"weapon_id": "1040316400"
 	},
 	{
@@ -13552,7 +13553,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Kazuyuki Okitsu",
-		"add_date": "2023/10/31 12:00:00",
+		"weapon_name": "Sou-ou Momijimaru",
 		"weapon_id": "1040915800"
 	},
 	{
@@ -13573,7 +13574,7 @@
 			"Draph"
 		],
 		"voice_actor": "Reina Kondo",
-		"add_date": "2023/10/31 12:00:00",
+		"weapon_name": "Ornate Paper Pinwheel",
 		"weapon_id": "1040117400"
 	},
 	{
@@ -13595,7 +13596,7 @@
 			"Primal"
 		],
 		"voice_actor": "Mariko Kouda",
-		"add_date": "2023/11/17 19:00:00",
+		"weapon_name": "Gospel of Water and Sky",
 		"weapon_id": "1040117800"
 	},
 	{
@@ -13615,7 +13616,7 @@
 			"Draph"
 		],
 		"voice_actor": "Shunsuke Takeuchi<br>Ari Ozawa",
-		"add_date": "2023/11/17 19:00:00",
+		"weapon_name": "Logic Breaker",
 		"weapon_id": "1040516600"
 	},
 	{
@@ -13635,7 +13636,7 @@
 			"Human"
 		],
 		"voice_actor": "Yu Shimamura",
-		"add_date": "2023/11/17 19:00:00",
+		"weapon_name": "Amyna Xiphos",
 		"weapon_id": "1040025300"
 	},
 	{
@@ -13657,7 +13658,7 @@
 			"Primal"
 		],
 		"voice_actor": "Ai Kayano",
-		"add_date": "2023/11/30 12:00:00",
+		"weapon_name": "Nox Meteorum",
 		"weapon_id": "1040713100"
 	},
 	{
@@ -13679,7 +13680,7 @@
 			"Human"
 		],
 		"voice_actor": "Akari Kito",
-		"add_date": "2023/11/30 12:00:00",
+		"weapon_name": "Blockbuster",
 		"weapon_id": "1040516700"
 	},
 	{
@@ -13702,7 +13703,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Mariya Ise",
-		"add_date": "2023/12/17 19:00:00",
+		"weapon_name": "Bab-Bell Rendezvous",
 		"weapon_id": "1040816200"
 	},
 	{
@@ -13725,7 +13726,7 @@
 			"Primal"
 		],
 		"voice_actor": "Kaito Ishikawa",
-		"add_date": "2023/12/17 19:00:00",
+		"weapon_name": "Ornamented Paddle",
 		"weapon_id": "1040218800"
 	},
 	{
@@ -13747,7 +13748,7 @@
 			"Human"
 		],
 		"voice_actor": "Kana Hanazawa",
-		"add_date": "2023/12/28 19:00:00",
+		"weapon_name": "Overrider",
 		"weapon_id": "1040218900"
 	},
 	{
@@ -13768,7 +13769,7 @@
 			"Erune"
 		],
 		"voice_actor": "Minoru Shiraishi<br>Mark Ishii<br>Junya Enoki",
-		"add_date": "2023/12/28 19:00:00",
+		"weapon_name": "Dom Party-On",
 		"weapon_id": "1040618100"
 	},
 	{
@@ -13790,7 +13791,7 @@
 			"Draph"
 		],
 		"voice_actor": "Rie Takahashi",
-		"add_date": "2023/12/31 12:00:00",
+		"weapon_name": "Dracosius",
 		"weapon_id": "1040119000"
 	},
 	{
@@ -13812,7 +13813,7 @@
 			"Primal"
 		],
 		"voice_actor": "Kenyu Horiuchi",
-		"add_date": "2023/12/31 12:00:00",
+		"weapon_name": "Pillardriver",
 		"weapon_id": "1040618200"
 	},
 	{
@@ -13832,7 +13833,7 @@
 			"Human"
 		],
 		"voice_actor": "Machico",
-		"add_date": "2023/12/31 12:00:00",
+		"weapon_name": "Buddysaurus Rex",
 		"weapon_id": "1040317000"
 	},
 	{
@@ -13852,7 +13853,7 @@
 			"Primal"
 		],
 		"voice_actor": "Maaya Sakamoto",
-		"add_date": "2024/01/15 19:00:00",
+		"weapon_name": "Duskwing Staff",
 		"weapon_id": "1040422400"
 	},
 	{
@@ -13872,7 +13873,7 @@
 			"Human"
 		],
 		"voice_actor": "Kenta Miyake",
-		"add_date": "2024/01/15 19:00:00",
+		"weapon_name": "Piercing Momentum",
 		"weapon_id": "1040219000"
 	},
 	{
@@ -13892,7 +13893,7 @@
 			"Human"
 		],
 		"voice_actor": "Makoto Furukawa",
-		"add_date": "2024/01/31 12:00:00",
+		"weapon_name": "Young Champion's Kilij",
 		"weapon_id": "1040025700"
 	},
 	{
@@ -13912,7 +13913,7 @@
 			"Harvin"
 		],
 		"voice_actor": "Ayaka Imamura/Ayasa Ito",
-		"add_date": "2024/01/31 12:00:00",
+		"weapon_name": "Nastro Viola",
 		"weapon_id": "1040422500"
 	},
 	{
@@ -13935,7 +13936,7 @@
 			"Erune"
 		],
 		"voice_actor": "Ai Kakuma",
-		"add_date": "2024/02/14 19:00:00",
+		"weapon_name": "Third Stripe of the Streak",
 		"weapon_id": "1040713200"
 	},
 	{
@@ -13958,7 +13959,7 @@
 			"Erune"
 		],
 		"voice_actor": "Takashi Kondo",
-		"add_date": "2024/02/14 19:00:00",
+		"weapon_name": "Blazing Rakan",
 		"weapon_id": "1040816400"
 	},
 	{
@@ -13981,7 +13982,7 @@
 			"Primal"
 		],
 		"voice_actor": "Kenichi Suzumura",
-		"add_date": "2024/02/29 12:00:00",
+		"weapon_name": "Efes",
 		"weapon_id": "1040025900"
 	},
 	{
@@ -14001,7 +14002,7 @@
 			"Human"
 		],
 		"voice_actor": "Yuko Natsuyoshi",
-		"add_date": "2024/02/29 12:00:00",
+		"weapon_name": "Guardian of Radlith",
 		"weapon_id": "1040119100"
 	},
 	{
@@ -14021,7 +14022,7 @@
 			"Human"
 		],
 		"voice_actor": "Ryohei Kimura",
-		"add_date": "2024/02/29 12:00:00",
+		"weapon_name": "Royal Straight Flush",
 		"weapon_id": "1040618500"
 	},
 	{
@@ -14043,7 +14044,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Konomi Kohara",
-		"add_date": "2024/03/15 19:00:00",
+		"weapon_name": "Phoenix's Torch",
 		"weapon_id": "1040422700"
 	},
 	{
@@ -14065,7 +14066,7 @@
 			"Primal"
 		],
 		"voice_actor": "Misa Ishii",
-		"add_date": "2024/03/15 19:00:00",
+		"weapon_name": "Was-Scepter of Horus",
 		"weapon_id": "1040422600"
 	},
 	{
@@ -14087,7 +14088,7 @@
 			"Primal"
 		],
 		"voice_actor": "Nanako Mori",
-		"add_date": "2024/03/15 19:00:00",
+		"weapon_name": "Beyond Demise",
 		"weapon_id": "1040317200"
 	},
 	{
@@ -14109,7 +14110,7 @@
 			"Human"
 		],
 		"voice_actor": "Chiwa Saito",
-		"add_date": "2024/03/31 12:00:00",
+		"weapon_name": "Fleuret de Diamant",
 		"weapon_id": "1040026000"
 	},
 	{
@@ -14131,7 +14132,7 @@
 			"Erune"
 		],
 		"voice_actor": "Tetsuya Kakihara",
-		"add_date": "2024/03/31 12:00:00",
+		"weapon_name": "Summer Night Blaze",
 		"weapon_id": "1040422900"
 	},
 	{
@@ -14152,7 +14153,7 @@
 			"Human"
 		],
 		"voice_actor": "Yoko Hikasa",
-		"add_date": "2024/04/15 19:00:00",
+		"weapon_name": "Codex of Mysteria",
 		"weapon_id": "1040423000"
 	},
 	{
@@ -14172,7 +14173,7 @@
 			"Human"
 		],
 		"voice_actor": "Showtaro Morikubo",
-		"add_date": "2024/04/15 19:00:00",
+		"weapon_name": "Spin Blade V2",
 		"weapon_id": "1040119300"
 	},
 	{
@@ -14192,7 +14193,7 @@
 			"Human"
 		],
 		"voice_actor": "Miku Ito",
-		"add_date": "2024/04/30 12:00:00",
+		"weapon_name": "Offbeat",
 		"weapon_id": "1040219200"
 	},
 	{
@@ -14212,7 +14213,7 @@
 			"Erune"
 		],
 		"voice_actor": "Miyu Tomita",
-		"add_date": "2024/04/30 12:00:00",
+		"weapon_name": "Glam Brush",
 		"weapon_id": "1040119400"
 	},
 	{
@@ -14233,7 +14234,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Minami Tsuda",
-		"add_date": "2024/05/15 19:00:00",
+		"weapon_name": "Firefly's Light",
 		"weapon_id": "1040119600"
 	},
 	{
@@ -14253,7 +14254,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Yuki Kaji",
-		"add_date": "2024/05/15 19:00:00",
+		"weapon_name": "Camazotz",
 		"weapon_id": "1040713500"
 	},
 	{
@@ -14274,7 +14275,7 @@
 			"Human"
 		],
 		"voice_actor": "Anna Nagase",
-		"add_date": "2024/05/31 12:00:00",
+		"weapon_name": "Subekuri Gauntlet",
 		"weapon_id": "1040618900"
 	},
 	{
@@ -14294,7 +14295,7 @@
 			"Human"
 		],
 		"voice_actor": "Miyu Takagi",
-		"add_date": "2024/05/31 12:00:00",
+		"weapon_name": "Shunran Shin'uchi",
 		"weapon_id": "1040916400"
 	},
 	{
@@ -14317,7 +14318,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Satoshi Hino<br>Sora Tokui",
-		"add_date": "2024/06/15 19:00:00",
+		"weapon_name": "Causality Driver",
 		"weapon_id": "1040916700"
 	},
 	{
@@ -14338,7 +14339,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Yoshihisa Kawahara",
-		"add_date": "2024/06/15 19:00:00",
+		"weapon_name": "Honekui",
 		"weapon_id": "1040916600"
 	},
 	{
@@ -14361,7 +14362,7 @@
 			"Primal"
 		],
 		"voice_actor": "Ayaka Nanase",
-		"add_date": "2024/06/30 12:00:00",
+		"weapon_name": "Aertire",
 		"weapon_id": "1040517000"
 	},
 	{
@@ -14383,7 +14384,7 @@
 			"Primal"
 		],
 		"voice_actor": "Yui Kondo",
-		"add_date": "2024/06/30 12:00:00",
+		"weapon_name": "Dardur",
 		"weapon_id": "1040423400"
 	},
 	{
@@ -14405,7 +14406,7 @@
 			"Human"
 		],
 		"voice_actor": "Aya Suzaki",
-		"add_date": "2024/07/16 19:00:00",
+		"weapon_name": "Vacation Toolbox",
 		"weapon_id": "1040318200"
 	},
 	{
@@ -14427,7 +14428,7 @@
 			"Draph"
 		],
 		"voice_actor": "Sumire Uesaka",
-		"add_date": "2024/07/16 19:00:00",
+		"weapon_name": "Rindcleaver",
 		"weapon_id": "1040318300"
 	},
 	{
@@ -14450,7 +14451,7 @@
 			"Human"
 		],
 		"voice_actor": "Yuko Minaguchi",
-		"add_date": "2024/07/31 12:00:00",
+		"weapon_name": "Shimmering Bloom",
 		"weapon_id": "1040713700"
 	},
 	{
@@ -14472,7 +14473,7 @@
 			"Human"
 		],
 		"voice_actor": "Hiroyuki Yoshino",
-		"add_date": "2024/07/31 12:00:00",
+		"weapon_name": "Sole Intenso",
 		"weapon_id": "1040619100"
 	},
 	{
@@ -14494,7 +14495,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Shizuka Itoh",
-		"add_date": "2024/07/31 12:00:00",
+		"weapon_name": "Amaranthine",
 		"weapon_id": "1040423600"
 	},
 	{
@@ -14516,7 +14517,7 @@
 			"Unknown"
 		],
 		"voice_actor": "Suzuko Mimori",
-		"add_date": "2024/08/16 19:00:00",
+		"weapon_name": "Galleon Float",
 		"weapon_id": "1040816600"
 	},
 	{
@@ -14540,7 +14541,7 @@
 			"Erune"
 		],
 		"voice_actor": "Noriko Shitaya",
-		"add_date": "2024/08/16 19:00:00",
+		"weapon_name": "Passion Parasol",
 		"weapon_id": "1040219300"
 	},
 	{
@@ -14562,7 +14563,7 @@
 			"Human"
 		],
 		"voice_actor": "Tatsuhisa Suzuki",
-		"add_date": "2024/08/16 19:00:00",
+		"weapon_name": "Frostbloom Fan",
 		"weapon_id": "1040120000"
 	},
 	{
@@ -14585,7 +14586,7 @@
 			"Primal"
 		],
 		"voice_actor": "Kaori Mizuhashi",
-		"add_date": "2024/08/31 12:00:00",
+		"weapon_name": "Bloodwrought Coral",
 		"weapon_id": "1040916800"
 	},
 	{
@@ -14605,7 +14606,7 @@
 			"Erune"
 		],
 		"voice_actor": "Yoshito Yasuhara",
-		"add_date": "2024/08/31 12:00:00",
+		"weapon_name": "Epee d'Autrefois",
 		"weapon_id": "1040026600"
 	},
 	{
@@ -14625,7 +14626,7 @@
 			"Primal"
 		],
 		"voice_actor": "Yoshino Aoyama",
-		"add_date": "2024/09/17 19:00:00",
+		"weapon_name": "Incomplete Polarsector",
 		"weapon_id": "1040026700"
 	},
 	{
@@ -14645,7 +14646,7 @@
 			"Human"
 		],
 		"voice_actor": "Saori Hayami",
-		"add_date": "2024/09/17 19:00:00",
+		"weapon_name": "Corde Azzurre",
 		"weapon_id": "1040219500"
 	},
 	{
@@ -14668,7 +14669,7 @@
 			"Human"
 		],
 		"voice_actor": "Takuya Eguchi",
-		"add_date": "2024/09/30 12:00:00",
+		"weapon_name": "Swan",
 		"weapon_id": "1040318400"
 	},
 	{
@@ -14688,7 +14689,7 @@
 			"Human"
 		],
 		"voice_actor": "Toa Yukinari",
-		"add_date": "2024/09/30 12:00:00",
+		"weapon_name": "Lunatum Psalterium",
 		"weapon_id": "1040816800"
 	},
 	{
@@ -14711,7 +14712,7 @@
 			"Primal"
 		],
 		"voice_actor": "Manaka Iwami",
-		"add_date": "2024/10/15 19:00:00",
+		"weapon_name": "Daodao Fu",
 		"weapon_id": "1040120200"
 	},
 	{
@@ -14734,7 +14735,7 @@
 			"Human"
 		],
 		"voice_actor": "Masaaki Mizunaka",
-		"add_date": "2024/10/15 19:00:00",
+		"weapon_name": "Wilnas-o'-Lantern",
 		"weapon_id": "1040816900"
 	},
 	{
@@ -14756,7 +14757,7 @@
 			"Erune"
 		],
 		"voice_actor": "Yuri Yamaoka",
-		"add_date": "2024/10/15 19:00:00",
+		"weapon_name": "Sweet Surprise",
 		"weapon_id": "1040518000"
 	},
 	{
@@ -14776,7 +14777,7 @@
 			"Human"
 		],
 		"voice_actor": "Ayako Kawasumi",
-		"add_date": "2024/10/31 12:00:00",
+		"weapon_name": "Sky Vacation",
 		"weapon_id": "1040423700"
 	},
 	{
@@ -14797,7 +14798,7 @@
 			"Human"
 		],
 		"voice_actor": "Daisuke Kishio",
-		"add_date": "2024/10/31 12:00:00",
+		"weapon_name": "Blade of Duality",
 		"weapon_id": "1040027600"
 	}
 ]
