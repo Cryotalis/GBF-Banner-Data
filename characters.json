@@ -14845,5 +14845,50 @@
 		"voice_actor": "Takahiro Sakurai",
 		"weapon_name": "Black Claws",
 		"weapon_id": "1040619300"
+	},
+	{
+		"number": "705",
+		"id": "3040562000",
+		"name": "Wamdus",
+		"short_name": "Wamdus",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Fire",
+		"uncaps": 4,
+		"specialties": [
+			"Staff",
+			"Axe"
+		],
+		"series": [
+			"Holiday"
+		],
+		"races": [
+			"Harvin"
+		],
+		"voice_actor": "Maria Naganawa",
+		"weapon_name": "Wamdus Santa",
+		"weapon_id": "1040817000"
+	},
+	{
+		"number": "706",
+		"id": "3040563000",
+		"name": "Yggdrasil",
+		"short_name": "Yggdrasil",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Dark",
+		"uncaps": 4,
+		"specialties": [
+			"Melee"
+		],
+		"series": [
+			"Holiday"
+		],
+		"races": [
+			"Primal"
+		],
+		"voice_actor": "???",
+		"weapon_name": "Sanctolia",
+		"weapon_id": "1040121000"
 	}
 ]
