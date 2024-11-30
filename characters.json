@@ -14800,5 +14800,50 @@
 		"voice_actor": "Daisuke Kishio",
 		"weapon_name": "Blade of Duality",
 		"weapon_id": "1040027600"
+	},
+	{
+		"number": "703",
+		"id": "3040560000",
+		"name": "Shion",
+		"short_name": "Shion",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Dark",
+		"uncaps": 4,
+		"specialties": [
+			"Saber",
+			"Katana"
+		],
+		"series": [
+			"Tie-In"
+		],
+		"races": [
+			"Unknown"
+		],
+		"voice_actor": "M・A・O",
+		"weapon_name": "Goriki-maru Revised",
+		"weapon_id": "1040027800"
+	},
+	{
+		"number": "704",
+		"id": "3040561000",
+		"name": "Diablo",
+		"short_name": "Diablo",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Dark",
+		"uncaps": 4,
+		"specialties": [
+			"Melee"
+		],
+		"series": [
+			"Tie-In"
+		],
+		"races": [
+			"Unknown"
+		],
+		"voice_actor": "Takahiro Sakurai",
+		"weapon_name": "Black Claws",
+		"weapon_id": "1040619300"
 	}
 ]
