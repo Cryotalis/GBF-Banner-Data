@@ -14890,5 +14890,50 @@
 		"voice_actor": "???",
 		"weapon_name": "Sanctolia",
 		"weapon_id": "1040121000"
+	},
+	{
+		"number": "707",
+		"id": "3040564000",
+		"name": "Zooey",
+		"short_name": "Zooey",
+		"style": "Heal",
+		"rarity": "SS Rare",
+		"element": "Light",
+		"uncaps": 4,
+		"specialties": [
+			"Staff"
+		],
+		"series": [
+			"Holiday"
+		],
+		"races": [
+			"Primal"
+		],
+		"voice_actor": "Ami Koshimizu",
+		"weapon_name": "Equilibrium Tannenwand",
+		"weapon_id": "1040423800"
+	},
+	{
+		"number": "708",
+		"id": "3040565000",
+		"name": "Feower",
+		"short_name": "Feower",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Fire",
+		"uncaps": 4,
+		"specialties": [
+			"Dagger"
+		],
+		"series": [
+			"Eternals",
+			"Holiday"
+		],
+		"races": [
+			"Erune"
+		],
+		"voice_actor": "Jun Fukuyama",
+		"weapon_name": "Decorus Sicarius",
+		"weapon_id": "1040121100"
 	}
 ]
