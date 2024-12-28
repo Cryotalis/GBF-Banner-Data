@@ -14935,5 +14935,48 @@
 		"voice_actor": "Jun Fukuyama",
 		"weapon_name": "Decorus Sicarius",
 		"weapon_id": "1040121100"
+	},
+	{
+		"number": "709",
+		"id": "3040566000",
+		"name": "Yatima",
+		"short_name": "Yatima",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Water",
+		"uncaps": 4,
+		"specialties": [
+			"Staff"
+		],
+		"series": [
+			"Grand"
+		],
+		"races": [
+			"Unknown"
+		],
+		"voice_actor": "Minori Suzuki",
+		"weapon_name": "Rubea Stiria",
+		"weapon_id": "1040713800"
+	},
+	{
+		"number": "710",
+		"id": "3040567000",
+		"name": "Aletheia",
+		"short_name": "Aletheia",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Dark",
+		"uncaps": 4,
+		"specialties": [
+			"Saber",
+			"Katana"
+		],
+		"series": [],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Akio Otsuka",
+		"weapon_name": "Shroudsword Verveine",
+		"weapon_id": "1040917000"
 	}
 ]
