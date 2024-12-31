@@ -14978,5 +14978,70 @@
 		"voice_actor": "Akio Otsuka",
 		"weapon_name": "Shroudsword Verveine",
 		"weapon_id": "1040917000"
+	},
+	{
+		"number": "711",
+		"id": "3040569000",
+		"name": "Indala",
+		"short_name": "Indala",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Dark",
+		"uncaps": 4,
+		"specialties": [
+			"Saber",
+			"Katana"
+		],
+		"series": [
+			"12 Generals"
+		],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Yuki Nakashima",
+		"weapon_name": "Serpentius",
+		"weapon_id": "1040028100"
+	},
+	{
+		"number": "712",
+		"id": "3040568000",
+		"name": "Raphael",
+		"short_name": "Raphael",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Wind",
+		"uncaps": 4,
+		"specialties": [
+			"Melee"
+		],
+		"series": [
+			"Grand"
+		],
+		"races": [
+			"Primal"
+		],
+		"voice_actor": "Satoshi Mikami",
+		"weapon_name": "Galgalim of Gales",
+		"weapon_id": "1040619500"
+	},
+	{
+		"number": "713",
+		"id": "3040570000",
+		"name": "Goblin Mage",
+		"short_name": "Goblin Mage",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Light",
+		"uncaps": 4,
+		"specialties": [
+			"Staff"
+		],
+		"series": [],
+		"races": [
+			"Unknown"
+		],
+		"voice_actor": "Kotori Koiwai",
+		"weapon_name": "Shiny Cane",
+		"weapon_id": "1040423900"
 	}
 ]
