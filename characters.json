@@ -15043,5 +15043,45 @@
 		"voice_actor": "Kotori Koiwai",
 		"weapon_name": "Shiny Cane",
 		"weapon_id": "1040423900"
+	},
+	{
+		"number": "714",
+		"id": "3040572000",
+		"name": "Maleagant",
+		"short_name": "Maleagant",
+		"style": "Defense",
+		"rarity": "SS Rare",
+		"element": "Earth",
+		"uncaps": 4,
+		"specialties": [
+			"Melee"
+		],
+		"series": [],
+		"races": [
+			"Unknown"
+		],
+		"voice_actor": "Yasuyuki Kase",
+		"weapon_name": "Uralter Nagel",
+		"weapon_id": "1040619800"
+	},
+	{
+		"number": "715",
+		"id": "3040573000",
+		"name": "Feena",
+		"short_name": "Feena",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Light",
+		"uncaps": 4,
+		"specialties": [
+			"Bow"
+		],
+		"series": [],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Haruka Tomatsu",
+		"weapon_name": "Greatbow Rondor",
+		"weapon_id": "1040713900"
 	}
 ]
