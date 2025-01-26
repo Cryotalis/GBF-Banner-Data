@@ -1,5 +1,28 @@
 [
 	{
+		"path": "/2025/January/209130.json",
+		"id": "209130",
+		"key": "2c0wurda",
+		"start": "7 p.m., Jan 26, 2025 (JST)",
+		"end": "6:59 p.m., Jan 27, 2025 (JST)",
+		"featuredItemIDs": [
+			"1040916600",
+			"1040025700",
+			"1040219000"
+		],
+		"seasons": [],
+		"series": [
+			"Fantasy"
+		],
+		"totalRate1": 99.65,
+		"totalRate2": 99.769,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
 		"path": "/2025/January/209120.json",
 		"id": "209120",
 		"key": "2c0wurda",
