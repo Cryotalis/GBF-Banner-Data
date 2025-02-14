@@ -15083,5 +15083,51 @@
 		"voice_actor": "Haruka Tomatsu",
 		"weapon_name": "Greatbow Rondor",
 		"weapon_id": "1040713900"
+	},
+	{
+		"number": "716",
+		"id": "3040576000",
+		"name": "Setsuna Sakurazaki",
+		"short_name": "Setsuna",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Wind",
+		"uncaps": 4,
+		"specialties": [
+			"Katana",
+			"Melee"
+		],
+		"series": [
+			"Tie-In"
+		],
+		"races": [
+			"Unknown"
+		],
+		"voice_actor": "Yu Kobayashi",
+		"weapon_name": "Sica Shishikushiro",
+		"weapon_id": "1040121200"
+	},
+	{
+		"number": "717",
+		"id": "3040577000",
+		"name": "Jack Rakan",
+		"short_name": "Jack Rakan",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Earth",
+		"uncaps": 4,
+		"specialties": [
+			"Melee",
+			"Saber"
+		],
+		"series": [
+			"Tie-In"
+		],
+		"races": [
+			"Unknown"
+		],
+		"voice_actor": "Rikiya Koyama",
+		"weapon_name": "O Iros Meta Chilion Prosopon",
+		"weapon_id": "1040028200"
 	}
 ]
