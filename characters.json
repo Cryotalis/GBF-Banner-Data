@@ -15129,5 +15129,52 @@
 		"voice_actor": "Rikiya Koyama",
 		"weapon_name": "O Iros Meta Chilion Prosopon",
 		"weapon_id": "1040028200"
+	},
+	{
+		"number": "718",
+		"id": "3040579000",
+		"name": "Makura",
+		"short_name": "Makura",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Earth",
+		"uncaps": 4,
+		"specialties": [
+			"Katana"
+		],
+		"series": [
+			"Valentine",
+			"12 Generals"
+		],
+		"races": [
+			"Erune"
+		],
+		"voice_actor": "Lynn",
+		"weapon_name": "Fourth Fork of the Fluffle",
+		"weapon_id": "1040219700"
+	},
+	{
+		"number": "719",
+		"id": "3040578000",
+		"name": "Lobelia",
+		"short_name": "Lobelia",
+		"style": "Balanced",
+		"rarity": "SS Rare",
+		"element": "Dark",
+		"uncaps": 4,
+		"specialties": [
+			"Staff",
+			"Melee"
+		],
+		"series": [
+			"Evokers",
+			"Valentine"
+		],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Kenji Nojima",
+		"weapon_name": "Clapotis Douleur",
+		"weapon_id": "1040319200"
 	}
 ]
