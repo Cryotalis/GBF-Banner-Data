@@ -15176,5 +15176,48 @@
 		"voice_actor": "Kenji Nojima",
 		"weapon_name": "Clapotis Douleur",
 		"weapon_id": "1040319200"
+	},
+	{
+		"number": "720",
+		"id": "3040580000",
+		"name": "Yuel",
+		"short_name": "Yuel",
+		"style": "Balanced",
+		"rarity": "SS Rare",
+		"element": "Fire",
+		"uncaps": 4,
+		"specialties": [
+			"Katana",
+			"Harp"
+		],
+		"series": [
+			"Grand"
+		],
+		"races": [
+			"Erune"
+		],
+		"voice_actor": "Kana Ueda",
+		"weapon_name": "Sennen Goji",
+		"weapon_id": "1040917100"
+	},
+	{
+		"number": "721",
+		"id": "3040581000",
+		"name": "Tsukuyomi",
+		"short_name": "Tsukuyomi",
+		"style": "Heal",
+		"rarity": "SS Rare",
+		"element": "Dark",
+		"uncaps": 4,
+		"specialties": [
+			"Staff"
+		],
+		"series": [],
+		"races": [
+			"Primal"
+		],
+		"voice_actor": "Yuka Inokuchi",
+		"weapon_name": "Nightgaze Gate",
+		"weapon_id": "1040424200"
 	}
 ]
