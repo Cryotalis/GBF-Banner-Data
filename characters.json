@@ -15219,5 +15219,76 @@
 		"voice_actor": "Yuka Inokuchi",
 		"weapon_name": "Nightgaze Gate",
 		"weapon_id": "1040424200"
+	},
+	{
+		"number": "722",
+		"id": "3040582000",
+		"name": "Basara",
+		"short_name": "Basara",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Light",
+		"uncaps": 4,
+		"specialties": [
+			"Katana",
+			"Melee"
+		],
+		"series": [
+			"Grand",
+			"12 Generals"
+		],
+		"races": [
+			"Erune"
+		],
+		"voice_actor": "Junji Majima",
+		"weapon_name": "Canifortis",
+		"weapon_id": "1040917200"
+	},
+	{
+		"number": "723",
+		"id": "3040584000",
+		"name": "Mahira",
+		"short_name": "Mahira",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Wind",
+		"uncaps": 4,
+		"specialties": [
+			"Harp",
+			"Melee"
+		],
+		"series": [
+			"12 Generals",
+			"Summer"
+		],
+		"races": [
+			"Harvin"
+		],
+		"voice_actor": "Maii Kadowaki",
+		"weapon_name": "Tenth Crow of the Clutch",
+		"weapon_id": "1040517200"
+	},
+	{
+		"number": "724",
+		"id": "3040583000",
+		"name": "Lu Woh",
+		"short_name": "Lu Woh",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Earth",
+		"uncaps": 4,
+		"specialties": [
+			"Melee",
+			"Staff"
+		],
+		"series": [
+			"Summer"
+		],
+		"races": [
+			"Erune"
+		],
+		"voice_actor": "Takuya Sato",
+		"weapon_name": "Lu Woh Float",
+		"weapon_id": "1040817100"
 	}
 ]
