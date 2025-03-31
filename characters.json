@@ -15290,5 +15290,53 @@
 		"voice_actor": "Takuya Sato",
 		"weapon_name": "Lu Woh Float",
 		"weapon_id": "1040817100"
+	},
+	{
+		"number": "725",
+		"id": "3040585000",
+		"name": "Vikala",
+		"short_name": "Vikala",
+		"style": "Balanced",
+		"rarity": "SS Rare",
+		"element": "Light",
+		"uncaps": 4,
+		"specialties": [
+			"Axe",
+			"Melee"
+		],
+		"series": [
+			"12 Generals",
+			"Yukata"
+		],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Atsumi Tanezaki",
+		"weapon_name": "First Fling of the Mischief",
+		"weapon_id": "1040714000"
+	},
+	{
+		"number": "726",
+		"id": "3040586000",
+		"name": "Seofon",
+		"short_name": "Seofon",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Dark",
+		"uncaps": 4,
+		"specialties": [
+			"Saber",
+			"Katana"
+		],
+		"series": [
+			"Eternals",
+			"Yukata"
+		],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Junichi Suwabe",
+		"weapon_name": "Prismatic Trientalis",
+		"weapon_id": "1040917900"
 	}
 ]
