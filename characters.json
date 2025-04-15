@@ -15338,5 +15338,45 @@
 		"voice_actor": "Junichi Suwabe",
 		"weapon_name": "Prismatic Trientalis",
 		"weapon_id": "1040917900"
+	},
+	{
+		"number": "727",
+		"id": "3040589000",
+		"name": "Shukra",
+		"short_name": "Shukra",
+		"style": "Balanced",
+		"rarity": "SS Rare",
+		"element": "Water",
+		"uncaps": 4,
+		"specialties": [
+			"Dagger"
+		],
+		"series": [],
+		"races": [
+			"Erune"
+		],
+		"voice_actor": "Kana Ichinose",
+		"weapon_name": "Felinovus",
+		"weapon_id": "1040121900"
+	},
+	{
+		"number": "728",
+		"id": "3040590000",
+		"name": "Cherine",
+		"short_name": "Cherine",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Light",
+		"uncaps": 4,
+		"specialties": [
+			"Spear"
+		],
+		"series": [],
+		"races": [
+			"Erune"
+		],
+		"voice_actor": "Hina Suguta",
+		"weapon_name": "Lourde et Courte",
+		"weapon_id": "1040219800"
 	}
 ]
