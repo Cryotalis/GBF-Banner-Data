@@ -15378,5 +15378,47 @@
 		"voice_actor": "Hina Suguta",
 		"weapon_name": "Lourde et Courte",
 		"weapon_id": "1040219800"
+	},
+	{
+		"number": "729",
+		"id": "3040591000",
+		"name": "Lavirita",
+		"short_name": "Lavirita",
+		"style": "Balanced",
+		"rarity": "SS Rare",
+		"element": "Fire",
+		"uncaps": 4,
+		"specialties": [
+			"Saber",
+			"Gun"
+		],
+		"series": [],
+		"races": [
+			"Harvin"
+		],
+		"voice_actor": "Wataru Komada",
+		"weapon_name": "Gold Beak",
+		"weapon_id": "1040028400"
+	},
+	{
+		"number": "730",
+		"id": "3040592000",
+		"name": "Mars",
+		"short_name": "Mars",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Light",
+		"uncaps": 4,
+		"specialties": [
+			"Spear",
+			"Axe"
+		],
+		"series": [],
+		"races": [
+			"Primal"
+		],
+		"voice_actor": "Yu Shimamura",
+		"weapon_name": "Blazing Corseque",
+		"weapon_id": "1040219900"
 	}
 ]
