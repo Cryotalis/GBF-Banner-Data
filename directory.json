@@ -1,5 +1,32 @@
 [
 	{
+		"path": "/2025/May/209590.json",
+		"id": "209590",
+		"key": "9rms8hp2",
+		"start": "7 p.m., May 6, 2025 (JST)",
+		"end": "6:59 p.m., May 9, 2025 (JST)",
+		"featuredItemIDs": [
+			"1040514800",
+			"1040615500",
+			"1040113100",
+			"1040311400"
+		],
+		"seasons": [
+			"Halloween"
+		],
+		"series": [
+			"Halloween",
+			"Fantasy"
+		],
+		"totalRate1": 99.747,
+		"totalRate2": 99.781,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
 		"path": "/2025/May/209580.json",
 		"id": "209580",
 		"key": "8fg66k4d",
