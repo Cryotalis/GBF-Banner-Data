@@ -1,5 +1,33 @@
 [
 	{
+		"path": "/2025/May/209610.json",
+		"id": "209610",
+		"key": "1mnhwmru",
+		"start": "7 p.m., May 12, 2025 (JST)",
+		"end": "6:59 p.m., May 15, 2025 (JST)",
+		"featuredItemIDs": [
+			"1040422100",
+			"1040315600",
+			"1040518000",
+			"1040215400"
+		],
+		"seasons": [
+			"Halloween"
+		],
+		"series": [
+			"Halloween",
+			"Fantasy",
+			"12 Generals"
+		],
+		"totalRate1": 99.738,
+		"totalRate2": 99.881,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
 		"path": "/2025/May/209600.json",
 		"id": "209600",
 		"key": "0hhhfx48",
