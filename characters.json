@@ -15420,5 +15420,46 @@
 		"voice_actor": "Yu Shimamura",
 		"weapon_name": "Blazing Corseque",
 		"weapon_id": "1040219900"
+	},
+	{
+		"number": "731",
+		"id": "3040593000",
+		"name": "Cagliostro and Clarisse",
+		"short_name": "Alchemic Cuties",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Wind",
+		"uncaps": 4,
+		"specialties": [
+			"Staff"
+		],
+		"series": [],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Sakura Tange<br>Ayane Sakura",
+		"weapon_name": "Ouroboric Mobius",
+		"weapon_id": "1040714200"
+	},
+	{
+		"number": "732",
+		"id": "3040594000",
+		"name": "Kou",
+		"short_name": "Kou",
+		"style": "Balanced",
+		"rarity": "SS Rare",
+		"element": "Light",
+		"uncaps": 4,
+		"specialties": [
+			"Katana",
+			"Harp"
+		],
+		"series": [],
+		"races": [
+			"Erune"
+		],
+		"voice_actor": "Yusuke Kobayashi",
+		"weapon_name": "Plumshade Parasol",
+		"weapon_id": "1040319400"
 	}
 ]
