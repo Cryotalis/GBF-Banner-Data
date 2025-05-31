@@ -15461,5 +15461,49 @@
 		"voice_actor": "Yusuke Kobayashi",
 		"weapon_name": "Plumshade Parasol",
 		"weapon_id": "1040319400"
+	},
+	{
+		"number": "733",
+		"id": "3040595000",
+		"name": "Siegfried",
+		"short_name": "Siegfried",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Earth",
+		"uncaps": 4,
+		"specialties": [
+			"Saber",
+			"Katana"
+		],
+		"series": [
+			"Grand"
+		],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Kazuhiko Inoue",
+		"weapon_name": "Heldenhymne",
+		"weapon_id": "1040028500"
+	},
+	{
+		"number": "734",
+		"id": "3040596000",
+		"name": "Skuld",
+		"short_name": "Skuld",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Wind",
+		"uncaps": 4,
+		"specialties": [
+			"Bow",
+			"Saber"
+		],
+		"series": [],
+		"races": [
+			"Unknown"
+		],
+		"voice_actor": "You Taichi",
+		"weapon_name": "Bow of Auslese",
+		"weapon_id": "1040714300"
 	}
 ]
