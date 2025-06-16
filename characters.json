@@ -15505,5 +15505,46 @@
 		"voice_actor": "You Taichi",
 		"weapon_name": "Bow of Auslese",
 		"weapon_id": "1040714300"
+	},
+	{
+		"number": "735",
+		"id": "3040597000",
+		"name": "Hauhet",
+		"short_name": "Hauhet",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Fire",
+		"uncaps": 4,
+		"specialties": [
+			"Staff"
+		],
+		"series": [],
+		"races": [
+			"Unknown"
+		],
+		"voice_actor": "Sayaka Kinoshita",
+		"weapon_name": "Siwar Al-Laahabi",
+		"weapon_id": "1040620000"
+	},
+	{
+		"number": "736",
+		"id": "3040598000",
+		"name": "Grimnir",
+		"short_name": "Grimnir",
+		"style": "Defense",
+		"rarity": "SS Rare",
+		"element": "Dark",
+		"uncaps": 4,
+		"specialties": [
+			"Spear",
+			"Staff"
+		],
+		"series": [],
+		"races": [
+			"Primal"
+		],
+		"voice_actor": "Megumi Ogata",
+		"weapon_name": "Thundergale of the Crimson",
+		"weapon_id": "1040220100"
 	}
 ]
