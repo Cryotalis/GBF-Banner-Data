@@ -1,5 +1,33 @@
 [
 	{
+		"path": "/2025/June/209840.json",
+		"id": "209840",
+		"key": "923fwyiv",
+		"start": "7 p.m., Jun 29, 2025 (JST)",
+		"end": "11:59 a.m., Jun 30, 2025 (JST)",
+		"featuredItemIDs": [
+			"1040121000",
+			"1040713100",
+			"1040712100"
+		],
+		"seasons": [
+			"Holiday"
+		],
+		"series": [
+			"Fantasy",
+			"Holiday",
+			"12 Generals",
+			"Eternals"
+		],
+		"totalRate1": 99.735,
+		"totalRate2": 99.885,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
 		"path": "/2025/June/209830.json",
 		"id": "209830",
 		"key": "923fwyiv",
