@@ -15546,5 +15546,48 @@
 		"voice_actor": "Megumi Ogata",
 		"weapon_name": "Thundergale of the Crimson",
 		"weapon_id": "1040220100"
+	},
+	{
+		"number": "737",
+		"id": "3040599000",
+		"name": "Ilsa",
+		"short_name": "Ilsa",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Water",
+		"uncaps": 4,
+		"specialties": [
+			"Gun",
+			"Bow"
+		],
+		"series": [],
+		"races": [
+			"Erune"
+		],
+		"voice_actor": "Mie Sonozaki",
+		"weapon_name": "Bridekeeper",
+		"weapon_id": "1040518100"
+	},
+	{
+		"number": "738",
+		"id": "3040600000",
+		"name": "Fraux",
+		"short_name": "Fraux",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Earth",
+		"uncaps": 4,
+		"specialties": [
+			"Melee"
+		],
+		"series": [
+			"Evokers"
+		],
+		"races": [
+			"Erune"
+		],
+		"voice_actor": "Azumi Asakura",
+		"weapon_name": "Scheherazade",
+		"weapon_id": "1040620100"
 	}
 ]
