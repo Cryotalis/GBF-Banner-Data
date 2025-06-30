@@ -1,5 +1,30 @@
 [
 	{
+		"path": "/2025/June/209850.json",
+		"id": "209850",
+		"key": "5woirejz",
+		"start": "12 noon, Jun 30, 2025 (JST)",
+		"end": "6:59 p.m., Jul 3, 2025 (JST)",
+		"featuredItemIDs": [
+			"1040518100",
+			"1040620100"
+		],
+		"seasons": [],
+		"series": [
+			"12 Generals",
+			"Grand",
+			"Fantasy",
+			"Evokers"
+		],
+		"totalRate1": 99.759,
+		"totalRate2": 99.815,
+		"drawRates": {
+			"SS Rare": "6.00%",
+			"S Rare": "15.00%",
+			"Rare": "79.00%"
+		}
+	},
+	{
 		"path": "/2025/June/209840.json",
 		"id": "209840",
 		"key": "923fwyiv",
