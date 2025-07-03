@@ -1,5 +1,33 @@
 [
 	{
+		"path": "/2025/July/209860.json",
+		"id": "209860",
+		"key": "6d0j6att",
+		"start": "7 p.m., Jul 3, 2025 (JST)",
+		"end": "6:59 p.m., Jul 6, 2025 (JST)",
+		"featuredItemIDs": [
+			"1040200000_ex",
+			"1040905700_ex",
+			"1040009000_ex",
+			"1040004700_ex"
+		],
+		"seasons": [
+			"Summer"
+		],
+		"series": [
+			"Summer",
+			"Fantasy",
+			"Evokers"
+		],
+		"totalRate1": 99.694,
+		"totalRate2": 99.714,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
 		"path": "/2025/June/209850.json",
 		"id": "209850",
 		"key": "5woirejz",
