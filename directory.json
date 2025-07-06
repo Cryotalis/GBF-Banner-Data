@@ -1,5 +1,36 @@
 [
 	{
+		"path": "/2025/July/209870.json",
+		"id": "209870",
+		"key": "7r0mw89t",
+		"start": "7 p.m., Jul 6, 2025 (JST)",
+		"end": "6:59 p.m., Jul 9, 2025 (JST)",
+		"featuredItemIDs": [
+			"1040806200_ex",
+			"1040211400_ex",
+			"1040211200_ex",
+			"1040210900_ex",
+			"2040293000"
+		],
+		"seasons": [
+			"Summer",
+			"Yukata"
+		],
+		"series": [
+			"Summer",
+			"Yukata",
+			"Fantasy",
+			"Evokers"
+		],
+		"totalRate1": 99.714,
+		"totalRate2": 99.793,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
 		"path": "/2025/July/209860.json",
 		"id": "209860",
 		"key": "6d0j6att",
