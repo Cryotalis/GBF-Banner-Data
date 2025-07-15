@@ -15589,5 +15589,49 @@
 		"voice_actor": "Azumi Asakura",
 		"weapon_name": "Scheherazade",
 		"weapon_id": "1040620100"
+	},
+	{
+		"number": "739",
+		"id": "3040601000",
+		"name": "Atum",
+		"short_name": "Atum",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Fire",
+		"uncaps": 4,
+		"specialties": [
+			"Staff"
+		],
+		"series": [
+			"Summer"
+		],
+		"races": [
+			"Primal"
+		],
+		"voice_actor": "Kengo Takanashi",
+		"weapon_name": "Shati Hariq",
+		"weapon_id": "1040817200"
+	},
+	{
+		"number": "740",
+		"id": "3040602000",
+		"name": "Korwa",
+		"short_name": "Korwa",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Light",
+		"uncaps": 4,
+		"specialties": [
+			"Staff"
+		],
+		"series": [
+			"Yukata"
+		],
+		"races": [
+			"Erune"
+		],
+		"voice_actor": "Ayumi Fujimura/Shizuka Itoh",
+		"weapon_name": "Quill of Happy Endings",
+		"weapon_id": "1040122000"
 	}
 ]
