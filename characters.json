@@ -15633,5 +15633,50 @@
 		"voice_actor": "Ayumi Fujimura/Shizuka Itoh",
 		"weapon_name": "Quill of Happy Endings",
 		"weapon_id": "1040122000"
+	},
+	{
+		"number": "741",
+		"id": "3040603000",
+		"name": "Lich",
+		"short_name": "Lich",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Earth",
+		"uncaps": 4,
+		"specialties": [
+			"Staff"
+		],
+		"series": [
+			"Summer"
+		],
+		"races": [
+			"Primal"
+		],
+		"voice_actor": "Karin Takahashi",
+		"weapon_name": "Shade and Suffering",
+		"weapon_id": "1040425000"
+	},
+	{
+		"number": "742",
+		"id": "3040604000",
+		"name": "Cassius",
+		"short_name": "Cassius",
+		"style": "Balanced",
+		"rarity": "SS Rare",
+		"element": "Wind",
+		"uncaps": 4,
+		"specialties": [
+			"Melee",
+			"Spear"
+		],
+		"series": [
+			"Summer"
+		],
+		"races": [
+			"Unknown"
+		],
+		"voice_actor": "Masaya Matsukaze",
+		"weapon_name": "Beach House Ramen",
+		"weapon_id": "1040620800"
 	}
 ]
