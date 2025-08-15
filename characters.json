@@ -15724,5 +15724,53 @@
 		"voice_actor": "Mamoru Miyano",
 		"weapon_name": "Bandit's Secret",
 		"weapon_id": "1040425100"
+	},
+	{
+		"number": "745",
+		"id": "3040610000",
+		"name": "Catura",
+		"short_name": "Catura",
+		"style": "Defense",
+		"rarity": "SS Rare",
+		"element": "Dark",
+		"uncaps": 4,
+		"specialties": [
+			"Spear",
+			"Melee"
+		],
+		"series": [
+			"12 Generals",
+			"Summer"
+		],
+		"races": [
+			"Draph"
+		],
+		"voice_actor": "Rina Hidaka",
+		"weapon_name": "Second Float of the Herd",
+		"weapon_id": "1040714600"
+	},
+	{
+		"number": "746",
+		"id": "3040609000",
+		"name": "Haaselia",
+		"short_name": "Haaselia",
+		"style": "Balanced",
+		"rarity": "SS Rare",
+		"element": "Wind",
+		"uncaps": 4,
+		"specialties": [
+			"Staff",
+			"Melee"
+		],
+		"series": [
+			"Evokers",
+			"Summer"
+		],
+		"races": [
+			"Harvin"
+		],
+		"voice_actor": "Yukiyo Fujii",
+		"weapon_name": "Moon Shotel",
+		"weapon_id": "1040918000"
 	}
 ]
