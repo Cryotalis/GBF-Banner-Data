@@ -1,5 +1,36 @@
 [
 	{
+		"path": "/2025/August/210040.json",
+		"id": "210040",
+		"key": "46ksej14",
+		"start": "7 p.m., Aug 15, 2025 (JST)",
+		"end": "6:59 p.m., Aug 19, 2025 (JST)",
+		"featuredItemIDs": [
+			"1040714600",
+			"1040918000"
+		],
+		"seasons": [
+			"Summer",
+			"Yukata"
+		],
+		"series": [
+			"Summer",
+			"Grand",
+			"Yukata",
+			"Fantasy",
+			"12 Generals",
+			"Eternals",
+			"Evokers"
+		],
+		"totalRate1": 99.764,
+		"totalRate2": 99.851,
+		"drawRates": {
+			"SS Rare": "6.00%",
+			"S Rare": "15.00%",
+			"Rare": "79.00%"
+		}
+	},
+	{
 		"path": "/2025/August/210030.json",
 		"id": "210030",
 		"key": "360gn76c",
