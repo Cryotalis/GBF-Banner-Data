@@ -15678,5 +15678,51 @@
 		"voice_actor": "Masaya Matsukaze",
 		"weapon_name": "Beach House Ramen",
 		"weapon_id": "1040620800"
+	},
+	{
+		"number": "743",
+		"id": "3040607000",
+		"name": "Kurapika",
+		"short_name": "Kurapika",
+		"style": "Balanced",
+		"rarity": "SS Rare",
+		"element": "Fire",
+		"uncaps": 4,
+		"specialties": [
+			"Dagger",
+			"Melee"
+		],
+		"series": [
+			"Tie-In"
+		],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Miyuki Sawashiro",
+		"weapon_name": "Five-Finger Chain",
+		"weapon_id": "1040621000"
+	},
+	{
+		"number": "744",
+		"id": "3040608000",
+		"name": "Chrollo",
+		"short_name": "Chrollo",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Dark",
+		"uncaps": 4,
+		"specialties": [
+			"Staff",
+			"Dagger"
+		],
+		"series": [
+			"Tie-In"
+		],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Mamoru Miyano",
+		"weapon_name": "Bandit's Secret",
+		"weapon_id": "1040425100"
 	}
 ]
