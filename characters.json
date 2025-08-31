@@ -15772,5 +15772,47 @@
 		"voice_actor": "Yukiyo Fujii",
 		"weapon_name": "Moon Shotel",
 		"weapon_id": "1040918000"
+	},
+	{
+		"number": "747",
+		"id": "3040611000",
+		"name": "Sariel",
+		"short_name": "Sariel",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Dark",
+		"uncaps": 4,
+		"specialties": [
+			"Axe"
+		],
+		"series": [
+			"Grand"
+		],
+		"races": [
+			"Primal"
+		],
+		"voice_actor": "Akira Ishida",
+		"weapon_name": "Executioner",
+		"weapon_id": "1040918100"
+	},
+	{
+		"number": "748",
+		"id": "3040612000",
+		"name": "Berceau",
+		"short_name": "Berceau",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Earth",
+		"uncaps": 4,
+		"specialties": [
+			"Staff"
+		],
+		"series": [],
+		"races": [
+			"Primal"
+		],
+		"voice_actor": "Miyuri Shimabukuro",
+		"weapon_name": "Epee Scintillante",
+		"weapon_id": "1040028600"
 	}
 ]
