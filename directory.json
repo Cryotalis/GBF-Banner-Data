@@ -1,5 +1,33 @@
 [
 	{
+		"path": "/2025/September/210200.json",
+		"id": "210200",
+		"key": "2t86mt51",
+		"start": "7 p.m., Sep 16, 2025 (JST)",
+		"end": "6:59 p.m., Sep 17, 2025 (JST)",
+		"featuredItemIDs": [
+			"1040617200",
+			"1040213600",
+			"1040714200"
+		],
+		"seasons": [
+			"Valentine"
+		],
+		"series": [
+			"Valentine",
+			"Fantasy",
+			"12 Generals",
+			"Evokers"
+		],
+		"totalRate1": 99.751,
+		"totalRate2": 99.853,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
 		"path": "/2025/September/210190.json",
 		"id": "210190",
 		"key": "2t86mt51",
