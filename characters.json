@@ -15814,5 +15814,48 @@
 		"voice_actor": "Miyuri Shimabukuro",
 		"weapon_name": "Epee Scintillante",
 		"weapon_id": "1040028600"
+	},
+	{
+		"number": "749",
+		"id": "3040613000",
+		"name": "Sylvia",
+		"short_name": "Sylvia",
+		"style": "Balanced",
+		"rarity": "SS Rare",
+		"element": "Water",
+		"uncaps": 4,
+		"specialties": [
+			"Saber"
+		],
+		"series": [
+			"Grand"
+		],
+		"races": [
+			"Primal"
+		],
+		"voice_actor": "Ryoko Shiraishi",
+		"weapon_name": "Ebony Retribution",
+		"weapon_id": "1040918200"
+	},
+	{
+		"number": "750",
+		"id": "3040614000",
+		"name": "Joel",
+		"short_name": "Joel",
+		"style": "Heal",
+		"rarity": "SS Rare",
+		"element": "Water",
+		"uncaps": 4,
+		"specialties": [
+			"Melee",
+			"Dagger"
+		],
+		"series": [],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Shunichi Toki",
+		"weapon_name": "Lagoon's Edge",
+		"weapon_id": "1040122100"
 	}
 ]
