@@ -15857,5 +15857,46 @@
 		"voice_actor": "Shunichi Toki",
 		"weapon_name": "Lagoon's Edge",
 		"weapon_id": "1040122100"
+	},
+	{
+		"number": "751",
+		"id": "3040615000",
+		"name": "Lamorak",
+		"short_name": "Lamorak",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Wind",
+		"uncaps": 4,
+		"specialties": [
+			"Staff"
+		],
+		"series": [],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Nobuhiko Okamoto",
+		"weapon_name": "Feder des Zugvogels",
+		"weapon_id": "1040425300"
+	},
+	{
+		"number": "752",
+		"id": "3040616000",
+		"name": "Danua",
+		"short_name": "Danua",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Dark",
+		"uncaps": 4,
+		"specialties": [
+			"Dagger",
+			"Axe"
+		],
+		"series": [],
+		"races": [
+			"Draph"
+		],
+		"voice_actor": "Nozomi Sasaki",
+		"weapon_name": "Marionette Machete",
+		"weapon_id": "1040122200"
 	}
 ]
