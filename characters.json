@@ -15898,5 +15898,75 @@
 		"voice_actor": "Nozomi Sasaki",
 		"weapon_name": "Marionette Machete",
 		"weapon_id": "1040122200"
+	},
+	{
+		"number": "753",
+		"id": "3040617000",
+		"name": "Vajra",
+		"short_name": "Vajra",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Light",
+		"uncaps": 4,
+		"specialties": [
+			"Katana",
+			"Melee"
+		],
+		"series": [
+			"12 Generals",
+			"Halloween"
+		],
+		"races": [
+			"Erune"
+		],
+		"voice_actor": "Yu Serizawa",
+		"weapon_name": "Eleventh Treat of the Pack",
+		"weapon_id": "1040621100"
+	},
+	{
+		"number": "754",
+		"id": "3040618000",
+		"name": "Lancelot",
+		"short_name": "Lancelot",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Wind",
+		"uncaps": 4,
+		"specialties": [
+			"Staff",
+			"Dagger"
+		],
+		"series": [
+			"Halloween"
+		],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Yuki Ono",
+		"weapon_name": "Black Cat in a Hat",
+		"weapon_id": "1040425400"
+	},
+	{
+		"number": "755",
+		"id": "3040619000",
+		"name": "Tien",
+		"short_name": "Tien",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Water",
+		"uncaps": 4,
+		"specialties": [
+			"Gun"
+		],
+		"series": [
+			"Eternals",
+			"Halloween"
+		],
+		"races": [
+			"Erune"
+		],
+		"voice_actor": "Rina Satoh",
+		"weapon_name": "Pistolet Fleuri",
+		"weapon_id": "1040518600"
 	}
 ]
