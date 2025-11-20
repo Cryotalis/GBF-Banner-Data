@@ -1,5 +1,31 @@
 [
 	{
+		"path": "/2025/November/210480.json",
+		"id": "210480",
+		"key": "86wq1mj9",
+		"start": "7 p.m., Nov 20, 2025 (JST)",
+		"end": "6:59 p.m., Nov 24, 2025 (JST)",
+		"featuredItemIDs": [
+			"1040024200",
+			"1040117200",
+			"1040918200",
+			"1040917200"
+		],
+		"seasons": [],
+		"series": [
+			"Grand",
+			"Fantasy",
+			"12 Generals"
+		],
+		"totalRate1": 99.808,
+		"totalRate2": 99.864,
+		"drawRates": {
+			"SS Rare": "6.00%",
+			"S Rare": "15.00%",
+			"Rare": "79.00%"
+		}
+	},
+	{
 		"path": "/2025/November/210470.json",
 		"id": "210470",
 		"key": "7jz2ohke",
