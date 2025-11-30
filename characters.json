@@ -16010,5 +16010,51 @@
 		"voice_actor": "Yuuki Takada",
 		"weapon_name": "Sweety-Weety Garnet Broadaxe",
 		"weapon_id": "1040319600"
+	},
+	{
+		"number": "758",
+		"id": "3040624000",
+		"name": "Asuka & Unit 02",
+		"short_name": "Asuka & Unit 02",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Fire",
+		"uncaps": 4,
+		"specialties": [
+			"Gun",
+			"Melee"
+		],
+		"series": [
+			"Tie-In"
+		],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Yuko Miyamura ",
+		"weapon_name": "Progressive Knife (Man-Portable)",
+		"weapon_id": "1040122400"
+	},
+	{
+		"number": "759",
+		"id": "3040625000",
+		"name": "Kaworu & Mark.06",
+		"short_name": "Kaworu & Mark.06",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Light",
+		"uncaps": 4,
+		"specialties": [
+			"Spear",
+			"Harp"
+		],
+		"series": [
+			"Tie-In"
+		],
+		"races": [
+			"Unknown"
+		],
+		"voice_actor": "Akira Ishida",
+		"weapon_name": "Spear of Cassius (Man-Portable)",
+		"weapon_id": "1040220500"
 	}
 ]
