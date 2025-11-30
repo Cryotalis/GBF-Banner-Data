@@ -16056,5 +16056,49 @@
 		"voice_actor": "Akira Ishida",
 		"weapon_name": "Spear of Cassius (Man-Portable)",
 		"weapon_id": "1040220500"
+	},
+	{
+		"number": "760",
+		"id": "3040626000",
+		"name": "Reinhardtzar",
+		"short_name": "Reinhardtzar",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Earth",
+		"uncaps": 4,
+		"specialties": [
+			"Melee"
+		],
+		"series": [
+			"Holiday"
+		],
+		"races": [
+			"Draph"
+		],
+		"voice_actor": "Kenichirou Matsuda",
+		"weapon_name": "Ripening Spirit",
+		"weapon_id": "1040621300"
+	},
+	{
+		"number": "761",
+		"id": "3040627000",
+		"name": "Bennu",
+		"short_name": "Bennu",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Earth",
+		"uncaps": 4,
+		"specialties": [
+			"Melee"
+		],
+		"series": [
+			"Holiday"
+		],
+		"races": [
+			"Primal"
+		],
+		"voice_actor": "Satoshi Tsuruoka ",
+		"weapon_name": "Jinn Al-Shajarah",
+		"weapon_id": "1040319700"
 	}
 ]
