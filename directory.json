@@ -1,5 +1,32 @@
 [
 	{
+		"path": "/2025/December/210560.json",
+		"id": "210560",
+		"key": "6mar9tpq",
+		"start": "7 p.m., Dec 3, 2025 (JST)",
+		"end": "6:59 p.m., Dec 6, 2025 (JST)",
+		"featuredItemIDs": [
+			"1040911700",
+			"1040511700",
+			"1040211800",
+			"1040508700"
+		],
+		"seasons": [
+			"Holiday"
+		],
+		"series": [
+			"Holiday",
+			"Fantasy"
+		],
+		"totalRate1": 99.633,
+		"totalRate2": 99.658,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
 		"path": "/2025/November/210550.json",
 		"id": "210550",
 		"key": "5ehjrohg",
