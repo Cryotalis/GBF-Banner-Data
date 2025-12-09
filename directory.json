@@ -1,5 +1,35 @@
 [
 	{
+		"path": "/2025/December/210580.json",
+		"id": "210580",
+		"key": "8yctjcms",
+		"start": "7 p.m., Dec 9, 2025 (JST)",
+		"end": "6:59 p.m., Dec 12, 2025 (JST)",
+		"featuredItemIDs": [
+			"2040436000",
+			"2040435000",
+			"2040438000",
+			"2040443000",
+			"2040442000",
+			"2040441000"
+		],
+		"seasons": [
+			"Holiday"
+		],
+		"series": [
+			"Holiday",
+			"Fantasy",
+			"12 Generals"
+		],
+		"totalRate1": 99.67,
+		"totalRate2": 99.77,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
 		"path": "/2025/December/210570.json",
 		"id": "210570",
 		"key": "755v0ens",
