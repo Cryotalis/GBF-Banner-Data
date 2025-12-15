@@ -16100,5 +16100,51 @@
 		"voice_actor": "Satoshi Tsuruoka ",
 		"weapon_name": "Jinn Al-Shajarah",
 		"weapon_id": "1040319700"
+	},
+	{
+		"number": "762",
+		"id": "3040628000",
+		"name": "Zeta",
+		"short_name": "Zeta",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Dark",
+		"uncaps": 4,
+		"specialties": [
+			"Spear"
+		],
+		"series": [
+			"Holiday"
+		],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Kana Hanazawa",
+		"weapon_name": "Frosty Eve Spear",
+		"weapon_id": "1040220700"
+	},
+	{
+		"number": "763",
+		"id": "3040629000",
+		"name": "Maria Theresa",
+		"short_name": "Maria Theresa",
+		"style": "Balanced",
+		"rarity": "SS Rare",
+		"element": "Fire",
+		"uncaps": 4,
+		"specialties": [
+			"Staff",
+			"Saber"
+		],
+		"series": [
+			"Evokers",
+			"Holiday"
+		],
+		"races": [
+			"Draph"
+		],
+		"voice_actor": "Mikako Takahashi",
+		"weapon_name": "Pugnale dei Volant",
+		"weapon_id": "1040122600"
 	}
 ]
