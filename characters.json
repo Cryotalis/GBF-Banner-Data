@@ -16146,5 +16146,47 @@
 		"voice_actor": "Mikako Takahashi",
 		"weapon_name": "Pugnale dei Volant",
 		"weapon_id": "1040122600"
+	},
+	{
+		"number": "764",
+		"id": "3040630000",
+		"name": "Bhaisa",
+		"short_name": "Bhaisa",
+		"style": "Heal",
+		"rarity": "SS Rare",
+		"element": "Earth",
+		"uncaps": 4,
+		"specialties": [
+			"Staff"
+		],
+		"series": [
+			"Grand"
+		],
+		"races": [
+			"Erune"
+		],
+		"voice_actor": "Manaka Iwami",
+		"weapon_name": "Staff of the Medicinal Master",
+		"weapon_id": "1040425600"
+	},
+	{
+		"number": "765",
+		"id": "3040634000",
+		"name": "Amaterasu",
+		"short_name": "Amaterasu",
+		"style": "Heal",
+		"rarity": "SS Rare",
+		"element": "Light",
+		"uncaps": 4,
+		"specialties": [
+			"Staff"
+		],
+		"series": [],
+		"races": [
+			"Primal"
+		],
+		"voice_actor": "Yuka Iguchi",
+		"weapon_name": "Sunwheel Chime",
+		"weapon_id": "1040818000"
 	}
 ]
