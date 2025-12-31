@@ -16188,5 +16188,50 @@
 		"voice_actor": "Yuka Iguchi",
 		"weapon_name": "Sunwheel Chime",
 		"weapon_id": "1040818000"
+	},
+	{
+		"number": "766",
+		"id": "3040633000",
+		"name": "Sandira",
+		"short_name": "Sandira",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Fire",
+		"uncaps": 4,
+		"specialties": [
+			"Bow",
+			"Harp"
+		],
+		"series": [
+			"12 Generals"
+		],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Megumi Nakajima",
+		"weapon_name": "Equinius",
+		"weapon_id": "1040715000"
+	},
+	{
+		"number": "767",
+		"id": "3040632000",
+		"name": "Caesar",
+		"short_name": "Caesar",
+		"style": "Balanced",
+		"rarity": "SS Rare",
+		"element": "Light",
+		"uncaps": 4,
+		"specialties": [
+			"Saber"
+		],
+		"series": [
+			"Grand"
+		],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Yuki Kaji",
+		"weapon_name": "White Sword of Splendor",
+		"weapon_id": "1040029200"
 	}
 ]
