@@ -16233,5 +16233,45 @@
 		"voice_actor": "Yuki Kaji",
 		"weapon_name": "White Sword of Splendor",
 		"weapon_id": "1040029200"
+	},
+	{
+		"number": "768",
+		"id": "3040635000",
+		"name": "Lulou Holou",
+		"short_name": "Lulou Holou",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Wind",
+		"uncaps": 4,
+		"specialties": [
+			"Gun"
+		],
+		"series": [],
+		"races": [
+			"Harvin"
+		],
+		"voice_actor": "Hisako Tojo",
+		"weapon_name": "Use a Gold Brick",
+		"weapon_id": "1040425700"
+	},
+	{
+		"number": "769",
+		"id": "3040636000",
+		"name": "Constance",
+		"short_name": "Constance",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Dark",
+		"uncaps": 4,
+		"specialties": [
+			"Staff"
+		],
+		"series": [],
+		"races": [
+			"Erune"
+		],
+		"voice_actor": "Yuko Goto",
+		"weapon_name": "Erlkoenig-Nachweis",
+		"weapon_id": "1040425800"
 	}
 ]
