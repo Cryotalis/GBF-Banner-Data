@@ -1,5 +1,29 @@
 [
 	{
+		"path": "/2026/January/210840.json",
+		"id": "210840",
+		"key": "4bb32zpc",
+		"start": "12 noon, Jan 31, 2026 (JST)",
+		"end": "6:59 p.m., Feb 3, 2026 (JST)",
+		"featuredItemIDs": [
+			"1040122700",
+			"1040029300"
+		],
+		"seasons": [],
+		"series": [
+			"Grand",
+			"Fantasy",
+			"12 Generals"
+		],
+		"totalRate1": 99.702,
+		"totalRate2": 99.758,
+		"drawRates": {
+			"SS Rare": "6.00%",
+			"S Rare": "15.00%",
+			"Rare": "79.00%"
+		}
+	},
+	{
 		"path": "/2026/January/210830.json",
 		"id": "210830",
 		"key": "80m5e98f",
