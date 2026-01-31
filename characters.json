@@ -16273,5 +16273,46 @@
 		"voice_actor": "Yuko Goto",
 		"weapon_name": "Erlkoenig-Nachweis",
 		"weapon_id": "1040425800"
+	},
+	{
+		"number": "770",
+		"id": "3040637000",
+		"name": "McCoy",
+		"short_name": "McCoy",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Earth",
+		"uncaps": 4,
+		"specialties": [
+			"Dagger"
+		],
+		"series": [],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Shin-ichiro Miki",
+		"weapon_name": "Spy’s Sleeve Dagger",
+		"weapon_id": "1040122700"
+	},
+	{
+		"number": "771",
+		"id": "3040638000",
+		"name": "Arriet",
+		"short_name": "Arriet",
+		"style": "Balanced",
+		"rarity": "SS Rare",
+		"element": "Light",
+		"uncaps": 4,
+		"specialties": [
+			"Saber",
+			"Harp"
+		],
+		"series": [],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Chinatsu Akasaki",
+		"weapon_name": "Con Tenerezza",
+		"weapon_id": "1040029300"
 	}
 ]
