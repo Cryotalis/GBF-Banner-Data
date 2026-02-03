@@ -1,5 +1,29 @@
 [
 	{
+		"path": "/2026/February/210850.json",
+		"id": "210850",
+		"key": "548nepub",
+		"start": "7 p.m., Feb 3, 2026 (JST)",
+		"end": "6:59 p.m., Feb 6, 2026 (JST)",
+		"featuredItemIDs": [
+			"1040029300",
+			"1040122700",
+			"1040423700",
+			"1040027600"
+		],
+		"seasons": [],
+		"series": [
+			"Fantasy"
+		],
+		"totalRate1": 99.834,
+		"totalRate2": 99.846,
+		"drawRates": {
+			"SS Rare": "3.00%",
+			"S Rare": "15.00%",
+			"Rare": "82.00%"
+		}
+	},
+	{
 		"path": "/2026/January/210840.json",
 		"id": "210840",
 		"key": "4bb32zpc",
