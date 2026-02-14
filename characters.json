@@ -16314,5 +16314,51 @@
 		"voice_actor": "Chinatsu Akasaki",
 		"weapon_name": "Con Tenerezza",
 		"weapon_id": "1040029300"
+	},
+	{
+		"number": "772",
+		"id": "3040639000",
+		"name": "Wamdus",
+		"short_name": "Wamdus",
+		"style": "Special",
+		"rarity": "SS Rare",
+		"element": "Dark",
+		"uncaps": 4,
+		"specialties": [
+			"Staff",
+			"Axe"
+		],
+		"series": [
+			"Valentine"
+		],
+		"races": [
+			"Harvin"
+		],
+		"voice_actor": "Maria Naganawa",
+		"weapon_name": "Dreamy Mendiant",
+		"weapon_id": "1040818100"
+	},
+	{
+		"number": "773",
+		"id": "3040640000",
+		"name": "Gawain",
+		"short_name": "Gawain",
+		"style": "Attack",
+		"rarity": "SS Rare",
+		"element": "Water",
+		"uncaps": 4,
+		"specialties": [
+			"Axe",
+			"Spear"
+		],
+		"series": [
+			"Valentine"
+		],
+		"races": [
+			"Human"
+		],
+		"voice_actor": "Tomokazu Seki",
+		"weapon_name": "Bipenne Galante",
+		"weapon_id": "1040319800"
 	}
 ]
